@@ -2,6 +2,17 @@
   "version": "1.0.0",
   "translations": [
     {
+      "slug": "sahih",
+      "name": "Saheeh International",
+      "translator": "Emily Assami, Mary Kennedy, Amatullah Bantley",
+      "year": 1997,
+      "status": "restricted",
+      "commercial_ok": false,
+      "interpolation_density": "high",
+      "interpolated_spans": 4668,
+      "note": "Commonly described as free for NON-COMMERCIAL Islamic educational use. Donations, advertising, or any paid tier would fall outside that. Confirm terms with Abul Qasim Publishing House before monetising the site."
+    },
+    {
       "slug": "pickthall",
       "name": "The Meaning of the Glorious Koran",
       "translator": "Marmaduke Pickthall",
@@ -99,6 +110,39 @@
       "interpolation_density": "medium",
       "interpolated_spans": 2064,
       "note": "Copyright status contested; widely alleged to derive from earlier translations. Included for comparison only."
+    },
+    {
+      "slug": "sahih",
+      "name": "Saheeh International",
+      "translator": "Umm Muhammad (Emily Assami), Mary Kennedy, Amatullah Bantley",
+      "year": 1997,
+      "status": "restricted",
+      "commercial_ok": false,
+      "interpolation_density": "high",
+      "interpolated_spans": 4668,
+      "note": "Copyright Dar Abul Qasim. Commonly described as free for NON-COMMERCIAL Islamic educational use. Ads, paid tiers, or arguably donations fall outside that. Confirm before monetising anything."
+    },
+    {
+      "slug": "clearquran-god",
+      "name": "The Clear Quran (God edition)",
+      "translator": "Mustafa Khattab",
+      "year": 2015,
+      "status": "copyrighted",
+      "commercial_ok": false,
+      "interpolation_density": "high",
+      "interpolated_spans": 5776,
+      "note": "Copyright Book of Signs Foundation. Actively enforced; the quran.com licence does not extend to third parties. Written permission required. Renders the divine name as God."
+    },
+    {
+      "slug": "clearquran-allah",
+      "name": "The Clear Quran (Allah edition)",
+      "translator": "Mustafa Khattab",
+      "year": 2015,
+      "status": "copyrighted",
+      "commercial_ok": false,
+      "interpolation_density": "high",
+      "interpolated_spans": 5776,
+      "note": "Copyright Book of Signs Foundation. Actively enforced; the quran.com licence does not extend to third parties. Written permission required. Renders the divine name as Allah."
     }
   ]
 }

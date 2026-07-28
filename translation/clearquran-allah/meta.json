@@ -1,0 +1,16 @@
+{
+  "slug": "clearquran-allah",
+  "name": "The Clear Quran (Allah edition)",
+  "translator": "Mustafa Khattab",
+  "year": 2015,
+  "language": "en",
+  "status": "copyrighted",
+  "commercial_ok": false,
+  "source": "Tanzil Project via fawazahmed0/quran-api",
+  "attribution": "Mustafa Khattab, The Clear Quran (Allah edition) (2015).",
+  "verse_count": 6236,
+  "segmented": true,
+  "interpolated_spans": 5776,
+  "interpolation_density": "high",
+  "note": "Copyright Book of Signs Foundation. Actively enforced; the quran.com licence does not extend to third parties. Written permission required. Renders the divine name as Allah."
+}

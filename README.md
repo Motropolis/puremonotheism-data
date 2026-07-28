@@ -10,8 +10,8 @@ stored in the app database.
 | Path | Contents | Status |
 |---|---|---|
 | `/translation/{slug}/` | 9 English translations, 6,236 verses each, segmented | **complete** |
-| `/meta/` | Surah list, root index, translation catalog | sample |
-| `/surah/` | Arabic text + word-by-word morphology | sample |
+| `/meta/` | Surah list (114), root index, translation catalog | surahs complete |
+| `/surah/` | Arabic Uthmani text, word-split, + search field | **complete** |
 | `/root/` | Pre-built root concordance | sample |
 | `/lexicon/` | Lane's Lexicon keyed by root | sample |
 | `/audio/` | Ayah recitation + word timestamps | deferred |

@@ -10,7 +10,7 @@
   "attribution": "Shabbir Ahmed, The Qur'an As It Explains Itself (2003).",
   "verse_count": 6236,
   "segmented": true,
-  "interpolated_spans": 3959,
+  "interpolated_spans": 4615,
   "interpolation_density": "high",
   "note": "Expansive, self-referential method. High word count per verse; much explanatory material is unbracketed and will NOT be caught by segmentation."
 }

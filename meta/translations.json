@@ -31,7 +31,7 @@
       "status": "public-domain",
       "commercial_ok": true,
       "interpolation_density": "high",
-      "interpolated_spans": 5313,
+      "interpolated_spans": 5326,
       "note": "Original edition, not the 1946 Al-Rawaf printing or the King Fahd revision. Footnotes excluded."
     },
     {
@@ -53,7 +53,7 @@
       "status": "verify",
       "commercial_ok": null,
       "interpolation_density": "high",
-      "interpolated_spans": 3959,
+      "interpolated_spans": 4615,
       "note": "Expansive, self-referential method. High word count per verse; much explanatory material is unbracketed and will NOT be caught by segmentation."
     },
     {
@@ -108,7 +108,7 @@
       "status": "disputed",
       "commercial_ok": null,
       "interpolation_density": "medium",
-      "interpolated_spans": 2064,
+      "interpolated_spans": 2065,
       "note": "Copyright status contested; widely alleged to derive from earlier translations. Included for comparison only."
     },
     {
@@ -130,7 +130,7 @@
       "status": "copyrighted",
       "commercial_ok": false,
       "interpolation_density": "high",
-      "interpolated_spans": 5776,
+      "interpolated_spans": 5777,
       "note": "Copyright Book of Signs Foundation. Actively enforced; the quran.com licence does not extend to third parties. Written permission required. Renders the divine name as God."
     },
     {
@@ -141,7 +141,7 @@
       "status": "copyrighted",
       "commercial_ok": false,
       "interpolation_density": "high",
-      "interpolated_spans": 5776,
+      "interpolated_spans": 5777,
       "note": "Copyright Book of Signs Foundation. Actively enforced; the quran.com licence does not extend to third parties. Written permission required. Renders the divine name as Allah."
     }
   ]

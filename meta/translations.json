@@ -10,7 +10,8 @@
       "commercial_ok": false,
       "interpolation_density": "high",
       "interpolated_spans": 4668,
-      "note": "Commonly described as free for NON-COMMERCIAL Islamic educational use. Donations, advertising, or any paid tier would fall outside that. Confirm terms with Abul Qasim Publishing House before monetising the site."
+      "note": "Commonly described as free for NON-COMMERCIAL Islamic educational use. Donations, advertising, or any paid tier would fall outside that. Confirm terms with Abul Qasim Publishing House before monetising the site.",
+      "short": "Saheeh International"
     },
     {
       "slug": "pickthall",
@@ -21,7 +22,8 @@
       "commercial_ok": true,
       "interpolation_density": "medium",
       "interpolated_spans": 2973,
-      "note": "Almost literal. Author died 1936; text is public domain."
+      "note": "Almost literal. Author died 1936; text is public domain.",
+      "short": "Pickthall"
     },
     {
       "slug": "yusufali",
@@ -32,7 +34,8 @@
       "commercial_ok": true,
       "interpolation_density": "high",
       "interpolated_spans": 5326,
-      "note": "Original edition, not the 1946 Al-Rawaf printing or the King Fahd revision. Footnotes excluded."
+      "note": "Original edition, not the 1946 Al-Rawaf printing or the King Fahd revision. Footnotes excluded.",
+      "short": "Yusuf Ali"
     },
     {
       "slug": "monotheist",
@@ -43,18 +46,8 @@
       "commercial_ok": null,
       "interpolation_density": "very-low",
       "interpolated_spans": 0,
-      "note": "Translated on Quran-alone principles; renders terms from internal usage rather than classical tafsir. Confirm redistribution terms with the publisher."
-    },
-    {
-      "slug": "shabbirahmed",
-      "name": "The Qur'an As It Explains Itself",
-      "translator": "Shabbir Ahmed",
-      "year": 2003,
-      "status": "verify",
-      "commercial_ok": null,
-      "interpolation_density": "high",
-      "interpolated_spans": 4615,
-      "note": "Expansive, self-referential method. High word count per verse; much explanatory material is unbracketed and will NOT be caught by segmentation."
+      "note": "Translated on Quran-alone principles; renders terms from internal usage rather than classical tafsir. Confirm redistribution terms with the publisher.",
+      "short": "The Monotheist Group"
     },
     {
       "slug": "itani",
@@ -65,40 +58,44 @@
       "commercial_ok": null,
       "interpolation_density": "very-low",
       "interpolated_spans": 0,
-      "note": "Plain modern English, very low interpolation. Widely described as freely distributable; confirm before shipping."
+      "note": "Plain modern English, very low interpolation. Widely described as freely distributable; confirm before shipping.",
+      "short": "Itani"
     },
     {
-      "slug": "sale",
-      "name": "The Koran",
-      "translator": "George Sale",
-      "year": 1734,
-      "status": "public-domain",
-      "commercial_ok": true,
-      "interpolation_density": "very-low",
-      "interpolated_spans": 11,
-      "note": "Historical interest. Archaic and polemical framing."
+      "slug": "shabbirahmed",
+      "name": "The Qur'an As It Explains Itself",
+      "translator": "Shabbir Ahmed",
+      "year": 2003,
+      "status": "verify",
+      "commercial_ok": null,
+      "interpolation_density": "high",
+      "interpolated_spans": 4615,
+      "note": "Expansive, self-referential method. High word count per verse; much explanatory material is unbracketed and will NOT be caught by segmentation.",
+      "short": "Shabbir Ahmed"
     },
     {
-      "slug": "rodwell",
-      "name": "The Koran",
-      "translator": "John Medows Rodwell",
-      "year": 1861,
-      "status": "public-domain",
-      "commercial_ok": true,
-      "interpolation_density": "very-low",
-      "interpolated_spans": 140,
-      "note": "Historical interest. Reorders surahs in print; this dataset uses standard order."
+      "slug": "clearquran-allah",
+      "name": "The Clear Quran — divine name as “Allah”",
+      "translator": "Mustafa Khattab",
+      "year": 2015,
+      "status": "copyrighted",
+      "commercial_ok": false,
+      "interpolation_density": "high",
+      "interpolated_spans": 5777,
+      "note": "Copyright Book of Signs Foundation. Actively enforced; the quran.com licence does not extend to third parties. Written permission required. Renders the divine name as Allah.",
+      "short": "Khattab (Allah)"
     },
     {
-      "slug": "palmer",
-      "name": "The Qur'an",
-      "translator": "Edward Henry Palmer",
-      "year": 1880,
-      "status": "public-domain",
-      "commercial_ok": true,
-      "interpolation_density": "very-low",
-      "interpolated_spans": 269,
-      "note": "Historical interest."
+      "slug": "clearquran-god",
+      "name": "The Clear Quran — divine name as “God”",
+      "translator": "Mustafa Khattab",
+      "year": 2015,
+      "status": "copyrighted",
+      "commercial_ok": false,
+      "interpolation_density": "high",
+      "interpolated_spans": 5777,
+      "note": "Copyright Book of Signs Foundation. Actively enforced; the quran.com licence does not extend to third parties. Written permission required. Renders the divine name as God.",
+      "short": "Khattab (God)"
     },
     {
       "slug": "shakir",
@@ -109,40 +106,44 @@
       "commercial_ok": null,
       "interpolation_density": "medium",
       "interpolated_spans": 2065,
-      "note": "Copyright status contested; widely alleged to derive from earlier translations. Included for comparison only."
+      "note": "Copyright status contested; widely alleged to derive from earlier translations. Included for comparison only.",
+      "short": "Shakir"
     },
     {
-      "slug": "sahih",
-      "name": "Saheeh International",
-      "translator": "Umm Muhammad (Emily Assami), Mary Kennedy, Amatullah Bantley",
-      "year": 1997,
-      "status": "restricted",
-      "commercial_ok": false,
-      "interpolation_density": "high",
-      "interpolated_spans": 4668,
-      "note": "Copyright Dar Abul Qasim. Commonly described as free for NON-COMMERCIAL Islamic educational use. Ads, paid tiers, or arguably donations fall outside that. Confirm before monetising anything."
+      "slug": "sale",
+      "name": "The Koran",
+      "translator": "George Sale",
+      "year": 1734,
+      "status": "public-domain",
+      "commercial_ok": true,
+      "interpolation_density": "very-low",
+      "interpolated_spans": 11,
+      "note": "Historical interest. Archaic and polemical framing.",
+      "short": "Sale"
     },
     {
-      "slug": "clearquran-god",
-      "name": "The Clear Quran (God edition)",
-      "translator": "Mustafa Khattab",
-      "year": 2015,
-      "status": "copyrighted",
-      "commercial_ok": false,
-      "interpolation_density": "high",
-      "interpolated_spans": 5777,
-      "note": "Copyright Book of Signs Foundation. Actively enforced; the quran.com licence does not extend to third parties. Written permission required. Renders the divine name as God."
+      "slug": "rodwell",
+      "name": "The Koran",
+      "translator": "John Medows Rodwell",
+      "year": 1861,
+      "status": "public-domain",
+      "commercial_ok": true,
+      "interpolation_density": "very-low",
+      "interpolated_spans": 140,
+      "note": "Historical interest. Reorders surahs in print; this dataset uses standard order.",
+      "short": "Rodwell"
     },
     {
-      "slug": "clearquran-allah",
-      "name": "The Clear Quran (Allah edition)",
-      "translator": "Mustafa Khattab",
-      "year": 2015,
-      "status": "copyrighted",
-      "commercial_ok": false,
-      "interpolation_density": "high",
-      "interpolated_spans": 5777,
-      "note": "Copyright Book of Signs Foundation. Actively enforced; the quran.com licence does not extend to third parties. Written permission required. Renders the divine name as Allah."
+      "slug": "palmer",
+      "name": "The Qur'an",
+      "translator": "Edward Henry Palmer",
+      "year": 1880,
+      "status": "public-domain",
+      "commercial_ok": true,
+      "interpolation_density": "very-low",
+      "interpolated_spans": 269,
+      "note": "Historical interest.",
+      "short": "Palmer"
     }
   ]
 }

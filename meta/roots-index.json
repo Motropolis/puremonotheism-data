@@ -1,0 +1,14 @@
+{
+  "_sample": "Illustrative. Full file carries roughly 1,651 roots. Loaded once for search and autocomplete.",
+  "version": "1.0.0",
+  "roots": [
+    { "r": "rHm", "ar": "ر ح م", "n": 339, "g": "mercy, compassion, womb" },
+    { "r": "ktb", "ar": "ك ت ب", "n": 319, "g": "write, prescribe, decree" },
+    { "r": "Elm", "ar": "ع ل م", "n": 854, "g": "know, sign, world" },
+    { "r": "slm", "ar": "س ل م", "n": 157, "g": "peace, submission, soundness" },
+    { "r": "rbb", "ar": "ر ب ب", "n": 980, "g": "lord, nurture, sustain" },
+    { "r": "qwl", "ar": "ق و ل", "n": 1722, "g": "say, speech, word" },
+    { "r": "smw", "ar": "س م و", "n": 381, "g": "name, height, heaven" },
+    { "r": "Hmd", "ar": "ح م د", "n": 68, "g": "praise" }
+  ]
+}

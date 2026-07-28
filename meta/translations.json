@@ -1,0 +1,104 @@
+{
+  "version": "1.0.0",
+  "translations": [
+    {
+      "slug": "pickthall",
+      "name": "The Meaning of the Glorious Koran",
+      "translator": "Marmaduke Pickthall",
+      "year": 1930,
+      "status": "public-domain",
+      "commercial_ok": true,
+      "interpolation_density": "medium",
+      "interpolated_spans": 2973,
+      "note": "Almost literal. Author died 1936; text is public domain."
+    },
+    {
+      "slug": "yusufali",
+      "name": "The Holy Qur'an",
+      "translator": "Abdullah Yusuf Ali",
+      "year": 1934,
+      "status": "public-domain",
+      "commercial_ok": true,
+      "interpolation_density": "high",
+      "interpolated_spans": 5313,
+      "note": "Original edition, not the 1946 Al-Rawaf printing or the King Fahd revision. Footnotes excluded."
+    },
+    {
+      "slug": "monotheist",
+      "name": "The Quran: A Monotheist Translation",
+      "translator": "The Monotheist Group",
+      "year": 2007,
+      "status": "verify",
+      "commercial_ok": null,
+      "interpolation_density": "very-low",
+      "interpolated_spans": 0,
+      "note": "Translated on Quran-alone principles; renders terms from internal usage rather than classical tafsir. Confirm redistribution terms with the publisher."
+    },
+    {
+      "slug": "shabbirahmed",
+      "name": "The Qur'an As It Explains Itself",
+      "translator": "Shabbir Ahmed",
+      "year": 2003,
+      "status": "verify",
+      "commercial_ok": null,
+      "interpolation_density": "high",
+      "interpolated_spans": 3959,
+      "note": "Expansive, self-referential method. High word count per verse; much explanatory material is unbracketed and will NOT be caught by segmentation."
+    },
+    {
+      "slug": "itani",
+      "name": "Quran in English",
+      "translator": "Talal Itani",
+      "year": 2012,
+      "status": "verify",
+      "commercial_ok": null,
+      "interpolation_density": "very-low",
+      "interpolated_spans": 0,
+      "note": "Plain modern English, very low interpolation. Widely described as freely distributable; confirm before shipping."
+    },
+    {
+      "slug": "sale",
+      "name": "The Koran",
+      "translator": "George Sale",
+      "year": 1734,
+      "status": "public-domain",
+      "commercial_ok": true,
+      "interpolation_density": "very-low",
+      "interpolated_spans": 11,
+      "note": "Historical interest. Archaic and polemical framing."
+    },
+    {
+      "slug": "rodwell",
+      "name": "The Koran",
+      "translator": "John Medows Rodwell",
+      "year": 1861,
+      "status": "public-domain",
+      "commercial_ok": true,
+      "interpolation_density": "very-low",
+      "interpolated_spans": 140,
+      "note": "Historical interest. Reorders surahs in print; this dataset uses standard order."
+    },
+    {
+      "slug": "palmer",
+      "name": "The Qur'an",
+      "translator": "Edward Henry Palmer",
+      "year": 1880,
+      "status": "public-domain",
+      "commercial_ok": true,
+      "interpolation_density": "very-low",
+      "interpolated_spans": 269,
+      "note": "Historical interest."
+    },
+    {
+      "slug": "shakir",
+      "name": "The Holy Qur'an",
+      "translator": "M. H. Shakir",
+      "year": 1980,
+      "status": "disputed",
+      "commercial_ok": null,
+      "interpolation_density": "medium",
+      "interpolated_spans": 2064,
+      "note": "Copyright status contested; widely alleged to derive from earlier translations. Included for comparison only."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "rodwell",
+  "name": "The Koran",
+  "translator": "John Medows Rodwell",
+  "year": 1861,
+  "language": "en",
+  "status": "public-domain",
+  "commercial_ok": true,
+  "source": "Tanzil Project via fawazahmed0/quran-api",
+  "attribution": "John Medows Rodwell, The Koran (1861).",
+  "verse_count": 6236,
+  "segmented": true,
+  "interpolated_spans": 140,
+  "interpolation_density": "very-low",
+  "note": "Historical interest. Reorders surahs in print; this dataset uses standard order."
+}

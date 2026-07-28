@@ -1,0 +1,16 @@
+{
+  "slug": "shakir",
+  "name": "The Holy Qur'an",
+  "translator": "M. H. Shakir",
+  "year": 1980,
+  "language": "en",
+  "status": "disputed",
+  "commercial_ok": null,
+  "source": "Tanzil Project via fawazahmed0/quran-api",
+  "attribution": "M. H. Shakir, The Holy Qur'an (1980).",
+  "verse_count": 6236,
+  "segmented": true,
+  "interpolated_spans": 2064,
+  "interpolation_density": "medium",
+  "note": "Copyright status contested; widely alleged to derive from earlier translations. Included for comparison only."
+}

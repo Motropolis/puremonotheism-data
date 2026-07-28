@@ -1,0 +1,16 @@
+{
+  "slug": "monotheist",
+  "name": "The Quran: A Monotheist Translation",
+  "translator": "The Monotheist Group",
+  "year": 2007,
+  "language": "en",
+  "status": "verify",
+  "commercial_ok": null,
+  "source": "Tanzil Project via fawazahmed0/quran-api",
+  "attribution": "The Monotheist Group, The Quran: A Monotheist Translation (2007).",
+  "verse_count": 6236,
+  "segmented": true,
+  "interpolated_spans": 0,
+  "interpolation_density": "very-low",
+  "note": "Translated on Quran-alone principles; renders terms from internal usage rather than classical tafsir. Confirm redistribution terms with the publisher."
+}

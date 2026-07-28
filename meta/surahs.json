@@ -1,0 +1,9 @@
+{
+  "_sample": "Illustrative. Full file carries all 114.",
+  "version": "1.0.0",
+  "surahs": [
+    { "id": 1, "name_ar": "الفاتحة", "name_en": "The Opening", "translit": "Al-Fatihah", "verses": 7, "order_revealed": 5 },
+    { "id": 2, "name_ar": "البقرة", "name_en": "The Cow", "translit": "Al-Baqarah", "verses": 286, "order_revealed": 87 },
+    { "id": 114, "name_ar": "الناس", "name_en": "Mankind", "translit": "An-Nas", "verses": 6, "order_revealed": 21 }
+  ]
+}

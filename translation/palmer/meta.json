@@ -1,0 +1,16 @@
+{
+  "slug": "palmer",
+  "name": "The Qur'an",
+  "translator": "Edward Henry Palmer",
+  "year": 1880,
+  "language": "en",
+  "status": "public-domain",
+  "commercial_ok": true,
+  "source": "Tanzil Project via fawazahmed0/quran-api",
+  "attribution": "Edward Henry Palmer, The Qur'an (1880).",
+  "verse_count": 6236,
+  "segmented": true,
+  "interpolated_spans": 269,
+  "interpolation_density": "very-low",
+  "note": "Historical interest."
+}

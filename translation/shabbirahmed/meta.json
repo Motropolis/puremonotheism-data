@@ -1,0 +1,16 @@
+{
+  "slug": "shabbirahmed",
+  "name": "The Qur'an As It Explains Itself",
+  "translator": "Shabbir Ahmed",
+  "year": 2003,
+  "language": "en",
+  "status": "verify",
+  "commercial_ok": null,
+  "source": "Tanzil Project via fawazahmed0/quran-api",
+  "attribution": "Shabbir Ahmed, The Qur'an As It Explains Itself (2003).",
+  "verse_count": 6236,
+  "segmented": true,
+  "interpolated_spans": 3959,
+  "interpolation_density": "high",
+  "note": "Expansive, self-referential method. High word count per verse; much explanatory material is unbracketed and will NOT be caught by segmentation."
+}

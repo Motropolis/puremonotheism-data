@@ -1,0 +1,16 @@
+{
+  "slug": "pickthall",
+  "name": "The Meaning of the Glorious Koran",
+  "translator": "Marmaduke Pickthall",
+  "year": 1930,
+  "language": "en",
+  "status": "public-domain",
+  "commercial_ok": true,
+  "source": "Tanzil Project via fawazahmed0/quran-api",
+  "attribution": "Marmaduke Pickthall, The Meaning of the Glorious Koran (1930).",
+  "verse_count": 6236,
+  "segmented": true,
+  "interpolated_spans": 2973,
+  "interpolation_density": "medium",
+  "note": "Almost literal. Author died 1936; text is public domain."
+}

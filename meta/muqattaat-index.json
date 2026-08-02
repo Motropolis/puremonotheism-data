@@ -1,0 +1,139 @@
+{
+ "count": 14,
+ "sets": [
+  {
+   "k": "muq-ha-mim",
+   "ar": "حمٓ",
+   "letters": [
+    "ha",
+    "mim"
+   ],
+   "n": 7
+  },
+  {
+   "k": "muq-alif-lam-mim",
+   "ar": "الٓمٓ",
+   "letters": [
+    "alif",
+    "lam",
+    "mim"
+   ],
+   "n": 6
+  },
+  {
+   "k": "muq-alif-lam-ra",
+   "ar": "الٓرۚ",
+   "letters": [
+    "alif",
+    "lam",
+    "ra"
+   ],
+   "n": 5
+  },
+  {
+   "k": "muq-ta-sin-mim",
+   "ar": "طسٓمٓ",
+   "letters": [
+    "ta",
+    "sin",
+    "mim"
+   ],
+   "n": 2
+  },
+  {
+   "k": "muq-alif-lam-mim-sad",
+   "ar": "الٓمٓصٓ",
+   "letters": [
+    "alif",
+    "lam",
+    "mim",
+    "sad"
+   ],
+   "n": 1
+  },
+  {
+   "k": "muq-alif-lam-mim-ra",
+   "ar": "الٓمٓرۚ",
+   "letters": [
+    "alif",
+    "lam",
+    "mim",
+    "ra"
+   ],
+   "n": 1
+  },
+  {
+   "k": "muq-kaf-ha-ya-ayn-sad",
+   "ar": "كٓهيعٓصٓ",
+   "letters": [
+    "kaf",
+    "ha",
+    "ya",
+    "ayn",
+    "sad"
+   ],
+   "n": 1
+  },
+  {
+   "k": "muq-ta-ha",
+   "ar": "طه",
+   "letters": [
+    "ta",
+    "ha"
+   ],
+   "n": 1
+  },
+  {
+   "k": "muq-ta-sin",
+   "ar": "طسٓۚ",
+   "letters": [
+    "ta",
+    "sin"
+   ],
+   "n": 1
+  },
+  {
+   "k": "muq-ya-sin",
+   "ar": "يسٓ",
+   "letters": [
+    "ya",
+    "sin"
+   ],
+   "n": 1
+  },
+  {
+   "k": "muq-sad",
+   "ar": "صٓۚ",
+   "letters": [
+    "sad"
+   ],
+   "n": 1
+  },
+  {
+   "k": "muq-ayn-sin-qaf",
+   "ar": "عٓسٓقٓ",
+   "letters": [
+    "ayn",
+    "sin",
+    "qaf"
+   ],
+   "n": 1
+  },
+  {
+   "k": "muq-qaf",
+   "ar": "قٓۚ",
+   "letters": [
+    "qaf"
+   ],
+   "n": 1
+  },
+  {
+   "k": "muq-nun",
+   "ar": "نٓۚ",
+   "letters": [
+    "nun"
+   ],
+   "n": 1
+  }
+ ]
+}

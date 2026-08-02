@@ -1,0 +1,71 @@
+{
+ "count": 11,
+ "pronouns": [
+  {
+   "k": "pron-3ms",
+   "code": "3MS",
+   "name": "he / it / him",
+   "n": 1118
+  },
+  {
+   "k": "pron-3mp",
+   "code": "3MP",
+   "name": "they / them (masculine)",
+   "n": 906
+  },
+  {
+   "k": "pron-2mp",
+   "code": "2MP",
+   "name": "you (masculine plural)",
+   "n": 530
+  },
+  {
+   "k": "pron-3fs",
+   "code": "3FS",
+   "name": "she / it / her",
+   "n": 189
+  },
+  {
+   "k": "pron-1p",
+   "code": "1P",
+   "name": "we / us",
+   "n": 174
+  },
+  {
+   "k": "pron-2ms",
+   "code": "2MS",
+   "name": "you (masculine singular)",
+   "n": 161
+  },
+  {
+   "k": "pron-1s",
+   "code": "1S",
+   "name": "I / me",
+   "n": 146
+  },
+  {
+   "k": "pron-3fp",
+   "code": "3FP",
+   "name": "they / them (feminine)",
+   "n": 27
+  },
+  {
+   "k": "pron-3d",
+   "code": "3D",
+   "name": "3rd person dual pronoun",
+   "n": 16
+  },
+  {
+   "k": "pron-2d",
+   "code": "2D",
+   "name": "2nd person dual pronoun",
+   "n": 8
+  },
+  {
+   "k": "pron-2fs",
+   "code": "2FS",
+   "name": "you (feminine singular)",
+   "n": 2
+  }
+ ]
+}

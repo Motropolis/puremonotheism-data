@@ -1,16 +1,16 @@
 {
   "slug": "sahih",
   "name": "Saheeh International",
-  "translator": "Umm Muhammad (Emily Assami), Mary Kennedy, Amatullah Bantley",
+  "translator": "Emily Assami, Mary Kennedy, Amatullah Bantley",
   "year": 1997,
   "language": "en",
   "status": "restricted",
   "commercial_ok": false,
   "source": "Tanzil Project via fawazahmed0/quran-api",
-  "attribution": "Umm Muhammad (Emily Assami), Mary Kennedy, Amatullah Bantley, Saheeh International (1997).",
+  "attribution": "Emily Assami, Mary Kennedy, Amatullah Bantley, Saheeh International (1997).",
   "verse_count": 6236,
   "segmented": true,
   "interpolated_spans": 4668,
   "interpolation_density": "high",
-  "note": "Copyright Dar Abul Qasim. Commonly described as free for NON-COMMERCIAL Islamic educational use. Ads, paid tiers, or arguably donations fall outside that. Confirm before monetising anything."
+  "note": "Commonly described as free for NON-COMMERCIAL Islamic educational use. Donations, advertising, or any paid tier would fall outside that. Confirm terms with Abul Qasim Publishing House before monetising the site."
 }

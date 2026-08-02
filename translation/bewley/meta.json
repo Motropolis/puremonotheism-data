@@ -1,0 +1,16 @@
+{
+  "slug": "bewley",
+  "name": "The Noble Quran: A New Rendering",
+  "translator": "Aisha Bewley and Abdalhaqq Bewley",
+  "year": 1999,
+  "language": "en",
+  "status": "verify",
+  "commercial_ok": null,
+  "source": "Tanzil Project via fawazahmed0/quran-api",
+  "attribution": "Aisha Bewley and Abdalhaqq Bewley, The Noble Quran: A New Rendering (1999).",
+  "verse_count": 6236,
+  "segmented": true,
+  "interpolated_spans": 5,
+  "interpolation_density": "very-low",
+  "note": "0.001 interpolated spans per verse, effectively none. Modern readable English. Confirm redistribution terms with the publisher."
+}

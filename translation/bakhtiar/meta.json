@@ -1,0 +1,16 @@
+{
+  "slug": "bakhtiar",
+  "name": "The Sublime Quran",
+  "translator": "Laleh Bakhtiar",
+  "year": 2007,
+  "language": "en",
+  "status": "copyrighted",
+  "commercial_ok": false,
+  "source": "Tanzil Project via fawazahmed0/quran-api",
+  "attribution": "Laleh Bakhtiar, The Sublime Quran (2007).",
+  "verse_count": 6236,
+  "segmented": true,
+  "interpolated_spans": 289,
+  "interpolation_density": "very-low",
+  "note": "Renders each Arabic root by a consistent English word throughout, which makes translator consistency auditable against the root data. Marks her own additions with carets. Copyrighted; permission required."
+}

@@ -2,42 +2,6 @@
   "version": "1.0.0",
   "translations": [
     {
-      "slug": "sahih",
-      "name": "Saheeh International",
-      "translator": "Emily Assami, Mary Kennedy, Amatullah Bantley",
-      "year": 1997,
-      "status": "restricted",
-      "commercial_ok": false,
-      "interpolation_density": "high",
-      "interpolated_spans": 4668,
-      "note": "Commonly described as free for NON-COMMERCIAL Islamic educational use. Donations, advertising, or any paid tier would fall outside that. Confirm terms with Abul Qasim Publishing House before monetising the site.",
-      "short": "Saheeh International"
-    },
-    {
-      "slug": "pickthall",
-      "name": "The Meaning of the Glorious Koran",
-      "translator": "Marmaduke Pickthall",
-      "year": 1930,
-      "status": "public-domain",
-      "commercial_ok": true,
-      "interpolation_density": "medium",
-      "interpolated_spans": 2973,
-      "note": "Almost literal. Author died 1936; text is public domain.",
-      "short": "Pickthall"
-    },
-    {
-      "slug": "yusufali",
-      "name": "The Holy Qur'an",
-      "translator": "Abdullah Yusuf Ali",
-      "year": 1934,
-      "status": "public-domain",
-      "commercial_ok": true,
-      "interpolation_density": "high",
-      "interpolated_spans": 5326,
-      "note": "Original edition, not the 1946 Al-Rawaf printing or the King Fahd revision. Footnotes excluded.",
-      "short": "Yusuf Ali"
-    },
-    {
       "slug": "monotheist",
       "name": "The Quran: A Monotheist Translation",
       "translator": "The Monotheist Group",
@@ -60,6 +24,78 @@
       "interpolated_spans": 0,
       "note": "Plain modern English, very low interpolation. Widely described as freely distributable; confirm before shipping.",
       "short": "Itani"
+    },
+    {
+      "slug": "bewley",
+      "name": "The Noble Quran: A New Rendering",
+      "translator": "Aisha Bewley and Abdalhaqq Bewley",
+      "year": 1999,
+      "status": "verify",
+      "commercial_ok": null,
+      "interpolation_density": "very-low",
+      "interpolated_spans": 5,
+      "note": "0.001 interpolated spans per verse, effectively none. Modern readable English. Confirm redistribution terms with the publisher.",
+      "short": "Bewley"
+    },
+    {
+      "slug": "arberry",
+      "name": "The Koran Interpreted",
+      "translator": "A. J. Arberry",
+      "year": 1955,
+      "status": "verify",
+      "commercial_ok": null,
+      "interpolation_density": "very-low",
+      "interpolated_spans": 21,
+      "note": "Measured at 0.003 interpolated spans per verse, among the lowest of any translation. Arberry deliberately declined to add explanatory material and aimed to carry the rhetorical shape of the Arabic. Author died 1969; confirm copyright status before shipping.",
+      "short": "Arberry"
+    },
+    {
+      "slug": "bakhtiar",
+      "name": "The Sublime Quran",
+      "translator": "Laleh Bakhtiar",
+      "year": 2007,
+      "status": "copyrighted",
+      "commercial_ok": false,
+      "interpolation_density": "very-low",
+      "interpolated_spans": 289,
+      "note": "Renders each Arabic root by a consistent English word throughout, which makes translator consistency auditable against the root data. Marks her own additions with carets. Copyrighted; permission required.",
+      "short": "Bakhtiar"
+    },
+    {
+      "slug": "pickthall",
+      "name": "The Meaning of the Glorious Koran",
+      "translator": "Marmaduke Pickthall",
+      "year": 1930,
+      "status": "public-domain",
+      "commercial_ok": true,
+      "interpolation_density": "medium",
+      "interpolated_spans": 2973,
+      "note": "Almost literal. Author died 1936; text is public domain.",
+      "short": "Pickthall"
+    },
+    {
+      "slug": "sahih",
+      "name": "Saheeh International",
+      "translator": "Emily Assami, Mary Kennedy, Amatullah Bantley",
+      "year": 1997,
+      "status": "restricted",
+      "commercial_ok": false,
+      "interpolation_density": "high",
+      "interpolated_spans": 4668,
+      "note": "Commonly described as free for NON-COMMERCIAL Islamic educational use. Donations, advertising, or any paid tier would fall outside that. Confirm terms with Abul Qasim Publishing House before monetising the site.",
+      "short": "Saheeh International"
+    },
+    {
+      "slug": "yusufali",
+      "name": "The Holy Qur'an",
+      "translator": "Abdullah Yusuf Ali",
+      "year": 1934,
+      "status": "public-domain",
+      "commercial_ok": true,
+      "interpolation_density": "high",
+      "interpolated_spans": 5326,
+      "note": "Original edition, not the 1946 Al-Rawaf printing or the King Fahd revision. Footnotes excluded.",
+      "short": "Yusuf Ali"
     },
     {
       "slug": "shabbirahmed",

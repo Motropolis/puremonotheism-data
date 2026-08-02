@@ -1,0 +1,16 @@
+{
+  "slug": "arberry",
+  "name": "The Koran Interpreted",
+  "translator": "A. J. Arberry",
+  "year": 1955,
+  "language": "en",
+  "status": "verify",
+  "commercial_ok": null,
+  "source": "Tanzil Project via fawazahmed0/quran-api",
+  "attribution": "A. J. Arberry, The Koran Interpreted (1955).",
+  "verse_count": 6236,
+  "segmented": true,
+  "interpolated_spans": 21,
+  "interpolation_density": "very-low",
+  "note": "Measured at 0.003 interpolated spans per verse, among the lowest of any translation. Arberry deliberately declined to add explanatory material and aimed to carry the rhetorical shape of the Arabic. Author died 1969; confirm copyright status before shipping."
+}

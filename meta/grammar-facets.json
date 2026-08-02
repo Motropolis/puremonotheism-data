@@ -1,0 +1,53 @@
+{
+ "facets": {
+  "pos": {
+   "noun": 41053,
+   "particle": 16968,
+   "verb": 19334
+  },
+  "gender": {
+   "feminine": 6553,
+   "masculine": 36572
+  },
+  "case": {
+   "accusative": 10523,
+   "genitive": 12616,
+   "nominative": 8801
+  },
+  "type": {
+   "active participle": 2710,
+   "adjective": 1955,
+   "conjunction": 742,
+   "negation": 2691,
+   "passive participle": 463,
+   "proper noun": 3908
+  },
+  "number": {
+   "dual": 329,
+   "plural": 14159,
+   "singular": 14468
+  },
+  "verb_form": {
+   "I": 12307,
+   "II": 1298,
+   "III": 337,
+   "IV": 3498,
+   "IX": 5,
+   "V": 412,
+   "VI": 91,
+   "VII": 51,
+   "VIII": 962,
+   "X": 369
+  },
+  "tense": {
+   "imperative": 1872,
+   "imperfect": 8322,
+   "perfect": 17458
+  },
+  "person": {
+   "2nd": 4552,
+   "3rd": 12294
+  }
+ },
+ "note": "Word references are surah:ayah:wordIndex. Intersect two facet lists client-side to combine criteria."
+}

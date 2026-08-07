@@ -1,0 +1,14 @@
+{
+  "words": 77430,
+  "glossed": 75835,
+  "coverage": 97.94,
+  "gloss_sources": {
+    "curated": 68369,
+    "lane": 5375,
+    "wehr": 168,
+    "pronoun-index": 1923
+  },
+  "gap_words": 1595,
+  "gap_keys": 350,
+  "note": "Word-aligned English gloss layer derived from this repository's own curated glosses (Lane and Wehr where marked). A study aid, not a translation: glosses are per-word and follow Arabic order, so a verse does not read as English prose. Words without a gloss carry \"gap\": 1."
+}

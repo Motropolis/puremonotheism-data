@@ -438,6 +438,24 @@ for _f in glob.glob(_L+'/*.json'):
 a('A10 lemma blocks name their lemma + have provenance', lm_bad<=1 and lm_noprov==0,
   f'{lm_bad} unnamed, {lm_noprov} missing provenance, of {lm_blocks} blocks')
 
+
+# A11-A13 provenance and manifest additions (v3.0.0)
+_ls=[r for r,d in lex.items() if d.get('lane') and not d.get('lane_source')]
+a('A11 every Lane block carries lane_source', not _ls, f'{len(_ls)} missing')
+_dm=os.path.join(DATA,'dictionaries.json')
+_ok=os.path.exists(_dm)
+if _ok:
+    _md=json.load(open(_dm))['dictionaries']
+    _cnt=json.load(open(os.path.join(DATA,'browse','browse-manifest.json')))['dicts']
+    _ok = ({x['id'] for x in _md}==set(_cnt)
+           and all(x.get('roots')==_cnt[x['id']] for x in _md)
+           and [x['died'] for x in _md]==sorted(x['died'] for x in _md))
+a('A12 dictionaries.json matches manifest and is date-ordered', _ok,
+  'ids, counts and death-year order all verified' if _ok else 'missing or inconsistent')
+_bad=[os.path.basename(_f) for _f in glob.glob(os.path.join(DATA,'browse','dict-*.json'))
+      if any('d' not in _r for _r in json.load(open(_f))['roots'][:200])]
+a('A13 per-dictionary browse rows carry d[]', not _bad, f'{len(_bad)} files without d[]')
+
 print(f"{'ACCURACY TEST':60}{'RESULT':8}DETAIL")
 print('-'*120)
 p2=0

@@ -1,0 +1,89 @@
+{
+ "version": "3.0.0",
+ "count": 8,
+ "note": "Canonical dictionary metadata, ordered by compiler death year. The UI should read names, order and tiers from here rather than hardcoding them or seeding from a sample root.",
+ "dictionaries": [
+  {
+   "id": "ayn",
+   "name": "Kitab al-Ayn",
+   "name_ar": "كتاب العين",
+   "compiler": "al-Khalil ibn Ahmad al-Farahidi",
+   "died": 786,
+   "tier": "earliest-disputed",
+   "source": "OpenITI Shamela0001682-ara1 (Makhzumi & Samarra'i, Dar wa-Maktabat al-Hilal)",
+   "roots": 7320
+  },
+  {
+   "id": "tahdhib",
+   "name": "Tahdhib al-Lugha",
+   "name_ar": "تهذيب اللغة",
+   "compiler": "al-Azhari",
+   "died": 980,
+   "tier": "general",
+   "source": "OpenITI Shamela0007031-ara1",
+   "roots": 7874
+  },
+  {
+   "id": "sihah",
+   "name": "al-Sihah",
+   "name_ar": "الصحاح",
+   "compiler": "al-Jawhari",
+   "died": 1002,
+   "tier": "general",
+   "source": "wizsk/arabic_lexicons SQLite",
+   "roots": 6652
+  },
+  {
+   "id": "maqayis",
+   "name": "Maqayis al-Lugha",
+   "name_ar": "مقاييس اللغة",
+   "compiler": "Ibn Faris",
+   "died": 1004,
+   "tier": "root-semantic",
+   "source": "wizsk/arabic_lexicons SQLite",
+   "roots": 6716
+  },
+  {
+   "id": "mufradat",
+   "name": "Mufradat Alfaz al-Quran",
+   "name_ar": "مفردات ألفاظ القرآن",
+   "compiler": "al-Raghib al-Isfahani",
+   "died": 1108,
+   "tier": "interpretive",
+   "source": "wizsk/arabic_lexicons SQLite",
+   "roots": 2659
+  },
+  {
+   "id": "lisan",
+   "name": "Lisan al-Arab",
+   "name_ar": "لسان العرب",
+   "compiler": "Ibn Manzur",
+   "died": 1311,
+   "tier": "general",
+   "source": "wizsk/arabic_lexicons SQLite",
+   "roots": 10079
+  },
+  {
+   "id": "qamus",
+   "name": "al-Qamus al-Muhit",
+   "name_ar": "القاموس المحيط",
+   "compiler": "Majd al-Din al-Fayruzabadi",
+   "died": 1414,
+   "tier": "general",
+   "source": "OpenITI Shamela0007283-ara1 (Muassasat al-Risala)",
+   "roots": 10420
+  },
+  {
+   "id": "lane",
+   "name": "Lane's Lexicon",
+   "name_ar": "معجم لين",
+   "compiler": "Edward William Lane",
+   "died": 1893,
+   "tier": "english",
+   "source": "wizsk/arabic_lexicons SQLite (Lane's Arabic-English Lexicon, 1863-93, public domain)",
+   "ltr": true,
+   "note": "Stored in the top-level `lane` field, not in classical[].",
+   "roots": 7051
+  }
+ ]
+}

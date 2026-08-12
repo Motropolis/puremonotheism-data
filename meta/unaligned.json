@@ -1,12 +1,1 @@
-{
- "note": "Verses where Uthmani tokenisation could not be reconciled with the Corpus. No root data attached.",
- "verses": [
-  "13:37",
-  "15:7",
-  "27:20",
-  "2:181",
-  "36:22",
-  "37:130",
-  "8:6"
- ]
-}
+{"note": "All 7 previously-unaligned verses were realigned to the Corpus (v2.5.x, surface-form alignment handling merge/split tokenization). Root data attached; 40+1 word tokens gained roots incl. new root h-d-h-d (hudhud, 27:20).", "verses": []}

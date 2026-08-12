@@ -70,3 +70,13 @@ This caught wrong-root articles that A2's subsequence test let through — e.g. 
 still displaying دح's article, because حدح's skeleton occurs inside the word دحداح.
 Pruned 32 further wrong-root blocks and 7 ال-prefixed duplicate roots.
 Roots: 13,625 -> 13,606. Suite now 20 integrity + 7 accuracy tests, all passing.
+
+
+## v2.11.6 — collision audit (A8)
+New test A8: a block must not carry an article belonging to a DIFFERENT root that has
+its own page. Legitimate variant sharing (ذاع/ذيع, قيل/قول, ضعع/ضع — weak and geminate
+spellings of one root) is exempted via variants(); only unrelated collisions are flagged.
+Pruned 468 loose-tier collisions (حدح carrying دح's article, اته carrying ته's);
+393 exact-index collisions marked suspect rather than pruned, because the source
+dictionary itself files the entry under that headword.
+Suite: 20 integrity + 8 accuracy tests, all passing. Roots unchanged at 13,606.

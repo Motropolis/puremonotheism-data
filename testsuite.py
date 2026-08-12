@@ -303,6 +303,22 @@ for r,d in lex.items():
         if not any(_issub(f,hs) for f in fs): wrong+=1
 a('A7  entry headword compatible with root', wrong==0, f'{wrong} wrong-root blocks of {judged} judged')
 
+
+# A8 no block carries an unrelated root's article (headword owns another page)
+_byar={x['ar']:x['r'] for x in json.load(open('/home/claude/build/roots-index-full.json'))['roots']}
+coll=0
+for r,d in lex.items():
+    legit={norm(d['root_ar'])}|set(variants(d['root_ar'],r))
+    for c in d['classical']:
+        m=HEADRE.match(DIA.sub('', c['entries'][0]['text'].lstrip()))
+        if not m: continue
+        hw=norm(m.group(1))
+        if hw in _NARR or hw in _STOP: continue
+        h=hw[2:] if hw.startswith('\u0627\u0644') and len(hw)>3 else hw
+        if h in legit: continue
+        if h in _byar and _byar[h]!=r and not c.get('suspect'): coll+=1
+a('A8  no unrelated root article attached', coll==0, f'{coll} collisions')
+
 print(f"{'ACCURACY TEST':60}{'RESULT':8}DETAIL")
 print('-'*120)
 p2=0

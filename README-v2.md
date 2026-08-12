@@ -118,3 +118,24 @@ Found and pruned 13 blocks whose article is a homograph root and never names the
 contain the string مريم).
 Added source + match_type to 236 lemma blocks that lacked provenance fields.
 New test A10 checks both conditions. Suite: 20 integrity + 10 accuracy, all passing.
+
+
+## v2.11.9 — deep audit across every layer
+Extended the suite from 30 to 39 tests, adding a LAYER section (D1-D9) covering the
+Quran text skeleton, interlinear/surah consistency, grammar tagging, translations,
+the pronoun/muqattaat/lemma indexes, root-layer completeness, and cross-layer
+verse references.
+Verified: 6,236 verses across 114 surahs matching the canonical index; interlinear
+agrees with surah verse-for-verse and word-for-word; 77,430/77,430 tokens carry a
+grammar tag; all 15 translations complete with no empty strings; all three meta
+indexes match their files and their occurrence counts; 467,537 verse references
+across parallels/, phrases/ and search/ all resolve.
+Fixed: 23 roots had no meaning paragraph, including ر-ح-م (339 occurrences),
+ع-ز-ز (120) and ع-د-و (106) — written from the classical dictionaries in
+lexicon_full (chiefly Ibn Faris) and marked with meaning_source.
+Fixed: أله (2,851 occ), قول (1,722), كون (1,390) and ربب (980) had no en gloss —
+the co-occurrence method fails on the most frequent roots because they dominate
+every context. Curated with an explanatory en_note.
+KNOWN LIMIT: 283 roots occurring 3-14 times have no en gloss. The gloss is derived
+statistically from translation co-occurrence and needs roughly 15 occurrences to
+produce a signal. Their meaning paragraphs and dictionary entries are unaffected.

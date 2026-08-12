@@ -364,3 +364,64 @@ for n,ok,dt in ACC:
     p2+=ok; print(f"{n:60}{'PASS' if ok else 'FAIL':8}{dt[:70]}")
 print('-'*120)
 print(f'{p2}/{len(ACC)} accuracy tests passed   |   {npass}/{len(RESULTS)} integrity tests passed')
+
+# ================= LAYER TESTS (quran text, grammar, translations, indexes) =====
+D=[]
+def dd(n,ok,det=''): D.append((n,ok,det))
+_verses=set(); _wc={}
+for _f in glob.glob(DATA+'/surah/*.json'):
+    for _v in json.load(open(_f))['verses']:
+        _verses.add(_v['k']); _wc[_v['k']]=len(_v.get('w') or [])
+CANON=[7,286,200,176,120,165,206,75,129,109,123,111,43,52,99,128,111,110,98,135,112,78,118,64,77,227,93,88,69,60,34,30,73,54,45,83,182,88,75,85,54,53,89,59,37,35,38,29,18,45,60,49,62,55,78,96,29,22,24,13,14,11,11,18,12,12,30,52,52,44,28,28,20,56,40,31,50,40,46,42,29,19,36,25,22,17,19,26,30,20,15,21,11,8,8,19,5,8,8,11,11,8,3,9,5,4,7,3,6,3,5,4,5,6]
+dd('D1  6236 verses across 114 surahs', len(_verses)==6236 and len(glob.glob(DATA+'/surah/*.json'))==114, f'{len(_verses)} verses')
+_bad=[i for i,n in enumerate(CANON,1) if sum(1 for k in _verses if k.startswith(f'{i}:'))!=n]
+dd('D2  verse counts match the canonical index', not _bad, f'{len(_bad)} surahs wrong')
+_il={}
+for _f in glob.glob(DATA+'/interlinear/*.json'):
+    _d=json.load(open(_f)); _vs=_d if isinstance(_d,list) else _d.get('verses') or list(_d.values())[0]
+    for _v in (_vs if isinstance(_vs,list) else _vs.values()): _il[_v.get('k') or _v.get('key')]=_v
+dd('D3  interlinear matches surah verse-for-verse', set(_il)==_verses and not [k for k in _il if len(_il[k].get('w') or [])!=_wc.get(k)], 'sets and word counts agree')
+_ut=sum(1 for v in _il.values() for w in (v.get('w') or []) if not w.get('g'))
+dd('D4  every word token carries a grammar tag', _ut==0, f'{_ut} untagged')
+_td=[x for x in glob.glob(DATA+'/translation/*') if os.path.isdir(x)]
+_meta={x.get('id') or x.get('key') or x.get('slug') for x in json.load(open(DATA+'/meta/translations.json'))['translations']}
+_gap={}
+for _x in _td:
+    _j=json.load(open(_x+'/all.json')); _b=_j.get('verses')
+    if len(set(_b)&_verses)!=6236: _gap[os.path.basename(_x)]=len(set(_b)&_verses)
+dd('D5  all translations cover all 6236 verses', not _gap and _meta=={os.path.basename(x) for x in _td}, f'{len(_td)} translations, gaps {_gap}')
+_ok=True; _det=[]
+for _lay,_f,_k,_idk in (('pronoun','pronoun-index.json','pronouns','k'),('muqattaat','muqattaat-index.json','sets','k'),('lemma','lemma-index.json','lemmas','l')):
+    _files={os.path.basename(x)[:-5] for x in glob.glob(f'{DATA}/{_lay}/*.json')}
+    _lst=json.load(open(f'{DATA}/meta/{_f}'))[_k]
+    _ids={x.get(_idk) for x in _lst}
+    if _ids!=_files: _ok=False; _det.append(_lay)
+    for _e in _lst:
+        _p=f"{DATA}/{_lay}/{_e[_idk]}.json"
+        if os.path.exists(_p):
+            _o=json.load(open(_p)); _n=_o.get('count') if _o.get('count') is not None else len(_o.get('occ') or [])
+            if _e.get('n') is not None and _e['n']!=_n: _ok=False; _det.append(_lay+':count')
+dd('D6  pronoun/muqattaat/lemma indexes match files and counts', _ok, str(set(_det)))
+_nm=[]; _ne=[]
+for _f in glob.glob(DATA+'/root/*.json'):
+    _d=json.load(open(_f))
+    if not (_d.get('meaning') or '').strip(): _nm.append(_d['root'])
+    if not _d.get('en') and _d['count']>=15: _ne.append(_d['root'])
+dd('D7  every root has a meaning paragraph', not _nm, f'{len(_nm)} missing')
+_lowfreq=sum(1 for _f in glob.glob(DATA+'/root/*.json') for _d in [json.load(open(_f))] if not _d.get('en') and _d['count']<15)
+dd('D8  roots with >=15 occurrences have an en gloss', not _ne,
+   f'{len(_ne)} missing; {_lowfreq} low-frequency roots lack one by method design')
+_pb=0;_pt=0
+for _f in glob.glob(DATA+'/parallels/*.json')+glob.glob(DATA+'/phrases/*.json')+glob.glob(DATA+'/search/*.json'):
+    for _m in re.finditer(r'"(\d{1,3}:\d{1,3})"', open(_f).read()):
+        _pt+=1
+        if _m.group(1) not in _verses: _pb+=1
+dd('D9  parallels/phrases/search verse refs valid', _pb==0, f'{_pb} dangling of {_pt}')
+print()
+print(f"{'LAYER TEST':60}{'RESULT':8}DETAIL")
+print('-'*120)
+_p=0
+for n,ok,det in D:
+    _p+=ok; print(f"{n:60}{'PASS' if ok else 'FAIL':8}{det[:60]}")
+print('-'*120)
+print(f'{_p}/{len(D)} layer tests passed')

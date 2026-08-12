@@ -104,3 +104,17 @@ genuine convention of filing reduplicated quadriliterals and geminates under the
 Cleared 104 wrong Lane blocks, all hamza-initial roots whose loose rule stripped the alif
 onto a different existing root (اته->ته, ادف->دف, انام->نام).
 Lane coverage 7,208 -> 7,051. Suite: 20 integrity + 9 accuracy tests, all passing.
+
+
+## v2.11.7 (cont.) — lemma-layer audit (A10)
+Second gap of the same kind: A7/A8/A9 all operate on lexicon_full only. The 125 lemma
+files carry their own `classical` arrays and had never been checked for root correctness
+or provenance.
+Found and pruned 13 blocks whose article is a homograph root and never names the lemma:
+عِيسَى was showing عَيْس (camel semen / whitish colour) in Tahdhib, Maqayis and Lane;
+حَتَّى showing حَتّ (to rub off); ثُمّ showing ثَتَم (to spoil); الَّذِي showing ذَأَى
+(to drive camels); فِي showing the letter fa'; كَي showing the letter kaf; لَظَى showing
+لَظّ. One false positive restored (Mufradat's Maryam entry is correct but does not
+contain the string مريم).
+Added source + match_type to 236 lemma blocks that lacked provenance fields.
+New test A10 checks both conditions. Suite: 20 integrity + 10 accuracy, all passing.

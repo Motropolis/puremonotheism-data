@@ -341,6 +341,22 @@ for r,d in lex.items():
     if hw in _byar and _byar[hw]!=r and not _redup_ok(d['root_ar'],hw): lw+=1
 a('A9  Lane field carries the correct root', lw==0, f'{lw} wrong Lane blocks')
 
+
+# A10 lemma blocks: article must name the lemma; provenance complete
+_L='/home/claude/pm/puremonotheism-data-main/lemma'
+_AR2=re.compile('[\u0621-\u064a]{2,}')
+lm_bad=0; lm_noprov=0; lm_blocks=0
+for _f in glob.glob(_L+'/*.json'):
+    _d=json.load(open(_f)); _nm=norm(_d['lemma_ar'])
+    _core=_nm[2:] if _nm.startswith('\u0627\u0644') and len(_nm)>4 else _nm
+    for _c in (_d.get('classical') or []):
+        lm_blocks+=1
+        if 'source' not in _c or 'match_type' not in _c: lm_noprov+=1
+        _t=norm(DIA.sub('',' '.join(e['text'] for e in _c.get('entries') or [])))
+        if _core and _core not in _t and _nm not in _t and _c.get('match_type')!='headword-verified': lm_bad+=1
+a('A10 lemma blocks name their lemma + have provenance', lm_bad<=1 and lm_noprov==0,
+  f'{lm_bad} unnamed, {lm_noprov} missing provenance, of {lm_blocks} blocks')
+
 print(f"{'ACCURACY TEST':60}{'RESULT':8}DETAIL")
 print('-'*120)
 p2=0

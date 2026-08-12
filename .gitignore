@@ -1,0 +1,5 @@
+# macOS Finder metadata
+.DS_Store
+
+# audit suite cache (Corpus morphology, fetched on demand)
+.cache/

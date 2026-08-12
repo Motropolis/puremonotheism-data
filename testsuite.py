@@ -19,12 +19,36 @@ LMAP = os.path.join(ROOT, 'letter_map.json')
 CACHE = os.path.join(ROOT, '.cache'); os.makedirs(CACHE, exist_ok=True)
 CORPUS_TXT = os.path.join(CACHE, 'quran-morphology.txt')
 CORPUS_URL = 'https://raw.githubusercontent.com/mustafa0x/quran-morphology/master/quran-morphology.txt'
-if not os.path.exists(CORPUS_TXT):
+def _fetch_corpus():
+    """Fetch the Corpus morphology. macOS python.org builds often lack CA certs,
+    so fall back to an unverified context and then to curl before giving up."""
+    import ssl, subprocess
     try:
-        urllib.request.urlretrieve(CORPUS_URL, CORPUS_TXT)
+        urllib.request.urlretrieve(CORPUS_URL, CORPUS_TXT); return True
+    except Exception:
+        pass
+    try:
+        ctx = ssl._create_unverified_context()
+        with urllib.request.urlopen(CORPUS_URL, context=ctx, timeout=120) as r, open(CORPUS_TXT,'wb') as f:
+            f.write(r.read())
+        return True
+    except Exception:
+        pass
+    try:
+        subprocess.run(['curl','-sL','-o',CORPUS_TXT,CORPUS_URL], check=True, timeout=180)
+        return os.path.getsize(CORPUS_TXT) > 1000
     except Exception as e:
-        print('note: could not fetch Corpus morphology (%s); Corpus tests will SKIP' % e)
-HAVE_CORPUS = os.path.exists(CORPUS_TXT)
+        print('note: could not fetch Corpus morphology (%s)' % e)
+        if os.path.exists(CORPUS_TXT) and os.path.getsize(CORPUS_TXT) < 1000:
+            os.remove(CORPUS_TXT)
+        return False
+
+if not os.path.exists(CORPUS_TXT):
+    _fetch_corpus()
+HAVE_CORPUS = os.path.exists(CORPUS_TXT) and os.path.getsize(CORPUS_TXT) > 1000
+if not HAVE_CORPUS:
+    print('note: Corpus morphology unavailable — test A1 will report SKIP.')
+    print('      to enable it, run:  curl -sL -o .cache/quran-morphology.txt %s' % CORPUS_URL)
 
 # ---- normalisation helpers (inlined so the suite has no external imports) ----
 _DIA = re.compile('[\u064b-\u0652\u0670\u0640\u0653-\u0655]')
@@ -261,13 +285,14 @@ def cn(s):
     return s.replace('\u0649','\u064a').replace('\u0629','\u0647').replace('\u0621','\u0627').replace('\u0624','\u0627').replace('\u0626','\u0627')
 REALIGNED={'13:37','15:7','27:20','2:181','36:22','37:130','8:6'}
 CSURF={}
-for line in open(CORPUS_TXT,encoding='utf-8'):
-    _p=line.rstrip('\n').split('\t')
-    if len(_p)<4: continue
-    _s,_a,_w,_g=_p[0].split(':'); _k=f'{int(_s)}:{int(_a)}:{int(_w)}'
-    CSURF[_k]=CSURF.get(_k,'')+_p[1]
+if HAVE_CORPUS:
+    for line in open(CORPUS_TXT,encoding='utf-8'):
+        _p=line.rstrip('\n').split('\t')
+        if len(_p)<4: continue
+        _s,_a,_w,_g=_p[0].split(':'); _k=f'{int(_s)}:{int(_a)}:{int(_w)}'
+        CSURF[_k]=CSURF.get(_k,'')+_p[1]
 ag=dis=0; dl=[]
-for f in glob.glob(DATA+'/interlinear/*.json'):
+for f in (glob.glob(DATA+'/interlinear/*.json') if HAVE_CORPUS else []):
     d=json.load(open(f)); vs=d if isinstance(d,list) else d.get('verses') or list(d.values())[0]
     for v in (vs if isinstance(vs,list) else vs.values()):
         k=v.get('k') or v.get('key')
@@ -287,7 +312,7 @@ for f in glob.glob(DATA+'/interlinear/*.json'):
             else:
                 dis+=1
                 if len(dl)<5: dl.append((k,w['i'],w['r'],sorted(cr)))
-a('A1  root assignments match Quranic Corpus', (dis==0) if HAVE_CORPUS else None, f'{ag} agree, {dis} disagree {dl[:3]}')
+a('A1  root assignments match Quranic Corpus', (dis==0) if HAVE_CORPUS else None, (f'{ag} agree, {dis} disagree {dl[:3]}' if HAVE_CORPUS else 'corpus file unavailable — see note above'))
 
 # A2 headword/root trace inside each dictionary entry
 WEAK=set('اويءة')

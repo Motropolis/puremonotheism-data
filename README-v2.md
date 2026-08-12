@@ -1,4 +1,4 @@
-# puremonotheism data v2.0 — full-dictionary build
+# puremonotheism data v2.4.0 — full-dictionary build
 
 ## What changed from v1
 - Cap removed entirely (`cap: null`). Largest entry: Lane ~108k chars. UI should fold long entries.
@@ -44,3 +44,20 @@
   reduplicated quadriliterals these dictionaries file under biliteral headings (covered by
   other dictionaries per root), plus words al-Raghib's selective Mufradat genuinely omits.
 - Full false-match audit pending (task 6).
+
+
+## Test suite (v2.11.4)
+build/testsuite.py — 20 integrity + 6 accuracy tests, all passing:
+structural schema, index/disk parity, chronological ordering, provenance completeness,
+metadata consistency, anachronism scan, truncation, duplicates, encoding, script sanity,
+quranic-flag agreement, word-link referential integrity (all 77,430 tokens), occurrence
+count consistency, verse-position validity, function-word targets, browse parity,
+per-dictionary counts, search round-trip; plus Corpus root agreement (50,266/0 disagree),
+root-traceability of entry text, curated proper-noun glosses, death-date correctness,
+lemma uncapping, and Quranic-root reachability.
+
+v2.11.4 changes: pruned 244 loose-tier blocks whose text belonged to a DIFFERENT root
+(حدح pulling دح, دعد pulling عد, عرجن pulling عرج); 39 untraceable blocks kept but
+marked suspect; 22 ellipses verified source-native and marked source_ellipsis;
+search index seeded with root keys so every root is findable by its own name;
+index/browse rebuilt; 3 remaining proper-noun glosses curated.

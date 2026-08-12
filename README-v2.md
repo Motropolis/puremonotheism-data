@@ -61,3 +61,12 @@ v2.11.4 changes: pruned 244 loose-tier blocks whose text belonged to a DIFFERENT
 marked suspect; 22 ellipses verified source-native and marked source_ellipsis;
 search index seeded with root keys so every root is findable by its own name;
 index/browse rebuilt; 3 remaining proper-noun glosses curated.
+
+
+## v2.11.5 — headword-compatibility audit (A7)
+New test A7: an entry's own leading headword must be compatible with the root it is
+filed under (root consonant skeleton must appear within the headword skeleton).
+This caught wrong-root articles that A2's subsequence test let through — e.g. حدح
+still displaying دح's article, because حدح's skeleton occurs inside the word دحداح.
+Pruned 32 further wrong-root blocks and 7 ال-prefixed duplicate roots.
+Roots: 13,625 -> 13,606. Suite now 20 integrity + 7 accuracy tests, all passing.

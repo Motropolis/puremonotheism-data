@@ -278,6 +278,31 @@ a('A5  lemma pages uncapped', lt==0, f'{lt} truncated lemma entries')
 unreach=[r for r in qidx if r not in lex]
 a('A6  every Quranic root has a dictionary page', not unreach, f'{len(unreach)} unreachable {unreach[:5]}')
 
+
+# A7 entry headword compatible with the root (catches wrong-root articles)
+from openiti2 import loose as _loose, STOP as _STOP
+HEADRE=re.compile(r'^[^\u0621-\u064a]{0,6}\(?([\u0621-\u064a]{2,8})\)?\s*[:\u061b]')
+_WEAK=set('\u0627\u0648\u064a\u0621')
+_NARR=set("""يقال ويقال قال وقال قلت الاصمعي الليث الفراء ثعلب الكسائي قرئ قولهم سيبويه الخليل الازهري""".split())
+_sk=lambda x: ''.join(c for c in x if c not in _WEAK)
+def _issub(a,b):
+    it=iter(b); return all(c in it for c in a)
+wrong=0; judged=0
+for r,d in lex.items():
+    for c in d['classical']:
+        m=HEADRE.match(DIA.sub('', c['entries'][0]['text'].lstrip()))
+        if not m: continue
+        hw=norm(m.group(1))
+        if hw in _NARR or hw in _STOP: continue
+        forms={norm(d['root_ar'])}|set(variants(d['root_ar'],r))|set(_loose(d['root_ar'],r,wide=True))
+        fs=[_sk(f) for f in forms if len(_sk(f))>=2]
+        h=hw[2:] if hw.startswith('\u0627\u0644') and len(hw)>3 else hw
+        hs=_sk(h)
+        if not fs or len(hs)<2: continue
+        judged+=1
+        if not any(_issub(f,hs) for f in fs): wrong+=1
+a('A7  entry headword compatible with root', wrong==0, f'{wrong} wrong-root blocks of {judged} judged')
+
 print(f"{'ACCURACY TEST':60}{'RESULT':8}DETAIL")
 print('-'*120)
 p2=0

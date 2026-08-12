@@ -456,6 +456,18 @@ _bad=[os.path.basename(_f) for _f in glob.glob(os.path.join(DATA,'browse','dict-
       if any('d' not in _r for _r in json.load(open(_f))['roots'][:200])]
 a('A13 per-dictionary browse rows carry d[]', not _bad, f'{len(_bad)} files without d[]')
 
+
+# A14 Lane text carries no raw HTML markup
+_html=[r for r,d in lex.items() if d.get('lane') and re.search(r'</?[a-zA-Z][^>]*>', d['lane'])]
+a('A14 Lane text free of raw HTML markup', not _html, f'{len(_html)} roots with visible tags')
+# A15 lemma truncated flag agrees with reality
+_mis=[]
+for _f in glob.glob(os.path.join(DATA,'lemma','*.json')):
+    _d=json.load(open(_f))
+    if (_d['count']>len(_d['occ'])) != bool(_d.get('truncated')): _mis.append(os.path.basename(_f))
+    if _d['count']>len(_d['occ']) and not _d.get('occ_note'): _mis.append(os.path.basename(_f)+':no-note')
+a('A15 lemma truncated flag matches occ list and is explained', not _mis, f'{len(_mis)} wrong {_mis[:3]}')
+
 print(f"{'ACCURACY TEST':60}{'RESULT':8}DETAIL")
 print('-'*120)
 p2=0

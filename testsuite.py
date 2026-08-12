@@ -468,6 +468,23 @@ for _f in glob.glob(os.path.join(DATA,'lemma','*.json')):
     if _d['count']>len(_d['occ']) and not _d.get('occ_note'): _mis.append(os.path.basename(_f)+':no-note')
 a('A15 lemma truncated flag matches occ list and is explained', not _mis, f'{len(_mis)} wrong {_mis[:3]}')
 
+
+# A16 meaning paragraphs name the root, not a form derived from it
+_DIAX=re.compile('[\u064b-\u0652\u0670\u0640\u0653-\u0655]')
+def _nz(x):
+    x=_DIAX.sub('',x or '')
+    for _a in '\u0623\u0625\u0622': x=x.replace(_a,'\u0627')
+    return x.replace('\u0649','\u064a').replace('\u0629','')
+_mm=[]
+for _f in glob.glob(os.path.join(DATA,'root','*.json')):
+    _d=json.load(open(_f)); _t=_d.get('meaning') or ''
+    _m=re.match(r'\s*The root\s+([\u0621-\u064a\u064b-\u0652\s\-]+?)\s*[\(,]', _t)
+    if not _m: continue
+    _named=_nz(_m.group(1).replace(' ','').replace('-','')); _act=_nz(_d['root_ar'])
+    if _named and _named!=_act and len(_named)>len(_act) and all(c in _named for c in _act):
+        _mm.append((_d['root_ar'],_m.group(1).strip()))
+a('A16 meanings name the root, not a derived form', not _mm, f'{len(_mm)} mislabelled {_mm[:3]}')
+
 print(f"{'ACCURACY TEST':60}{'RESULT':8}DETAIL")
 print('-'*120)
 p2=0

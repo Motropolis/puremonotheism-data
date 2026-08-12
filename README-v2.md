@@ -80,3 +80,27 @@ Pruned 468 loose-tier collisions (حدح carrying دح's article, اته carryin
 393 exact-index collisions marked suspect rather than pruned, because the source
 dictionary itself files the entry under that headword.
 Suite: 20 integrity + 8 accuracy tests, all passing. Roots unchanged at 13,606.
+
+
+## v2.11.7 — Lane-field audit (A9)
+BLIND SPOT FOUND: tests A7 and A8 iterate classical[], but Lane's text lives in the
+separate top-level `lane` field, so neither test ever examined it. 119 lane blocks
+carried a headword that did not match their root; 65 were Lane's legitimate filing of
+reduplicated quadriliterals under the biliteral (زحزح under زح), and 54 were genuine
+errors (حدح carrying حد's article, دعد carrying عد's). The 54 were removed.
+Emptying طمأن — a Quranic root — was caught by A6 and it was rebuilt from all seven
+dictionaries plus Lane, which file it under the triliteral طمن; those blocks carry
+`filed_under: "طمن"` so A8 accepts the declared relationship.
+Suite: 20 integrity + 9 accuracy tests, all passing. Roots 13,606; lane blocks 7,155.
+
+
+## v2.11.7 — Lane field audit (A9)
+GAP FOUND: tests A7 and A8 iterate d['classical'] only. Lane's Lexicon is stored in the
+separate top-level `lane` string field, so it was never checked for root correctness.
+حدح was serving Lane's article for حَدّ (to prevent/limit/sharpen) — an unrelated root.
+New test A9 applies the same headword-vs-root check to the `lane` field, exempting Lane's
+genuine convention of filing reduplicated quadriliterals and geminates under the biliteral
+(زحزح under زح, دمدم under دم — 65 such cases verified and kept).
+Cleared 104 wrong Lane blocks, all hamza-initial roots whose loose rule stripped the alif
+onto a different existing root (اته->ته, ادف->دف, انام->نام).
+Lane coverage 7,208 -> 7,051. Suite: 20 integrity + 9 accuracy tests, all passing.

@@ -316,8 +316,30 @@ for r,d in lex.items():
         if hw in _NARR or hw in _STOP: continue
         h=hw[2:] if hw.startswith('\u0627\u0644') and len(hw)>3 else hw
         if h in legit: continue
+        if c.get('filed_under') and norm(c['filed_under'])==h: continue
         if h in _byar and _byar[h]!=r and not c.get('suspect'): coll+=1
 a('A8  no unrelated root article attached', coll==0, f'{coll} collisions')
+
+
+
+
+# A9 Lane field must not carry another root's article
+_AR=re.compile('[\u0621-\u064a]{2,}')
+def _redup_ok(root,hw):
+    n=norm(root)
+    if len(n)==4 and n[:2]==n[2:] and hw==n[:2]: return True
+    if len(n)>=3 and n[-1]==n[-2] and hw in (n[:-1],n[:2]): return True
+    return False
+lw=0
+for r,d in lex.items():
+    if not d.get('lane'): continue
+    tk=_AR.findall(DIA.sub('', d['lane'][:200]))
+    if not tk: continue
+    hw=norm(tk[0])
+    ok={norm(d['root_ar'])}|set(variants(d['root_ar'],r))
+    if hw in ok: continue
+    if hw in _byar and _byar[hw]!=r and not _redup_ok(d['root_ar'],hw): lw+=1
+a('A9  Lane field carries the correct root', lw==0, f'{lw} wrong Lane blocks')
 
 print(f"{'ACCURACY TEST':60}{'RESULT':8}DETAIL")
 print('-'*120)

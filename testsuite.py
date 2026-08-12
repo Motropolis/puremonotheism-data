@@ -1,10 +1,56 @@
-"""Full-corpus audit suite. Each test returns (name, passed, detail)."""
-import json, glob, os, re, sys, collections, pickle
-sys.path.insert(0,'/home/claude/build')
-from match import norm
+"""puremonotheism-data audit suite — repo-relative, runs from a fresh clone.
 
-DATA='/home/claude/pm/puremonotheism-data-main'
-LEX='/home/claude/build/lexicon_full'
+Usage:  python3 testsuite.py [path-to-repo]      (defaults to this file's directory)
+
+Requires only the repo itself, except two accuracy tests (A1, and the Corpus parts)
+which need the Quranic Arabic Corpus morphology file. It is downloaded automatically
+to .cache/ on first run; if the network is unavailable those tests are skipped and
+reported as SKIP rather than silently passing.
+"""
+import json, glob, os, re, sys, collections, statistics, urllib.request
+
+ROOT = os.path.abspath(sys.argv[1] if len(sys.argv) > 1 else os.path.dirname(os.path.abspath(__file__)))
+DATA = ROOT
+LEX  = os.path.join(ROOT, 'lexicon_full')
+BROWSE = os.path.join(ROOT, 'browse')
+DSEARCH = os.path.join(ROOT, 'dictsearch')
+IDXF = os.path.join(ROOT, 'roots-index-full.json')
+LMAP = os.path.join(ROOT, 'letter_map.json')
+CACHE = os.path.join(ROOT, '.cache'); os.makedirs(CACHE, exist_ok=True)
+CORPUS_TXT = os.path.join(CACHE, 'quran-morphology.txt')
+CORPUS_URL = 'https://raw.githubusercontent.com/mustafa0x/quran-morphology/master/quran-morphology.txt'
+if not os.path.exists(CORPUS_TXT):
+    try:
+        urllib.request.urlretrieve(CORPUS_URL, CORPUS_TXT)
+    except Exception as e:
+        print('note: could not fetch Corpus morphology (%s); Corpus tests will SKIP' % e)
+HAVE_CORPUS = os.path.exists(CORPUS_TXT)
+
+# ---- normalisation helpers (inlined so the suite has no external imports) ----
+_DIA = re.compile('[\u064b-\u0652\u0670\u0640\u0653-\u0655]')
+def norm(s):
+    s = _DIA.sub('', s or '').replace('\u0671', '\u0627')
+    for a in '\u0623\u0625\u0622': s = s.replace(a, '\u0627')
+    return s.replace('\u0649', '\u064a').replace('\u0629', '\u0647').strip()
+_WEAK = '\u064a\u0648\u0627'
+def variants(ar, lat):
+    n = norm(ar); p = lat.split('-'); out = [n]
+    if len(p) >= 3 and p[-1] == p[-2] and len(n) >= 3: out.append(n[:-1])
+    if p[-1] in ('y','w','a') or (n and n[-1] in _WEAK):
+        out += [n[:-1] + w for w in _WEAK] + [n[:-1]]
+    if p[1:2] and p[1] in ('y','w','a') and len(n) == 3:
+        out += [n[0] + w + n[2] for w in _WEAK] + [n[0] + n[2]]
+    if n and n[0] in '\u0648\u064a': out += [w + n[1:] for w in '\u0648\u064a']
+    seen = set(); return [x for x in out if x and not (x in seen or seen.add(x))]
+def loose(ar, lat, wide=False):
+    n = norm(ar); out = []
+    if len(n) == 4 and n[:2] == n[2:]: out.append(n[:2])
+    if wide and len(n) >= 4: out += [n[:3], n[-3:]]
+    if len(n) == 3 and n[0] == n[2]: out += [n[1:], n[:2]]
+    if n.startswith('\u0627') and len(n) > 2: out.append(n[1:])
+    if len(n) == 3 and n[1] == n[2]: out.append(n[:2])
+    seen = set(); return [x for x in out if len(x) >= 2 and not (x in seen or seen.add(x))]
+STOP = set('''أبوعبيد أخبرنا أخبرني أراد أما أنشد أي أيضا الأصمعي الجمع الفراء الليث اي تفسيره تقول ثعلب ثم جمعه حدثنا حدثني رواه روى فأما فقال فيه قال قالوا قلت قوله قيل كقوله مثل معناه منه منها نحو وأخبرني وأراد وأما وأنشد واحدته والجمع وتفسيره وتقول وحدثني وروى وفيه وقال وقالوا وقوله وقيل ومعناه ومنه ومنها وهو وهي ويروى ويروي ويريد ويقال يروى يروي يريد يعني يقال ينشد'''.split())
 RESULTS=[]
 def t(name, ok, detail=''): RESULTS.append((name, ok, detail)); return ok
 
@@ -12,7 +58,7 @@ def t(name, ok, detail=''): RESULTS.append((name, ok, detail)); return ok
 lex={}
 for f in glob.glob(LEX+'/*.json'):
     d=json.load(open(f)); lex[d['root']]=d
-idx={x['r']:x for x in json.load(open('/home/claude/build/roots-index-full.json'))['roots']}
+idx={x['r']:x for x in json.load(open(IDXF))['roots']}
 qidx={x['r']:x for x in json.load(open(DATA+'/meta/roots-index.json'))['roots']}
 fw=json.load(open(DATA+'/meta/function-words.json'))['map']
 lemmas={os.path.basename(f)[:-5] for f in glob.glob(DATA+'/lemma/*.json')}
@@ -149,10 +195,10 @@ badfw=[L for L,e in fw.items() if e.get('type')=='dict' and e['slug'] not in lex
 t('T17 function-word map targets exist', not badfw, f'{len(badfw)} {badfw[:5]}')
 
 # ===== T18 browse index parity =====
-bl=json.load(open('/home/claude/build/browse/browse-manifest.json'))
+bl=json.load(open(os.path.join(BROWSE,'browse-manifest.json')))
 alpha=0
 for L in bl['letters']:
-    alpha+=len(json.load(open('/home/claude/build/browse/'+L['file']))['roots'])
+    alpha+=len(json.load(open(os.path.join(BROWSE,L['file'])))['roots'])
 t('T18 browse alpha shards cover every root', alpha==len(idx), f'{alpha} in shards vs {len(idx)} in index')
 
 # ===== T19 per-dictionary browse counts match reality =====
@@ -170,7 +216,7 @@ sample=random.sample(list(lex),40); missed=[]
 for r in sample:
     ar=norm(lex[r]['root_ar'])
     if not ar: continue
-    fn=f'/home/claude/build/dictsearch/ds-{ord(ar[0]):04x}.json'
+    fn=os.path.join(DSEARCH, f'ds-{ord(ar[0]):04x}.json')
     if not os.path.exists(fn): missed.append((r,'no shard')); continue
     sh=json.load(open(fn))
     if ar not in sh or r not in sh[ar]: missed.append((r,ar))
@@ -191,8 +237,21 @@ ACC=[]
 def a(name, ok, detail=''): ACC.append((name,ok,detail))
 
 # A1 root assignments vs Quranic Arabic Corpus (ground truth)
-corpus,LEM,ctok=pickle.load(open('/home/claude/build/corpus.pkl','rb'))
-LM=json.load(open('/home/claude/build/letter_map.json')); INV={}
+def _load_corpus():
+    corpus=collections.defaultdict(set); lem=collections.defaultdict(set); toks=set()
+    if not HAVE_CORPUS: return corpus, lem, toks
+    for line in open(CORPUS_TXT, encoding='utf-8'):
+        p=line.rstrip('\n').split('\t')
+        if len(p)<4: continue
+        s_,a_,w_,seg=p[0].split(':')
+        k=f'{int(s_)}:{int(a_)}:{int(w_)}'; toks.add(k)
+        m=re.search(r'ROOT:([^|]+)',p[3])
+        if m: corpus[k].add(m.group(1))
+        m=re.search(r'LEM:([^|]+)',p[3])
+        if m: lem[k].add(m.group(1))
+    return corpus, lem, toks
+corpus,LEM,ctok=_load_corpus()
+LM=json.load(open(LMAP)); INV={}
 for ar,la in LM.items(): INV.setdefault(la,ar)
 def s2a(s): return ''.join(INV.get(p,p) for p in s.split('-'))
 DIA=re.compile('[\u064b-\u0652\u0670\u0640\u0653-\u0655]')
@@ -202,7 +261,7 @@ def cn(s):
     return s.replace('\u0649','\u064a').replace('\u0629','\u0647').replace('\u0621','\u0627').replace('\u0624','\u0627').replace('\u0626','\u0627')
 REALIGNED={'13:37','15:7','27:20','2:181','36:22','37:130','8:6'}
 CSURF={}
-for line in open('/home/claude/corpus.txt',encoding='utf-8'):
+for line in open(CORPUS_TXT,encoding='utf-8'):
     _p=line.rstrip('\n').split('\t')
     if len(_p)<4: continue
     _s,_a,_w,_g=_p[0].split(':'); _k=f'{int(_s)}:{int(_a)}:{int(_w)}'
@@ -228,11 +287,9 @@ for f in glob.glob(DATA+'/interlinear/*.json'):
             else:
                 dis+=1
                 if len(dl)<5: dl.append((k,w['i'],w['r'],sorted(cr)))
-a('A1  root assignments match Quranic Corpus', dis==0, f'{ag} agree, {dis} disagree {dl[:3]}')
+a('A1  root assignments match Quranic Corpus', (dis==0) if HAVE_CORPUS else None, f'{ag} agree, {dis} disagree {dl[:3]}')
 
 # A2 headword/root trace inside each dictionary entry
-sys.path.insert(0,'/home/claude/build')
-from match import variants
 WEAK=set('اويءة')
 def sk(x): return [c for c in x if c not in WEAK]
 def sub(s,w):
@@ -280,7 +337,6 @@ a('A6  every Quranic root has a dictionary page', not unreach, f'{len(unreach)} 
 
 
 # A7 entry headword compatible with the root (catches wrong-root articles)
-from openiti2 import loose as _loose, STOP as _STOP
 HEADRE=re.compile(r'^[^\u0621-\u064a]{0,6}\(?([\u0621-\u064a]{2,8})\)?\s*[:\u061b]')
 _WEAK=set('\u0627\u0648\u064a\u0621')
 _NARR=set("""يقال ويقال قال وقال قلت الاصمعي الليث الفراء ثعلب الكسائي قرئ قولهم سيبويه الخليل الازهري""".split())
@@ -293,8 +349,8 @@ for r,d in lex.items():
         m=HEADRE.match(DIA.sub('', c['entries'][0]['text'].lstrip()))
         if not m: continue
         hw=norm(m.group(1))
-        if hw in _NARR or hw in _STOP: continue
-        forms={norm(d['root_ar'])}|set(variants(d['root_ar'],r))|set(_loose(d['root_ar'],r,wide=True))
+        if hw in _NARR or hw in STOP: continue
+        forms={norm(d['root_ar'])}|set(variants(d['root_ar'],r))|set(loose(d['root_ar'],r,wide=True))
         fs=[_sk(f) for f in forms if len(_sk(f))>=2]
         h=hw[2:] if hw.startswith('\u0627\u0644') and len(hw)>3 else hw
         hs=_sk(h)
@@ -305,7 +361,7 @@ a('A7  entry headword compatible with root', wrong==0, f'{wrong} wrong-root bloc
 
 
 # A8 no block carries an unrelated root's article (headword owns another page)
-_byar={x['ar']:x['r'] for x in json.load(open('/home/claude/build/roots-index-full.json'))['roots']}
+_byar={x['ar']:x['r'] for x in json.load(open(IDXF))['roots']}
 coll=0
 for r,d in lex.items():
     legit={norm(d['root_ar'])}|set(variants(d['root_ar'],r))
@@ -313,7 +369,7 @@ for r,d in lex.items():
         m=HEADRE.match(DIA.sub('', c['entries'][0]['text'].lstrip()))
         if not m: continue
         hw=norm(m.group(1))
-        if hw in _NARR or hw in _STOP: continue
+        if hw in _NARR or hw in STOP: continue
         h=hw[2:] if hw.startswith('\u0627\u0644') and len(hw)>3 else hw
         if h in legit: continue
         if c.get('filed_under') and norm(c['filed_under'])==h: continue
@@ -343,7 +399,7 @@ a('A9  Lane field carries the correct root', lw==0, f'{lw} wrong Lane blocks')
 
 
 # A10 lemma blocks: article must name the lemma; provenance complete
-_L='/home/claude/pm/puremonotheism-data-main/lemma'
+_L=os.path.join(DATA,'lemma')
 _AR2=re.compile('[\u0621-\u064a]{2,}')
 lm_bad=0; lm_noprov=0; lm_blocks=0
 for _f in glob.glob(_L+'/*.json'):
@@ -361,7 +417,9 @@ print(f"{'ACCURACY TEST':60}{'RESULT':8}DETAIL")
 print('-'*120)
 p2=0
 for n,ok,dt in ACC:
-    p2+=ok; print(f"{n:60}{'PASS' if ok else 'FAIL':8}{dt[:70]}")
+    lab='SKIP' if ok is None else ('PASS' if ok else 'FAIL')
+    p2+= 1 if ok else 0
+    print(f"{n:60}{lab:8}{dt[:70]}")
 print('-'*120)
 print(f'{p2}/{len(ACC)} accuracy tests passed   |   {npass}/{len(RESULTS)} integrity tests passed')
 

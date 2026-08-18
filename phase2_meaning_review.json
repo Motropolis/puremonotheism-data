@@ -1,0 +1,4288 @@
+{
+  "count": 297,
+  "reason": "Automated review candidates only: current meaning has no English lexical overlap with the root’s Quran co-occurrence glosses. False positives are expected; each requires classical-lexicon review.",
+  "items": [
+    {
+      "root": "a-l-h",
+      "root_ar": "أله",
+      "count": 2851,
+      "en": [
+        "god",
+        "deity",
+        "God",
+        "worship"
+      ],
+      "meaning": "Allah (اللّٰهُ) is the proper name for the one true God, encompassing all attributes of perfection.",
+      "review_status": null
+    },
+    {
+      "root": "q-w-l",
+      "root_ar": "قول",
+      "count": 1722,
+      "en": [
+        "say",
+        "speech",
+        "word",
+        "saying"
+      ],
+      "meaning": "The root ق و ل (qawala) primarily means \"to say.\" It can also mean to assert belief, make a sign with a body part, or even to lie.",
+      "review_status": null
+    },
+    {
+      "root": "k-w-n",
+      "root_ar": "كون",
+      "count": 1390,
+      "en": [
+        "be",
+        "become",
+        "exist",
+        "was"
+      ],
+      "meaning": "The root \"kwn\" primarily means \"he/it was.\" It's an \"incomplete\" verb, meaning it needs a predicate to form a complete thought, like \"Zeyd was standing.",
+      "review_status": null
+    },
+    {
+      "root": "a-m-n",
+      "root_ar": "أمن",
+      "count": 879,
+      "en": [
+        "believe",
+        "believer",
+        "believ",
+        "faith",
+        "work",
+        "apostle",
+        "righteousnes",
+        "believeth"
+      ],
+      "meaning": "The root أمن (Amn) primarily conveys security, safety, and freedom from fear. It also extends to concepts of trust, confidence, and being trustworthy.",
+      "review_status": null
+    },
+    {
+      "root": "k-f-r",
+      "root_ar": "كفر",
+      "count": 525,
+      "en": [
+        "reject",
+        "disbelieve",
+        "unbeliever",
+        "disbeliever",
+        "rejecter",
+        "faith",
+        "disbeliev",
+        "rejection"
+      ],
+      "meaning": "The root كفر (kfr) primarily means to cover or conceal something. From this, it extends to covering up or denying a favor, leading to the meaning of ingratitude.",
+      "review_status": null
+    },
+    {
+      "root": "sh-y-a",
+      "root_ar": "شيأ",
+      "count": 519,
+      "en": [
+        "thing",
+        "will",
+        "wish",
+        "anyth",
+        "power",
+        "pleas",
+        "aught",
+        "able"
+      ],
+      "meaning": "The root شَيَأ primarily means a \"thing\" or \"something.\" It refers to an entity, object, or matter, whether concrete or abstract, that exists or is conceived. It can also denote a state or affair.",
+      "review_status": null
+    },
+    {
+      "root": "y-w-m",
+      "root_ar": "يوم",
+      "count": 475,
+      "en": [
+        "day",
+        "resurrection",
+        "judgment",
+        "today",
+        "last",
+        "gather",
+        "together",
+        "repudiator"
+      ],
+      "meaning": "The root \"ywm\" primarily refers to a period of time, often a day from sunrise to sunset, or from dawn to sunset. It can also denote an event or accident, a day's journey, or a battle/conflict.",
+      "review_status": null
+    },
+    {
+      "root": "k-l-l",
+      "root_ar": "كلل",
+      "count": 377,
+      "en": [
+        "thing",
+        "everyth",
+        "capable",
+        "able",
+        "power",
+        "kind",
+        "time",
+        "soul"
+      ],
+      "meaning": "The root K-L-L primarily signifies weariness, dullness, or becoming blunt, like a sword losing its sharpness.",
+      "review_status": null
+    },
+    {
+      "root": "r-a-y",
+      "root_ar": "رأي",
+      "count": 328,
+      "en": [
+        "see",
+        "seen",
+        "seest",
+        "saw",
+        "show",
+        "hast",
+        "vision",
+        "behold"
+      ],
+      "meaning": "The root رَأَى primarily means to see with the eye or perceive with the mind.",
+      "review_status": null
+    },
+    {
+      "root": "k-t-b",
+      "root_ar": "كتب",
+      "count": 319,
+      "en": [
+        "book",
+        "scripture",
+        "record",
+        "reveal",
+        "sent",
+        "revelation",
+        "decre",
+        "given"
+      ],
+      "meaning": "The root كَتَبَ primarily means \"to write.\" It also signifies \"to prescribe, appoint, or ordain,\" especially by God, making something obligatory.",
+      "review_status": null
+    },
+    {
+      "root": "q-b-l",
+      "root_ar": "قبل",
+      "count": 294,
+      "en": [
+        "messenger",
+        "came",
+        "apostl",
+        "aforetime",
+        "old",
+        "generation",
+        "accept",
+        "destroy"
+      ],
+      "meaning": "The root قبل (qbl) primarily means to face or come forward.",
+      "review_status": null
+    },
+    {
+      "root": "n-z-l",
+      "root_ar": "نزل",
+      "count": 293,
+      "en": [
+        "sent",
+        "reveal",
+        "send",
+        "scripture",
+        "book",
+        "revelation",
+        "rain",
+        "sky"
+      ],
+      "meaning": "The root نزل primarily signifies descent, like milk into an udder. It also means to lodge or host someone, providing refuge.",
+      "review_status": null
+    },
+    {
+      "root": "kh-l-q",
+      "root_ar": "خلق",
+      "count": 261,
+      "en": [
+        "creat",
+        "creation",
+        "create",
+        "heaven",
+        "earth",
+        "createth",
+        "creator",
+        "clay"
+      ],
+      "meaning": "The root \"khlq\" primarily means to measure or proportion something, like a hide for sewing.",
+      "review_status": null
+    },
+    {
+      "root": "w-q-y",
+      "root_ar": "وقي",
+      "count": 258,
+      "en": [
+        "duty",
+        "fear",
+        "righteou",
+        "aware",
+        "ward",
+        "off",
+        "keep",
+        "evil"
+      ],
+      "meaning": "The root وقي (wqy) primarily means to protect, guard, or preserve something from harm or danger. It encompasses the idea of shielding oneself or others, and being cautious or wary.",
+      "review_status": null
+    },
+    {
+      "root": "b-3-d",
+      "root_ar": "بعد",
+      "count": 235,
+      "en": [
+        "far",
+        "thereafter",
+        "clear",
+        "land",
+        "even",
+        "afterward",
+        "proof",
+        "came"
+      ],
+      "meaning": "The root بَعُدَ primarily means to be or become distant, remote, or far off. It can also signify perishing or dying. In some contexts, it expresses improbability or reaching an extreme degree.",
+      "review_status": null
+    },
+    {
+      "root": "w-l-y",
+      "root_ar": "ولي",
+      "count": 232,
+      "en": [
+        "friend",
+        "turn",
+        "protector",
+        "protect",
+        "away",
+        "all",
+        "back",
+        "ally"
+      ],
+      "meaning": "The root W-L-Y primarily signifies being near, close, or following. It extends to concepts of guardianship, protection, friendship, and authority, often implying a close relationship or succession.",
+      "review_status": null
+    },
+    {
+      "root": "h7-k-m",
+      "root_ar": "حكم",
+      "count": 210,
+      "en": [
+        "wise",
+        "wisdom",
+        "noble",
+        "exalt",
+        "judge",
+        "mighty",
+        "full",
+        "knowledgeable"
+      ],
+      "meaning": "The root H-K-M primarily means to prevent or restrain someone from evil or undesired actions. It also refers to curbing a horse or controlling events.",
+      "review_status": null
+    },
+    {
+      "root": "m-l-k",
+      "root_ar": "ملك",
+      "count": 206,
+      "en": [
+        "angel",
+        "dominion",
+        "sovereignty",
+        "power",
+        "posses",
+        "kingship",
+        "heaven",
+        "king"
+      ],
+      "meaning": "The root ملك (mlk) primarily means to possess or own something, often with exclusive rights and the ability to exercise authority over it.",
+      "review_status": null
+    },
+    {
+      "root": "j-n-n",
+      "root_ar": "جنن",
+      "count": 201,
+      "en": [
+        "garden",
+        "paradise",
+        "river",
+        "flow",
+        "underneath",
+        "beneath",
+        "jinn",
+        "paradis"
+      ],
+      "meaning": "The root جَنّ (jann) primarily means to cover, conceal, or hide. It refers to something that is veiled or becomes dark, like the night.",
+      "review_status": null
+    },
+    {
+      "root": "s-b-l",
+      "root_ar": "سبل",
+      "count": 176,
+      "en": [
+        "way",
+        "path",
+        "cause",
+        "road",
+        "fight",
+        "hinder",
+        "astray",
+        "stray"
+      ],
+      "meaning": "The root سبل (sbl) primarily means \"to let loose or hang down,\" often referring to garments dragging on the ground.",
+      "review_status": null
+    },
+    {
+      "root": "m-th-l",
+      "root_ar": "مثل",
+      "count": 169,
+      "en": [
+        "like",
+        "example",
+        "similitude",
+        "parable",
+        "cit",
+        "likenes",
+        "thereof",
+        "similar"
+      ],
+      "meaning": "The root مَثَلٌ (mathal) signifies a description through comparison, often used for important or remarkable states.",
+      "review_status": null
+    },
+    {
+      "root": "sh-r-k",
+      "root_ar": "شرك",
+      "count": 168,
+      "en": [
+        "partner",
+        "set",
+        "idolater",
+        "ascribe",
+        "join",
+        "associate",
+        "ascrib",
+        "pagan"
+      ],
+      "meaning": "Shirk (شِرْكٌ) means sharing or partnership, like in land or marriage. It also refers to a share or portion.",
+      "review_status": null
+    },
+    {
+      "root": "q-l-b",
+      "root_ar": "قلب",
+      "count": 168,
+      "en": [
+        "heart",
+        "seal",
+        "disease",
+        "harden",
+        "stamp",
+        "ear",
+        "eye",
+        "understand"
+      ],
+      "meaning": "The root \"قلب\" (qlb) primarily means to alter, change, or invert something, turning it upside down or inside out. It can refer to physical actions like turning over bread or earth, or examining goods.",
+      "review_status": null
+    },
+    {
+      "root": "m-w-t",
+      "root_ar": "موت",
+      "count": 165,
+      "en": [
+        "death",
+        "dead",
+        "die",
+        "life",
+        "resurrect",
+        "quickeneth",
+        "giv",
+        "died"
+      ],
+      "meaning": "The root \"mwt\" primarily means \"to die,\" the opposite of living.",
+      "review_status": null
+    },
+    {
+      "root": "n-s6-r",
+      "root_ar": "نصر",
+      "count": 158,
+      "en": [
+        "help",
+        "helper",
+        "victory",
+        "victor",
+        "support",
+        "supporter",
+        "aid",
+        "christian"
+      ],
+      "meaning": "The root نصر (nSr) primarily means to aid, assist, or strengthen someone, especially against an enemy or injustice. It also conveys the sense of making someone victorious or avenging them.",
+      "review_status": null
+    },
+    {
+      "root": "gh-y-r",
+      "root_ar": "غير",
+      "count": 154,
+      "en": [
+        "without",
+        "different",
+        "right",
+        "wrongful",
+        "save",
+        "defiance",
+        "besid",
+        "knowledge"
+      ],
+      "meaning": "The root غَيْر (ghayr) means \"other than\" or \"not.\" It is used to qualify nouns, often governing the following noun in the genitive case.",
+      "review_status": null
+    },
+    {
+      "root": "r-w-d",
+      "root_ar": "رود",
+      "count": 148,
+      "en": [
+        "want",
+        "wish",
+        "intend",
+        "desire",
+        "desireth",
+        "seek",
+        "desir",
+        "away"
+      ],
+      "meaning": "The root ر و د (rwd) conveys gentleness, slowness, or a leisurely manner. It can describe walking softly or acting patiently.",
+      "review_status": null
+    },
+    {
+      "root": "d-w-n",
+      "root_ar": "دون",
+      "count": 144,
+      "en": [
+        "besid",
+        "beside",
+        "instead",
+        "protect",
+        "friend",
+        "protector",
+        "worship",
+        "call"
+      ],
+      "meaning": "The root \"dwn\" primarily describes something low, inferior, or beneath, whether in status, quality, or physical position. It can also mean \"nearer than\" or \"before\" in terms of proximity or sequence.",
+      "review_status": null
+    },
+    {
+      "root": "s-l-m",
+      "root_ar": "سلم",
+      "count": 140,
+      "en": [
+        "surrender",
+        "peace",
+        "islam",
+        "bow",
+        "submit",
+        "muslim",
+        "salutation",
+        "submission"
+      ],
+      "meaning": "The root \"slm\" primarily conveys safety, security, and freedom from imperfections or evils.",
+      "review_status": null
+    },
+    {
+      "root": "d-n-w",
+      "root_ar": "دنو",
+      "count": 133,
+      "en": [
+        "world",
+        "life",
+        "hereafter",
+        "enjoyment",
+        "good",
+        "comfort",
+        "retribution",
+        "better"
+      ],
+      "meaning": "The root دَنَا (danā) means to be or become near, to approach. It can refer to physical proximity, time, or even kinship.",
+      "review_status": null
+    },
+    {
+      "root": "n-dh-r",
+      "root_ar": "نذر",
+      "count": 130,
+      "en": [
+        "warn",
+        "warner",
+        "bearer",
+        "warning",
+        "sent",
+        "admonish",
+        "new",
+        "tiding"
+      ],
+      "meaning": "The root نذر (ndhr) primarily means to make a vow or impose something as obligatory upon oneself, often to God. It can also mean to dedicate a child to religious service.",
+      "review_status": null
+    },
+    {
+      "root": "t6-w-3",
+      "root_ar": "طوع",
+      "count": 129,
+      "en": [
+        "obey",
+        "apostle",
+        "duty",
+        "messenger",
+        "unable",
+        "aware",
+        "able",
+        "keep"
+      ],
+      "meaning": "The root طوع (TwE) signifies submission, obedience, and willingness. It describes someone who acts voluntarily, not under compulsion, and is compliant or tractable.",
+      "review_status": null
+    },
+    {
+      "root": "kh-l-f",
+      "root_ar": "خلف",
+      "count": 127,
+      "en": [
+        "differ",
+        "behind",
+        "disput",
+        "successor",
+        "between",
+        "wherein",
+        "viceroy",
+        "concern"
+      ],
+      "meaning": "The root خَلَف (khlf) primarily means to come after, follow, or succeed someone or something. It also conveys the sense of being a substitute or replacing what was lost.",
+      "review_status": null
+    },
+    {
+      "root": "a-w-l",
+      "root_ar": "أول",
+      "count": 125,
+      "en": [
+        "first",
+        "old",
+        "ancient",
+        "former",
+        "interpretation",
+        "men",
+        "generation",
+        "tal"
+      ],
+      "meaning": "The root \"Awl\" primarily means to return or revert to an original state, source, or result. It can describe things decreasing, thickening (like milk or oil), or an affair reaching a certain outcome.",
+      "review_status": null
+    },
+    {
+      "root": "b-sh-r",
+      "root_ar": "بشر",
+      "count": 123,
+      "en": [
+        "tiding",
+        "new",
+        "glad",
+        "good",
+        "mortal",
+        "human",
+        "give",
+        "bearer"
+      ],
+      "meaning": "The root \"b-sh-r\" primarily means to strip or pare something, revealing its underlying surface. This can refer to skin, the ground, or even a mustache.",
+      "review_status": null
+    },
+    {
+      "root": "a-m-m",
+      "root_ar": "أمم",
+      "count": 119,
+      "en": [
+        "nation",
+        "mother",
+        "people",
+        "community",
+        "sent",
+        "peopl",
+        "book",
+        "among"
+      ],
+      "meaning": "The root أمم primarily signifies heading towards a place or person with an intention. It also relates to leadership, being in front, or being a model to be followed.",
+      "review_status": null
+    },
+    {
+      "root": "n-f-q",
+      "root_ar": "نفق",
+      "count": 111,
+      "en": [
+        "spend",
+        "hypocrit",
+        "substance",
+        "charity",
+        "spent",
+        "cause",
+        "wealth",
+        "provision"
+      ],
+      "meaning": "The root نفق (nfq) primarily relates to something being in demand, selling well, or becoming brisk, like a market.",
+      "review_status": null
+    },
+    {
+      "root": "a-dh-n",
+      "root_ar": "أذن",
+      "count": 102,
+      "en": [
+        "leave",
+        "permission",
+        "ear",
+        "except",
+        "given",
+        "permitt",
+        "exemption",
+        "deafnes"
+      ],
+      "meaning": "The root أذن (Adhn) primarily refers to the ear, an organ of sense. It can also metaphorically describe a person who is a good listener or who readily believes what is said to them.",
+      "review_status": null
+    },
+    {
+      "root": "sh-d-d",
+      "root_ar": "شدد",
+      "count": 102,
+      "en": [
+        "severe",
+        "retribution",
+        "punishment",
+        "strength",
+        "strong",
+        "strict",
+        "powerful",
+        "stronger"
+      ],
+      "meaning": "The root شَدَدَ primarily conveys the idea of strengthening, making firm, or binding tightly. It implies intensity, severity, or becoming hard and robust.",
+      "review_status": null
+    },
+    {
+      "root": "l-y-s",
+      "root_ar": "ليس",
+      "count": 89,
+      "en": [
+        "knowledge",
+        "blame",
+        "concern",
+        "whereof",
+        "sin",
+        "wrong",
+        "aware",
+        "cannot"
+      ],
+      "meaning": "The root \"laysa\" (ليس) is a verb of negation, meaning \"is not.\" It functions like \"kana\" (كان), making the subject nominative and the predicate accusative.",
+      "review_status": null
+    },
+    {
+      "root": "sh-t6-n",
+      "root_ar": "شطن",
+      "count": 88,
+      "en": [
+        "devil",
+        "satan",
+        "evil",
+        "enemy",
+        "avow",
+        "one",
+        "foe",
+        "open"
+      ],
+      "meaning": "The root شطن (shTn) refers to anything excessively proud, rebellious, or distant from truth. It can describe humans, jinn, or even certain serpents.",
+      "review_status": null
+    },
+    {
+      "root": "kh-l-d",
+      "root_ar": "خلد",
+      "count": 87,
+      "en": [
+        "abide",
+        "dwell",
+        "therein",
+        "eternal",
+        "abid",
+        "garden",
+        "underneath",
+        "river"
+      ],
+      "meaning": "The root خلد (khld) signifies permanence or eternity, as in \"Paradise\" (دار الخلد). It also refers to a type of bracelet or earring.",
+      "review_status": null
+    },
+    {
+      "root": "a-h7-d",
+      "root_ar": "أحد",
+      "count": 85,
+      "en": [
+        "anyone",
+        "none",
+        "find",
+        "another",
+        "distinction",
+        "death",
+        "until",
+        "partner"
+      ],
+      "meaning": "The root AHd primarily means \"one\" or \"first.\" It's often interchangeable with \"wahid\" but has specific uses. For God, \"Ahad\" means \"The One, the Sole,\" emphasizing indivisibility.",
+      "review_status": null
+    },
+    {
+      "root": "n-j-w",
+      "root_ar": "نجو",
+      "count": 84,
+      "en": [
+        "sav",
+        "deliver",
+        "save",
+        "rescu",
+        "household",
+        "fami",
+        "counsel",
+        "secret"
+      ],
+      "meaning": "The root نجو (njw) primarily means to escape or be safe. It can also describe swiftness, outstripping others, or, in a more crude sense, voiding excrement or breaking wind.",
+      "review_status": null
+    },
+    {
+      "root": "k-y-f",
+      "root_ar": "كيف",
+      "count": 83,
+      "en": [
+        "see",
+        "consequence",
+        "nature",
+        "end",
+        "roam",
+        "travel",
+        "land",
+        "terrible"
+      ],
+      "meaning": "The root كَيَّفَ (kayyafa) and its derivatives, used by Muslim theologians, mean to specify something by its quality. These terms were formed by analogy, not directly heard from ancient Arabs.",
+      "review_status": null
+    },
+    {
+      "root": "3-r-d6",
+      "root_ar": "عرض",
+      "count": 79,
+      "en": [
+        "away",
+        "turn",
+        "display",
+        "averse",
+        "turneth",
+        "withdraw",
+        "expos",
+        "decline"
+      ],
+      "meaning": "The root عَرَضَ (ErD) primarily means \"to be or become broad/wide.\" It also signifies something appearing or becoming apparent, especially from afar, or an event befalling someone.",
+      "review_status": null
+    },
+    {
+      "root": "w-h7-y",
+      "root_ar": "وحي",
+      "count": 78,
+      "en": [
+        "inspir",
+        "inspiration",
+        "reveal",
+        "inspire",
+        "sent",
+        "muhammad",
+        "message",
+        "qur"
+      ],
+      "meaning": "The root W-H-Y primarily signifies a swift, secret, and subtle communication or indication.",
+      "review_status": null
+    },
+    {
+      "root": "k-l-m",
+      "root_ar": "كلم",
+      "count": 75,
+      "en": [
+        "word",
+        "speak",
+        "spoke",
+        "change",
+        "immediate",
+        "already",
+        "forth",
+        "mankind"
+      ],
+      "meaning": "The root كَلَمَ (kalam) refers to speech, words, or discourse, whether little or much, singular or plural. It encompasses spoken language, sayings, and even a grammatical sentence.",
+      "review_status": null
+    },
+    {
+      "root": "a-l-m",
+      "root_ar": "ألم",
+      "count": 75,
+      "en": [
+        "painful",
+        "grievou",
+        "retribution",
+        "penalty",
+        "doom",
+        "their",
+        "punishment",
+        "reject"
+      ],
+      "meaning": "The root ألم (Alm) signifies experiencing pain or aching. It describes a state of suffering, whether of a person or a body part like the belly or head.",
+      "review_status": null
+    },
+    {
+      "root": "b-a-s",
+      "root_ar": "بأس",
+      "count": 73,
+      "en": [
+        "miserable",
+        "haples",
+        "evil",
+        "abode",
+        "hell",
+        "destiny",
+        "journey",
+        "end"
+      ],
+      "meaning": "The root بأس (bAs) primarily conveys the idea of strength, courage, and severity, often in the context of war or adversity. It can also denote distress, misfortune, or a state of being in need.",
+      "review_status": null
+    },
+    {
+      "root": "3-r-f",
+      "root_ar": "عرف",
+      "count": 71,
+      "en": [
+        "kindnes",
+        "reasonable",
+        "women",
+        "goodnes",
+        "enjoin",
+        "recognise",
+        "forbid",
+        "recogniz"
+      ],
+      "meaning": "The root عرف (Erf) primarily means 'acknowledgment' or 'confession.' It also signifies 'goodness,' 'beneficence,' or 'what is deemed good/approved.",
+      "review_status": null
+    },
+    {
+      "root": "w-k-l",
+      "root_ar": "وكل",
+      "count": 70,
+      "en": [
+        "trust",
+        "put",
+        "affair",
+        "disposer",
+        "caretaker",
+        "guardian",
+        "enough",
+        "sufficient"
+      ],
+      "meaning": "The root وَكَلَ (wakala) primarily means to rely upon someone, confide in them, or submit oneself to them.",
+      "review_status": null
+    },
+    {
+      "root": "3-l-w",
+      "root_ar": "علو",
+      "count": 70,
+      "en": [
+        "high",
+        "exalt",
+        "above",
+        "sublime",
+        "ascribe",
+        "partner",
+        "highest",
+        "associate"
+      ],
+      "meaning": "The root عَلَى (ʿalā) primarily denotes superiority, both physical (e.g., \"upon the roof\") and abstract (e.g., \"a debt is upon him\").",
+      "review_status": null
+    },
+    {
+      "root": "j-r-m",
+      "root_ar": "جرم",
+      "count": 66,
+      "en": [
+        "criminal",
+        "guilty",
+        "sin",
+        "sinner",
+        "folk",
+        "thu",
+        "arrogant",
+        "requite"
+      ],
+      "meaning": "The root جَرَمَ (jrm) primarily means \"to cut\" or \"to cut off,\" especially in the context of harvesting fruits like dates or shearing wool. It also signifies \"to gain\" or \"to earn.",
+      "review_status": null
+    },
+    {
+      "root": "3-y-n",
+      "root_ar": "عين",
+      "count": 65,
+      "en": [
+        "eye",
+        "spring",
+        "gush",
+        "spr",
+        "waterspring",
+        "fountain",
+        "water",
+        "flow"
+      ],
+      "meaning": "The root \"عَيْنٌ\" (Eyn) is a homonym with over a hundred meanings, seventeen of which appear in the Quran. Its primary meaning is \"the eye,\" the organ of sight.",
+      "review_status": null
+    },
+    {
+      "root": "s-h7-r",
+      "root_ar": "سحر",
+      "count": 63,
+      "en": [
+        "magic",
+        "magician",
+        "wizard",
+        "sorcerer",
+        "sorcery",
+        "bewitch",
+        "mere",
+        "came"
+      ],
+      "meaning": "The root سحر (sahar) primarily refers to the time just before daybreak, the last part of the night.",
+      "review_status": null
+    },
+    {
+      "root": "m-w-h",
+      "root_ar": "موه",
+      "count": 63,
+      "en": [
+        "water",
+        "rain",
+        "sky",
+        "send",
+        "therewith",
+        "earth",
+        "sendeth",
+        "forth"
+      ],
+      "meaning": "The root موه (mwh) primarily means to coat something, like silvering or gilding.",
+      "review_status": null
+    },
+    {
+      "root": "t-l-w",
+      "root_ar": "تلو",
+      "count": 63,
+      "en": [
+        "recit",
+        "rehears",
+        "recite",
+        "revelation",
+        "sign",
+        "rehearse",
+        "scripture",
+        "read"
+      ],
+      "meaning": "The root \"tlw\" primarily means to follow, whether physically or figuratively, like the moon following the sun.",
+      "review_status": null
+    },
+    {
+      "root": "f-r-y",
+      "root_ar": "فري",
+      "count": 60,
+      "en": [
+        "invent",
+        "lie",
+        "against",
+        "fabricat",
+        "forg",
+        "falsehood",
+        "concern",
+        "about"
+      ],
+      "meaning": "The root فري (fry) describes a lamb or its skin, or a kid's skin, being roasted until its upper parts become dried up. This term is found in Q. 3.",
+      "review_status": null
+    },
+    {
+      "root": "z-k-w",
+      "root_ar": "زكو",
+      "count": 59,
+      "en": [
+        "betterment",
+        "charity",
+        "regular",
+        "contribute",
+        "method",
+        "contact",
+        "poor",
+        "prayer"
+      ],
+      "meaning": "The root زكو (zkw) primarily means increase, augmentation, and purity, often with divine blessing. It also signifies purification, good conduct, and religious service.",
+      "review_status": null
+    },
+    {
+      "root": "q-r-y",
+      "root_ar": "قري",
+      "count": 57,
+      "en": [
+        "town",
+        "township",
+        "population",
+        "destroy",
+        "people",
+        "community",
+        "city",
+        "folk"
+      ],
+      "meaning": "The primary meaning of QRY relates to collecting or gathering water, often in a basin or reservoir.",
+      "review_status": null
+    },
+    {
+      "root": "n-h-y",
+      "root_ar": "نهي",
+      "count": 56,
+      "en": [
+        "forbid",
+        "desist",
+        "cease",
+        "deter",
+        "enjoin",
+        "forbidden",
+        "evil",
+        "deterr"
+      ],
+      "meaning": "The root ن-ه-ي primarily signifies prohibition, forbidding, or restraining someone from doing something. It also conveys the idea of reaching an end or limit, as in the \"end\" of a matter.",
+      "review_status": null
+    },
+    {
+      "root": "n-d-y",
+      "root_ar": "ندي",
+      "count": 53,
+      "en": [
+        "call",
+        "cri",
+        "heard",
+        "cry",
+        "voice",
+        "proclaim",
+        "paradise",
+        "prayer"
+      ],
+      "meaning": "The root ندي primarily signifies moisture, dew, or dampness.",
+      "review_status": null
+    },
+    {
+      "root": "kh-b-r",
+      "root_ar": "خبر",
+      "count": 52,
+      "en": [
+        "acquaint",
+        "expert",
+        "well",
+        "inform",
+        "aware",
+        "knower",
+        "subtile",
+        "everyth"
+      ],
+      "meaning": "The root خَبَرَ (khabra) primarily means to know something deeply, especially its inner state. It also signifies trying or testing something to gain knowledge or experience.",
+      "review_status": null
+    },
+    {
+      "root": "d6-3-f",
+      "root_ar": "ضعف",
+      "count": 52,
+      "en": [
+        "weak",
+        "double",
+        "despis",
+        "doubl",
+        "feeble",
+        "oppress",
+        "manifold",
+        "loan"
+      ],
+      "meaning": "The root DEf primarily means \"the like of a thing.\" Over time, it evolved to mean \"the like and more,\" implying an unlimited addition or multiplication.",
+      "review_status": null
+    },
+    {
+      "root": "h7-l-l",
+      "root_ar": "حلل",
+      "count": 51,
+      "en": [
+        "lawful",
+        "forbidden",
+        "food",
+        "women",
+        "made",
+        "sacr",
+        "unlawful",
+        "wiv"
+      ],
+      "meaning": "The root H-L-L primarily signifies untying, loosening, or solving something. It also conveys the idea of descending, alighting, or becoming permissible.",
+      "review_status": null
+    },
+    {
+      "root": "3-q-l",
+      "root_ar": "عقل",
+      "count": 49,
+      "en": [
+        "understand",
+        "sense",
+        "comprehend",
+        "wisdom",
+        "life",
+        "reviv",
+        "sign",
+        "learn"
+      ],
+      "meaning": "The root عقل (Eql) primarily means to withhold or restrain. It describes binding a camel's leg, paying blood money (as camels were bound for payment), or a medicine binding the bowels.",
+      "review_status": null
+    },
+    {
+      "root": "k-r-m",
+      "root_ar": "كرم",
+      "count": 47,
+      "en": [
+        "honour",
+        "generou",
+        "honourable",
+        "noble",
+        "bountiful",
+        "good",
+        "rich",
+        "forgivenes"
+      ],
+      "meaning": "The root كرم (krm) signifies generosity, nobility, and high esteem. It describes something as honorable, precious, or excellent, whether referring to people, animals, land, or possessions.",
+      "review_status": null
+    },
+    {
+      "root": "s-r-r",
+      "root_ar": "سرر",
+      "count": 44,
+      "en": [
+        "secret",
+        "declare",
+        "conceal",
+        "knoweth",
+        "know",
+        "reveal",
+        "thron",
+        "hide"
+      ],
+      "meaning": "The root S-R-R primarily signifies concealment and secrecy, like hiding something within oneself or in a designated place.",
+      "review_status": null
+    },
+    {
+      "root": "j-w-b",
+      "root_ar": "جوب",
+      "count": 43,
+      "en": [
+        "respond",
+        "answer",
+        "call",
+        "prayer",
+        "listen",
+        "heard",
+        "response",
+        "hearken"
+      ],
+      "meaning": "The root جوب (jwb) primarily means to make a hole, cut, or hollow out something, like cutting a rock or a garment. It also extends to traversing or cutting through a space, such as a land or darkness.",
+      "review_status": null
+    },
+    {
+      "root": "m-k-r",
+      "root_ar": "مكر",
+      "count": 43,
+      "en": [
+        "plot",
+        "schem",
+        "plott",
+        "scheme",
+        "plann",
+        "plan",
+        "against",
+        "doom"
+      ],
+      "meaning": "The root مكر (mkr) primarily means to practice deceit, guile, or circumvention, often with the intent to harm clandestinely.",
+      "review_status": null
+    },
+    {
+      "root": "s-kh-r",
+      "root_ar": "سخر",
+      "count": 42,
+      "en": [
+        "subject",
+        "committ",
+        "service",
+        "mock",
+        "made",
+        "moon",
+        "sun",
+        "ridicule"
+      ],
+      "meaning": "The root سخر (s-kh-r) primarily means to compel or constrain someone or something to work without compensation.",
+      "review_status": null
+    },
+    {
+      "root": "j-b-l",
+      "root_ar": "جبل",
+      "count": 41,
+      "en": [
+        "mountain",
+        "hill",
+        "mov",
+        "move",
+        "asunder",
+        "made",
+        "earth",
+        "seest"
+      ],
+      "meaning": "The root جبل (jbl) primarily refers to a large company or multitude of people. It can also denote a nation or people.",
+      "review_status": null
+    },
+    {
+      "root": "sh-3-r",
+      "root_ar": "شعر",
+      "count": 40,
+      "en": [
+        "perceive",
+        "notice",
+        "poet",
+        "sudden",
+        "perceiv",
+        "expect",
+        "symbol",
+        "know"
+      ],
+      "meaning": "A \"shi'ar\" is a distinguishing mark or sign, like a battle cry or banner, used to identify groups.",
+      "review_status": null
+    },
+    {
+      "root": "f-l-h7",
+      "root_ar": "فلح",
+      "count": 40,
+      "en": [
+        "successful",
+        "prosper",
+        "succe",
+        "attain",
+        "one",
+        "never",
+        "achieve",
+        "winner"
+      ],
+      "meaning": "The root فلح (f-l-ḥ) primarily means to cleave or split, like iron or a head. It also refers to tilling land.",
+      "review_status": null
+    },
+    {
+      "root": "dh-n-b",
+      "root_ar": "ذنب",
+      "count": 39,
+      "en": [
+        "sin",
+        "forgive",
+        "fault",
+        "crime",
+        "forgiveth",
+        "forgivenes",
+        "ask",
+        "disbeliev"
+      ],
+      "meaning": "The root \"dhnb\" primarily refers to a tail, like an animal's. It can also metaphorically describe the end or last part of something, such as the \"tail of a story\" or the \"end of a valley.",
+      "review_status": null
+    },
+    {
+      "root": "dh-r-r",
+      "root_ar": "ذرر",
+      "count": 38,
+      "en": [
+        "progeny",
+        "seed",
+        "offspr",
+        "atom",
+        "descendant",
+        "posterity",
+        "weight",
+        "grant"
+      ],
+      "meaning": "The root ذرر primarily refers to scattering or dispersing small particles, like dust or grain.",
+      "review_status": null
+    },
+    {
+      "root": "h-w-y",
+      "root_ar": "هوي",
+      "count": 38,
+      "en": [
+        "desir",
+        "lust",
+        "follow",
+        "desire",
+        "vain",
+        "astray",
+        "come",
+        "lest"
+      ],
+      "meaning": "The root هوي (hwy) primarily signifies falling or descending, often implying a downward motion or a plunge.",
+      "review_status": null
+    },
+    {
+      "root": "m-r-a",
+      "root_ar": "مرأ",
+      "count": 38,
+      "en": [
+        "wife",
+        "man",
+        "woman",
+        "person",
+        "behind",
+        "stay",
+        "barren",
+        "sister"
+      ],
+      "meaning": "The root مرأ (mrA) is primarily linked to the word مَرْءٌ (marʾun), which means 'a man' or 'a human being.",
+      "review_status": null
+    },
+    {
+      "root": "a-l-w",
+      "root_ar": "ألو",
+      "count": 37,
+      "en": [
+        "deny",
+        "favour",
+        "lord"
+      ],
+      "meaning": "The particle \"إلى\" (ila) primarily signifies \"to\" or \"until,\" marking the end of an extent in space or time. It can also mean \"with\" or \"in addition to,\" indicating accompaniment.",
+      "review_status": null
+    },
+    {
+      "root": "n-k-r",
+      "root_ar": "نكر",
+      "count": 37,
+      "en": [
+        "forbid",
+        "deter",
+        "enjoin",
+        "evil",
+        "terrible",
+        "wrong",
+        "order",
+        "kindnes"
+      ],
+      "meaning": "The root نكر (nkr) primarily means to ignore, not know, or be unacquainted with something or someone. It can also mean to deny or disacknowledge, especially a right.",
+      "review_status": null
+    },
+    {
+      "root": "h7-d-th",
+      "root_ar": "حدث",
+      "count": 36,
+      "en": [
+        "narration",
+        "statement",
+        "story",
+        "message",
+        "new",
+        "fact",
+        "event",
+        "perhap"
+      ],
+      "meaning": "The root Hdth primarily signifies novelty or innovation, especially in religious matters, often implying disapproval. It also refers to accidents, misfortunes, or calamities.",
+      "review_status": null
+    },
+    {
+      "root": "k-y-d",
+      "root_ar": "كيد",
+      "count": 35,
+      "en": [
+        "schem",
+        "scheme",
+        "plot",
+        "snare",
+        "plan",
+        "against",
+        "stratagem",
+        "guile"
+      ],
+      "meaning": "The root كيد (kyd) primarily means to deceive, beguile, or circumvent someone, often with ill intent or clandestinely.",
+      "review_status": null
+    },
+    {
+      "root": "w-th-q",
+      "root_ar": "وثق",
+      "count": 34,
+      "en": [
+        "covenant",
+        "took",
+        "taken",
+        "made",
+        "solemn",
+        "break",
+        "hold",
+        "take"
+      ],
+      "meaning": "The root وثق (wthq) conveys securing oneself or something, often through a bond or firm action. It implies taking precautions, ensuring stability, or establishing trust.",
+      "review_status": null
+    },
+    {
+      "root": "3-r-sh",
+      "root_ar": "عرش",
+      "count": 33,
+      "en": [
+        "throne",
+        "lord",
+        "six",
+        "authority",
+        "settl",
+        "glory",
+        "establish",
+        "heaven"
+      ],
+      "meaning": "The root 'عرش' (Ersh) primarily refers to a shaded structure, like a booth or shed, often made of natural materials.",
+      "review_status": null
+    },
+    {
+      "root": "3-m-y",
+      "root_ar": "عمي",
+      "count": 33,
+      "en": [
+        "blind",
+        "deaf",
+        "see",
+        "seer",
+        "equal",
+        "canst",
+        "hear",
+        "guide"
+      ],
+      "meaning": "The root عمي primarily means blindness, both physical and metaphorical. It refers to being unable to see or perceive, often implying a lack of guidance or understanding.",
+      "review_status": null
+    },
+    {
+      "root": "sh-m-s",
+      "root_ar": "شمس",
+      "count": 33,
+      "en": [
+        "sun",
+        "moon",
+        "night",
+        "subject",
+        "law",
+        "ris",
+        "course",
+        "appoint"
+      ],
+      "meaning": "The root شمس primarily describes a day being sunny or the sun being intense. It also refers to a horse refusing to be ridden, becoming rebellious, or a woman abstaining from men.",
+      "review_status": null
+    },
+    {
+      "root": "w-r-y",
+      "root_ar": "وري",
+      "count": 32,
+      "en": [
+        "behind",
+        "barrier",
+        "shame",
+        "beyond",
+        "back",
+        "seek",
+        "away",
+        "anyth"
+      ],
+      "meaning": "The root وري primarily means to conceal or hide something, especially fire or embers. It also refers to something being ignited or coming forth, like fire from wood.",
+      "review_status": null
+    },
+    {
+      "root": "w-s-3",
+      "root_ar": "وسع",
+      "count": 32,
+      "en": [
+        "encompass",
+        "embrac",
+        "careth",
+        "mean",
+        "thing",
+        "scope",
+        "beyond",
+        "burden"
+      ],
+      "meaning": "The root وسع (w-s-ʿ) conveys the idea of becoming ample, abundant, or expansive. It describes widening, spreading out, or taking a broad range in affairs, bounty, or even the meaning of words.",
+      "review_status": null
+    },
+    {
+      "root": "b-r-k",
+      "root_ar": "برك",
+      "count": 32,
+      "en": [
+        "bless",
+        "blessing",
+        "glory",
+        "world",
+        "peopl",
+        "reveal",
+        "sent",
+        "made"
+      ],
+      "meaning": "The root برك (brk) primarily refers to a camel's breast, the part it rests on when kneeling. It also describes a herd of camels lying down.",
+      "review_status": null
+    },
+    {
+      "root": "n-s6-b",
+      "root_ar": "نصب",
+      "count": 32,
+      "en": [
+        "portion",
+        "share",
+        "toil",
+        "fatigue",
+        "gain",
+        "given",
+        "rejecter",
+        "leave"
+      ],
+      "meaning": "The root نَصَبَ (naṣaba) primarily means to set up, erect, or raise something. It also describes a specific type of Arabic chanting or singing.",
+      "review_status": null
+    },
+    {
+      "root": "sh-r-r",
+      "root_ar": "شرر",
+      "count": 31,
+      "en": [
+        "evil",
+        "worse",
+        "worst",
+        "ill",
+        "mischief",
+        "adversity",
+        "man",
+        "himself"
+      ],
+      "meaning": "The root شَرَر primarily refers to sparks of fire, or small, scattered pieces that fly off from a burning object.",
+      "review_status": null
+    },
+    {
+      "root": "h-j-r",
+      "root_ar": "هجر",
+      "count": 31,
+      "en": [
+        "emigrat",
+        "hom",
+        "fugitiv",
+        "exile",
+        "cause",
+        "striv",
+        "emigrate",
+        "strove"
+      ],
+      "meaning": "The root هجر (hjr) primarily means to cut off, forsake, or abandon someone or something. It also refers to the act of migrating, especially from one's home or country to another.",
+      "review_status": null
+    },
+    {
+      "root": "sh-f-3",
+      "root_ar": "شفع",
+      "count": 31,
+      "en": [
+        "intercession",
+        "intercessor",
+        "intercede",
+        "avail",
+        "except",
+        "permission",
+        "besid",
+        "leave"
+      ],
+      "meaning": "The root شَفَع (shafaʿa) primarily means to make something a pair or to join one thing to another. This can refer to making a single item into a pair, or a she-camel having a second offspring.",
+      "review_status": null
+    },
+    {
+      "root": "a-n-th",
+      "root_ar": "أنث",
+      "count": 30,
+      "en": [
+        "female",
+        "male",
+        "femal",
+        "mal",
+        "pair",
+        "equivalent",
+        "womb",
+        "daughter"
+      ],
+      "meaning": "The root \"Anth\" describes land that is plain, soft, and fertile, producing abundant vegetation.",
+      "review_status": null
+    },
+    {
+      "root": "j-d-l",
+      "root_ar": "جدل",
+      "count": 29,
+      "en": [
+        "argue",
+        "dispute",
+        "argu",
+        "wrangle",
+        "concern",
+        "plead",
+        "disputeth",
+        "about"
+      ],
+      "meaning": "The root جدل (jdl) primarily refers to a braided or twisted object, like a waist-wrap.",
+      "review_status": null
+    },
+    {
+      "root": "s6-y-r",
+      "root_ar": "صير",
+      "count": 29,
+      "en": [
+        "journey",
+        "destiny",
+        "haples",
+        "end",
+        "miserable",
+        "goal",
+        "final",
+        "destination"
+      ],
+      "meaning": "The root صير (Syr) primarily means \"to become\" or \"to attain a state/condition.\" It also signifies \"to return to a place\" or \"to come to an end.",
+      "review_status": null
+    },
+    {
+      "root": "th-n-y",
+      "root_ar": "ثني",
+      "count": 29,
+      "en": [
+        "pair",
+        "twelve",
+        "male",
+        "female",
+        "four",
+        "femal",
+        "thu",
+        "gush"
+      ],
+      "meaning": "The root ثني primarily means to fold, bend, or turn something back. It also conveys the idea of repeating or doing something a second time.",
+      "review_status": null
+    },
+    {
+      "root": "f-w-z",
+      "root_ar": "فوز",
+      "count": 29,
+      "en": [
+        "triumph",
+        "achievement",
+        "supreme",
+        "succes",
+        "underneath",
+        "garden",
+        "beneath",
+        "river"
+      ],
+      "meaning": "The root فوز (fwz) primarily means to attain good fortune, succeed, or win. It also conveys the sense of escaping harm or becoming safe.",
+      "review_status": null
+    },
+    {
+      "root": "n-sh-a",
+      "root_ar": "نشأ",
+      "count": 28,
+      "en": [
+        "establish",
+        "rais",
+        "initiat",
+        "creation",
+        "creat",
+        "forth",
+        "brought",
+        "different"
+      ],
+      "meaning": "The root نشأ primarily means to originate, grow, or rise up. It signifies the beginning of existence, development, or an upward movement.",
+      "review_status": null
+    },
+    {
+      "root": "3-d-l",
+      "root_ar": "عدل",
+      "count": 28,
+      "en": [
+        "justice",
+        "just",
+        "witness",
+        "compensation",
+        "equitable",
+        "equal",
+        "deal",
+        "command"
+      ],
+      "meaning": "The root عدل (Edl) primarily means to act justly and equitably. It also conveys the sense of turning aside or deviating from a path, whether literally or figuratively from the truth.",
+      "review_status": null
+    },
+    {
+      "root": "a-b-d",
+      "root_ar": "أبد",
+      "count": 28,
+      "en": [
+        "abide",
+        "eternal",
+        "dwell",
+        "never",
+        "wherein",
+        "therein",
+        "underneath",
+        "beneath"
+      ],
+      "meaning": "أَبَد (abad) refers to an absolute or long, unlimited time, often translated as \"eternity\" or \"forever.\" It contrasts with أَزَل (azal), which signifies time without beginning.",
+      "review_status": null
+    },
+    {
+      "root": "m-n-n",
+      "root_ar": "منن",
+      "count": 27,
+      "en": [
+        "favour",
+        "graciou",
+        "grace",
+        "reward",
+        "good",
+        "harm",
+        "never",
+        "bestow"
+      ],
+      "meaning": "The root مَنَنَ primarily means to cut or break something. It also conveys the idea of weakness or failing strength.",
+      "review_status": null
+    },
+    {
+      "root": "3-sh-r",
+      "root_ar": "عشر",
+      "count": 27,
+      "en": [
+        "ten",
+        "twelve",
+        "tribe",
+        "trib",
+        "period",
+        "place",
+        "amongst",
+        "themselv"
+      ],
+      "meaning": "The root عشر (Eshr) primarily means \"ten.\" It's used as عَشَرَةٌ for masculine nouns and عَشْرٌ for feminine nouns.",
+      "review_status": null
+    },
+    {
+      "root": "q-m-r",
+      "root_ar": "قمر",
+      "count": 27,
+      "en": [
+        "moon",
+        "sun",
+        "subject",
+        "night",
+        "law",
+        "appoint",
+        "star",
+        "committ"
+      ],
+      "meaning": "The root قمر (qmr) primarily means to contend for stakes or wagers, often in games of chance, and to overcome an opponent in such a contest.",
+      "review_status": null
+    },
+    {
+      "root": "h-w-n",
+      "root_ar": "هون",
+      "count": 26,
+      "en": [
+        "humiliat",
+        "shameful",
+        "doom",
+        "retribution",
+        "punishment",
+        "penalty",
+        "prepar",
+        "saith"
+      ],
+      "meaning": "The root HWN describes something that is low, base, vile, or contemptible. It can also mean something is easy or gentle. In the Quran, it often refers to a state of humiliation or insignificance.",
+      "review_status": null
+    },
+    {
+      "root": "3-j-z",
+      "root_ar": "عجز",
+      "count": 26,
+      "en": [
+        "frustrate",
+        "escape",
+        "cannot",
+        "woman",
+        "plan",
+        "able",
+        "earth",
+        "friend"
+      ],
+      "meaning": "The root عجز primarily refers to old age and weakness, especially in women. It can also describe old wine or specific parts of a sword.",
+      "review_status": null
+    },
+    {
+      "root": "b-t6-n",
+      "root_ar": "بطن",
+      "count": 25,
+      "en": [
+        "bell",
+        "within",
+        "stomach",
+        "bod",
+        "womb",
+        "livestock",
+        "eat",
+        "cattle"
+      ],
+      "meaning": "The root \"b-t-n\" primarily refers to the belly or abdomen, the inner part of the body. It also extends to mean the inside or interior of anything, like a valley or city.",
+      "review_status": null
+    },
+    {
+      "root": "b-s-t6",
+      "root_ar": "بسط",
+      "count": 25,
+      "en": [
+        "enlargeth",
+        "straiteneth",
+        "enlarg",
+        "stretch",
+        "provision",
+        "restrict",
+        "whomever",
+        "pleas"
+      ],
+      "meaning": "The root بسط (bsT) primarily means to spread, expand, or extend something. It can refer to physical objects like garments or hands, or abstract concepts like sustenance or justice.",
+      "review_status": null
+    },
+    {
+      "root": "w-h-b",
+      "root_ar": "وهب",
+      "count": 25,
+      "en": [
+        "grant",
+        "bestow",
+        "isaac",
+        "gave",
+        "jacob",
+        "progeny",
+        "lord",
+        "mercy"
+      ],
+      "meaning": "The root \"whb\" primarily means to give something as a free, disinterested gift, without expectation of compensation.",
+      "review_status": null
+    },
+    {
+      "root": "f-l-k",
+      "root_ar": "فلك",
+      "count": 25,
+      "en": [
+        "ship",
+        "sail",
+        "ark",
+        "sea",
+        "through",
+        "flood",
+        "thankful",
+        "overwhelm"
+      ],
+      "meaning": "The root فلك (flk) primarily refers to the celestial sphere or orbit of stars, often imagined as a material vault.",
+      "review_status": null
+    },
+    {
+      "root": "a-d-m",
+      "root_ar": "أدم",
+      "count": 25,
+      "en": [
+        "adam",
+        "satan",
+        "fell",
+        "ibli",
+        "submitt",
+        "prostrate",
+        "children",
+        "submit"
+      ],
+      "meaning": "The root أدم (Adm) primarily refers to seasoned food, often with a sauce or condiment. It also denotes tanned animal skin or hide, and metaphorically, the surface of the earth or sky.",
+      "review_status": null
+    },
+    {
+      "root": "dh-l-l",
+      "root_ar": "ذلل",
+      "count": 24,
+      "en": [
+        "shame",
+        "humiliation",
+        "humiliat",
+        "ignominy",
+        "low",
+        "cover",
+        "wrath",
+        "through"
+      ],
+      "meaning": "The root ذلل primarily signifies being low, humble, or submissive, often in a gentle or easy manner. It can describe something made easy to use, like a path, or a person made subservient.",
+      "review_status": null
+    },
+    {
+      "root": "t6-l-q",
+      "root_ar": "طلق",
+      "count": 23,
+      "en": [
+        "divorce",
+        "divorc",
+        "women",
+        "kindnes",
+        "period",
+        "interim",
+        "equitable",
+        "requir"
+      ],
+      "meaning": "The root طلق (Tlq) primarily means to loose, set free, or let go. It applies to releasing captives, untying animals, or allowing freedom of movement.",
+      "review_status": null
+    },
+    {
+      "root": "s-r-f",
+      "root_ar": "سرف",
+      "count": 23,
+      "en": [
+        "prodigal",
+        "transgress",
+        "bound",
+        "wanton",
+        "transgressor",
+        "beyond",
+        "because",
+        "folk"
+      ],
+      "meaning": "The root سرف (srf) primarily means to be ignorant, unmindful, or negligent of something, or to miss it. It can also describe a worm eating leaves or wood, or metaphorically, food becoming cankered.",
+      "review_status": null
+    },
+    {
+      "root": "a-l-f",
+      "root_ar": "ألف",
+      "count": 22,
+      "en": [
+        "thousand",
+        "year",
+        "angel"
+      ],
+      "meaning": "The root أَلِفَ (alifa) means to become familiar with, accustomed to, or to cleave to something or someone. It also implies love or affection.",
+      "review_status": null
+    },
+    {
+      "root": "m-n-y",
+      "root_ar": "مني",
+      "count": 22,
+      "en": [
+        "desir",
+        "desire",
+        "wish",
+        "long",
+        "death",
+        "never",
+        "forth"
+      ],
+      "meaning": "The root M-N-Y primarily signifies measuring, estimating, or determining something. It also relates to decreeing, appointing, or ordaining, often with a sense of predestination or fate.",
+      "review_status": null
+    },
+    {
+      "root": "h7-dh-r",
+      "root_ar": "حذر",
+      "count": 21,
+      "en": [
+        "beware",
+        "precaution",
+        "tak",
+        "yourselv",
+        "take",
+        "fear",
+        "aware",
+        "let"
+      ],
+      "meaning": "The root حذر (Hdhr) conveys caution, wariness, and vigilance. It describes someone who is prepared, on guard, or fearful.",
+      "review_status": null
+    },
+    {
+      "root": "h7-m-m",
+      "root_ar": "حمم",
+      "count": 21,
+      "en": [
+        "boil",
+        "water",
+        "fluid",
+        "liquid",
+        "drink",
+        "friend",
+        "fire"
+      ],
+      "meaning": "The root حمم (Hmm) primarily refers to blackness or being intensely black. It can also denote destiny, fate, or a decreed matter, often with an implication of something inevitable or predetermined.",
+      "review_status": null
+    },
+    {
+      "root": "h7-l-m",
+      "root_ar": "حلم",
+      "count": 21,
+      "en": [
+        "forbear",
+        "compassionate",
+        "clement",
+        "forgiv",
+        "knowledgeable",
+        "oft",
+        "fault",
+        "knower"
+      ],
+      "meaning": "The root حلم (Hlm) primarily means \"to dream\" or \"to see a vision in sleep.\" It also signifies reaching puberty or virility.",
+      "review_status": null
+    },
+    {
+      "root": "s-n-n",
+      "root_ar": "سنن",
+      "count": 21,
+      "en": [
+        "way",
+        "pass",
+        "old",
+        "ancient",
+        "change",
+        "aught",
+        "wilt",
+        "find"
+      ],
+      "meaning": "The root سنن (snn) primarily refers to a way, course, or rule that is followed, whether good or bad. It implies a beaten track or a customary practice that has been established and is adhered to.",
+      "review_status": null
+    },
+    {
+      "root": "f-t6-r",
+      "root_ar": "فطر",
+      "count": 20,
+      "en": [
+        "heaven",
+        "initiator",
+        "initiat",
+        "creat",
+        "creator",
+        "earth",
+        "asunder",
+        "creation"
+      ],
+      "meaning": "The root فطر (f-ṭ-r) primarily means to cleave or split.",
+      "review_status": null
+    },
+    {
+      "root": "s-n-w",
+      "root_ar": "سنو",
+      "count": 20,
+      "en": [
+        "year",
+        "thousand",
+        "stay",
+        "count",
+        "number",
+        "reckon",
+        "folk",
+        "save"
+      ],
+      "meaning": "The root \"snw\" primarily means to water or irrigate land, often using animals. It also describes fire or lightning shining brightly, or rising high.",
+      "review_status": null
+    },
+    {
+      "root": "d-r-j",
+      "root_ar": "درج",
+      "count": 20,
+      "en": [
+        "degre",
+        "rank",
+        "grad",
+        "above",
+        "degree",
+        "raise",
+        "exalt",
+        "accord"
+      ],
+      "meaning": "The root \"drj\" primarily refers to a path, road, or way, whether literal or figurative. It can describe a physical route, a course of action, or even a means to an end.",
+      "review_status": null
+    },
+    {
+      "root": "n-z-3",
+      "root_ar": "نزع",
+      "count": 20,
+      "en": [
+        "disput",
+        "dispute",
+        "fail",
+        "matter",
+        "behold",
+        "forth",
+        "hand",
+        "another"
+      ],
+      "meaning": "The root \"nzʿ\" primarily means to pull out, extract, or remove something. It also conveys the sense of yearning or longing for something, often with an inclination towards it.",
+      "review_status": null
+    },
+    {
+      "root": "m-r-y",
+      "root_ar": "مري",
+      "count": 20,
+      "en": [
+        "doubt",
+        "concern",
+        "about",
+        "dispute",
+        "truth",
+        "muhammad",
+        "scripture",
+        "book"
+      ],
+      "meaning": "The root مري (mry) primarily means to stroke or rub, especially to draw forth milk from a she-camel.",
+      "review_status": null
+    },
+    {
+      "root": "n-kh-l",
+      "root_ar": "نخل",
+      "count": 20,
+      "en": [
+        "palm",
+        "tre",
+        "date",
+        "fruit",
+        "grap",
+        "vin",
+        "dat",
+        "trunk"
+      ],
+      "meaning": "The root نخل (nkhl) means to clear, sift, or take the best part of something. It implies a process of selection, choosing the finest or most excellent portion.",
+      "review_status": null
+    },
+    {
+      "root": "k-sh-f",
+      "root_ar": "كشف",
+      "count": 20,
+      "en": [
+        "remove",
+        "remov",
+        "harm",
+        "penalty",
+        "distres",
+        "torment",
+        "afflict",
+        "call"
+      ],
+      "meaning": "The root كشف (kashafa) means to reveal, uncover, or disclose something. It can also imply acting openly with someone, showing clear enmity, or making war openly.",
+      "review_status": null
+    },
+    {
+      "root": "s6-w-r",
+      "root_ar": "صور",
+      "count": 19,
+      "en": [
+        "trumpet",
+        "blown",
+        "horn",
+        "sound",
+        "shap",
+        "day",
+        "exalt",
+        "wise"
+      ],
+      "meaning": "The root S-W-R primarily means to incline, lean, or turn something. It can also mean to cut or dissect.",
+      "review_status": null
+    },
+    {
+      "root": "t6-l-3",
+      "root_ar": "طلع",
+      "count": 19,
+      "en": [
+        "ris",
+        "look",
+        "sun",
+        "fruit",
+        "right",
+        "bear",
+        "find",
+        "thereof"
+      ],
+      "meaning": "The root ط-ل-ع (ṭ-l-ʿ) primarily signifies \"to rise\" or \"to appear,\" like the sun, moon, or stars. It also describes anything emerging or becoming visible, such as a child's tooth or plants sprouting.",
+      "review_status": null
+    },
+    {
+      "root": "n-f-r",
+      "root_ar": "نفر",
+      "count": 18,
+      "en": [
+        "aversion",
+        "march",
+        "flight",
+        "forth",
+        "quran",
+        "qur",
+        "wealth",
+        "back"
+      ],
+      "meaning": "The root نَفَرَ (nafara) primarily means to take fright and flee, like a wild animal. It extends to shying away from something, being averse to it, or receding/withdrawing.",
+      "review_status": null
+    },
+    {
+      "root": "m-l-l",
+      "root_ar": "ملل",
+      "count": 18,
+      "en": [
+        "cre",
+        "religion",
+        "abraham",
+        "monotheism",
+        "upright",
+        "way",
+        "follow",
+        "idolater"
+      ],
+      "meaning": "The root مَلَلَ (mll) primarily signifies weariness, boredom, or becoming tired of something. It implies a state of being fed up or disgusted, leading to abandonment or neglect.",
+      "review_status": null
+    },
+    {
+      "root": "kh-s6-m",
+      "root_ar": "خصم",
+      "count": 18,
+      "en": [
+        "disput",
+        "quarrell",
+        "opponent",
+        "dispute",
+        "behold",
+        "among"
+      ],
+      "meaning": "The root خَصْم (khSm) primarily refers to the side, edge, or corner of an object, like a load or a bed. It can also denote the extremity of a water-bag or the corners of a cloud.",
+      "review_status": null
+    },
+    {
+      "root": "f-r-d6",
+      "root_ar": "فرض",
+      "count": 18,
+      "en": [
+        "portion",
+        "dower",
+        "ordain",
+        "women",
+        "blame",
+        "wise",
+        "duty",
+        "appoint"
+      ],
+      "meaning": "The root \"frD\" primarily refers to a mark or incision, like a notch in a bow for the string. It also signifies something made obligatory or binding by God, for which one is punished if neglected.",
+      "review_status": null
+    },
+    {
+      "root": "s-w-r",
+      "root_ar": "سور",
+      "count": 17,
+      "en": [
+        "surah",
+        "sura",
+        "chapter",
+        "bracelet",
+        "gold",
+        "armlet",
+        "silk",
+        "reveal"
+      ],
+      "meaning": "سَوْرَةٌ (sawrah) refers to a sudden rush or assault, like wine to the head or venom. It can also describe an outburst of anger, the intensity of cold, or the might of a ruler.",
+      "review_status": null
+    },
+    {
+      "root": "b-w-a",
+      "root_ar": "بوأ",
+      "count": 17,
+      "en": [
+        "wrath",
+        "draw",
+        "hom",
+        "good",
+        "reward",
+        "themselv",
+        "remember",
+        "give"
+      ],
+      "meaning": "The root بوأ (bwA) is not directly defined here. Instead, it points to other entries. \"جُوْزُ بَوَّا\" refers to the entry for \"جوز\" (jawz), and \"خَيْرُ بَوَّآءُ\" refers to the entry for \"خير\" (khayr).",
+      "review_status": null
+    },
+    {
+      "root": "s-w-q",
+      "root_ar": "سوق",
+      "count": 17,
+      "en": [
+        "drive",
+        "driven",
+        "water",
+        "forth",
+        "send",
+        "messenger"
+      ],
+      "meaning": "The root \"سوق\" (sāq) primarily refers to the shank, the part of the leg between the knee and foot. It can also denote the trunk of a tree.",
+      "review_status": null
+    },
+    {
+      "root": "m-h-d",
+      "root_ar": "مهد",
+      "count": 16,
+      "en": [
+        "bed",
+        "abode",
+        "hell",
+        "rest",
+        "miserable",
+        "spread",
+        "lie",
+        "place"
+      ],
+      "meaning": "The root مهد (mhd) means to make something plain, even, or smooth, like preparing a bed. It also signifies preparing good things for oneself or establishing a high station for someone.",
+      "review_status": null
+    },
+    {
+      "root": "kh-w-n",
+      "root_ar": "خون",
+      "count": 16,
+      "en": [
+        "betray",
+        "treacherou",
+        "betrayer",
+        "loveth",
+        "know",
+        "people"
+      ],
+      "meaning": "The root \"khwn\" signifies unfaithfulness, treachery, or betrayal of trust, contrasting with trustworthiness (amānah).",
+      "review_status": null
+    },
+    {
+      "root": "3-t-d",
+      "root_ar": "عتد",
+      "count": 16,
+      "en": [
+        "prepar",
+        "disbeliever",
+        "doom",
+        "blaz",
+        "painful",
+        "retribution",
+        "grievou",
+        "fire"
+      ],
+      "meaning": "The root عتد (Etd) refers to preparation and readiness. عَتَادٌ signifies apparatus, implements, or equipage, especially for war, like weapons and beasts.",
+      "review_status": null
+    },
+    {
+      "root": "j-h-r",
+      "root_ar": "جهر",
+      "count": 16,
+      "en": [
+        "open",
+        "aloud",
+        "public",
+        "secret",
+        "knoweth",
+        "know"
+      ],
+      "meaning": "The root جهر (jhr) primarily means to be or make something plain, apparent, or conspicuous, whether visually or audibly.",
+      "review_status": null
+    },
+    {
+      "root": "gh-l-l",
+      "root_ar": "غلل",
+      "count": 16,
+      "en": [
+        "yok",
+        "carcan",
+        "neck",
+        "chain",
+        "around"
+      ],
+      "meaning": "The root غلل primarily means to enter or penetrate, like water seeping through trees.",
+      "review_status": null
+    },
+    {
+      "root": "h7-b-t6",
+      "root_ar": "حبط",
+      "count": 16,
+      "en": [
+        "work",
+        "fruitles",
+        "vain",
+        "hereafter",
+        "deed",
+        "effect",
+        "loser",
+        "therefor"
+      ],
+      "meaning": "The root حبط (HbT) primarily describes a beast's belly swelling from unwholesome food, leading to sickness or death.",
+      "review_status": null
+    },
+    {
+      "root": "l-h-w",
+      "root_ar": "لهو",
+      "count": 16,
+      "en": [
+        "pastime",
+        "amusement",
+        "play",
+        "distract",
+        "world",
+        "life"
+      ],
+      "meaning": "The root LHW relates to the uvula, the fleshy part hanging in the back of the throat. It can also refer to the area between the tongue and the roof of the mouth, or the furthest part of the mouth.",
+      "review_status": null
+    },
+    {
+      "root": "s-t6-r",
+      "root_ar": "سطر",
+      "count": 16,
+      "en": [
+        "tal",
+        "fabl",
+        "ancient",
+        "old",
+        "men",
+        "written",
+        "naught",
+        "record"
+      ],
+      "meaning": "The root سطر (sTr) primarily refers to a \"line\" of writing, a book, or a row of things like buildings or trees. It can also mean \"writing\" itself.",
+      "review_status": null
+    },
+    {
+      "root": "l-b-b",
+      "root_ar": "لبب",
+      "count": 16,
+      "en": [
+        "understand",
+        "men",
+        "intelligence",
+        "endu",
+        "posses",
+        "message",
+        "heed",
+        "remember"
+      ],
+      "meaning": "The root لَبَبَ (lbb) primarily refers to the breast or chest, specifically the part where a necklace rests.",
+      "review_status": null
+    },
+    {
+      "root": "m-s-h7",
+      "root_ar": "مسح",
+      "count": 15,
+      "en": [
+        "messiah",
+        "christ",
+        "mary",
+        "son",
+        "earth",
+        "him",
+        "save"
+      ],
+      "meaning": "The root مَسَحَ (masaha) primarily means to wipe or pass one's hand over something, often to remove wetness or dirt. It can also mean to measure land, to cut or strike, or to anoint with oil.",
+      "review_status": null
+    },
+    {
+      "root": "s-w-m",
+      "root_ar": "سوم",
+      "count": 15,
+      "en": [
+        "mark",
+        "featur",
+        "torment",
+        "afflict",
+        "women",
+        "son",
+        "people",
+        "remember"
+      ],
+      "meaning": "The root \"swm\" primarily means to go, seek, or roam freely, like cattle pasturing. It also signifies passing quickly, or birds circling.",
+      "review_status": null
+    },
+    {
+      "root": "b-y-3",
+      "root_ar": "بيع",
+      "count": 15,
+      "en": [
+        "trade",
+        "method",
+        "contact",
+        "neither",
+        "believe",
+        "day"
+      ],
+      "meaning": "The root \"byE\" primarily means to exchange property, encompassing both selling and buying. It can also mean to offer something for sale.",
+      "review_status": null
+    },
+    {
+      "root": "h7-r-j",
+      "root_ar": "حرج",
+      "count": 15,
+      "en": [
+        "difficulty",
+        "sick",
+        "blame",
+        "ill",
+        "make",
+        "wish",
+        "right"
+      ],
+      "meaning": "The root حرج (Hrj) conveys the idea of narrowness, tightness, or confinement. It can describe a physical space, a feeling of distress or doubt in one's heart, or being in a difficult situation.",
+      "review_status": null
+    },
+    {
+      "root": "b-d-a",
+      "root_ar": "بدأ",
+      "count": 15,
+      "en": [
+        "initiat",
+        "reproduceth",
+        "produceth",
+        "creation",
+        "repeat",
+        "return",
+        "originat",
+        "creat"
+      ],
+      "meaning": "The root بدأ (bdA) primarily means \"to begin\" or \"to do something first.\" It is used in phrases like \"to begin with\" or \"to do something from the beginning.",
+      "review_status": null
+    },
+    {
+      "root": "w-l-j",
+      "root_ar": "ولج",
+      "count": 14,
+      "en": [
+        "merg",
+        "pas",
+        "night",
+        "day"
+      ],
+      "meaning": "The root وَلَجَ (walaja) primarily means \"to enter.\" It describes a person or thing going into a place or another object.",
+      "review_status": null
+    },
+    {
+      "root": "h7-r-th",
+      "root_ar": "حرث",
+      "count": 14,
+      "en": [
+        "crop",
+        "tilth",
+        "field",
+        "cattle",
+        "people"
+      ],
+      "meaning": "The root \"Hrth\" primarily means to gain or acquire wealth, often through diligent labor. It also refers to tilling land for sowing, and metaphorically, to working for one's afterlife.",
+      "review_status": null
+    },
+    {
+      "root": "r-j-m",
+      "root_ar": "رجم",
+      "count": 14,
+      "en": [
+        "outcast",
+        "accurs",
+        "stone",
+        "devil",
+        "seek",
+        "evil",
+        "reject"
+      ],
+      "meaning": "The root رجم primarily means to throw stones, leading to meanings like stoning to death, driving away, or reviling.",
+      "review_status": null
+    },
+    {
+      "root": "s6-y-h7",
+      "root_ar": "صيح",
+      "count": 13,
+      "en": [
+        "scream",
+        "blast",
+        "shout",
+        "cry",
+        "mighty",
+        "awful",
+        "took",
+        "overtook"
+      ],
+      "meaning": "The root صيح (SyH) primarily means to raise one's voice, call out, or cry aloud, often vehemently. It can also metaphorically describe being frightened or perishing.",
+      "review_status": null
+    },
+    {
+      "root": "h7-w-r",
+      "root_ar": "حور",
+      "count": 13,
+      "en": [
+        "discipl",
+        "companion",
+        "fair",
+        "one"
+      ],
+      "meaning": "The root Hwr relates to returning or circling. A \"mahārah\" can be a mother-of-pearl shell, a place where water collects, or a cavity in the body like the ear or hip.",
+      "review_status": null
+    },
+    {
+      "root": "q-n-t",
+      "root_ar": "قنت",
+      "count": 13,
+      "en": [
+        "devout",
+        "obedient",
+        "guard",
+        "worship"
+      ],
+      "meaning": "The root قنت (qnt) primarily signifies obedience, especially constant obedience to God.",
+      "review_status": null
+    },
+    {
+      "root": "q-r-d6",
+      "root_ar": "قرض",
+      "count": 13,
+      "en": [
+        "loan",
+        "lend",
+        "beautiful",
+        "credit",
+        "good",
+        "give",
+        "allah"
+      ],
+      "meaning": "The root QRḌ primarily means \"to cut\" or \"to gnaw,\" like a rat cutting cloth or a camel chewing its cud.",
+      "review_status": null
+    },
+    {
+      "root": "kh-z-n",
+      "root_ar": "خزن",
+      "count": 13,
+      "en": [
+        "treasur",
+        "keeper",
+        "thereof",
+        "guard",
+        "keep",
+        "lord"
+      ],
+      "meaning": "The root خزن (khzn) primarily means to store, lay up, or preserve something, like property, often in a storeroom. It can also mean to conceal a secret or to withhold a gift.",
+      "review_status": null
+    },
+    {
+      "root": "d6-y-q",
+      "root_ar": "ضيق",
+      "count": 13,
+      "en": [
+        "straiten",
+        "tight"
+      ],
+      "meaning": "The root ضيق (Dyq) primarily means to be or become narrow or strait, the opposite of spacious.",
+      "review_status": null
+    },
+    {
+      "root": "j-w-r",
+      "root_ar": "جور",
+      "count": 13,
+      "en": [
+        "protect"
+      ],
+      "meaning": "The root جَارٌ (jār) primarily means a neighbor, someone living nearby. It also extends to mean a protector, one who grants refuge, or someone seeking protection.",
+      "review_status": null
+    },
+    {
+      "root": "kh-l-l",
+      "root_ar": "خلل",
+      "count": 13,
+      "en": [
+        "midst",
+        "friend",
+        "forth",
+        "com",
+        "come",
+        "therein",
+        "made"
+      ],
+      "meaning": "The primary meaning of خَلَل (khall) refers to a gap, interstice, or space between things. It can also denote a defect, flaw, or disorder, often arising from such a gap or interruption.",
+      "review_status": null
+    },
+    {
+      "root": "h7-l-f",
+      "root_ar": "حلف",
+      "count": 13,
+      "en": [
+        "swear",
+        "folk"
+      ],
+      "meaning": "The root Hlf refers to a type of tall, coarse grass that grows near water, known as *halfa'*. It's rough to the touch and sometimes eaten by animals.",
+      "review_status": null
+    },
+    {
+      "root": "gh-l-z6",
+      "root_ar": "غلظ",
+      "count": 13,
+      "en": [
+        "severe",
+        "harsh",
+        "hard",
+        "strong",
+        "rejecter",
+        "unbeliever",
+        "firm",
+        "disbeliever"
+      ],
+      "meaning": "The root غلظ (ghalaza) describes something that is thick, coarse, or rough, whether physically or figuratively.",
+      "review_status": null
+    },
+    {
+      "root": "b-gh-t",
+      "root_ar": "بغت",
+      "count": 13,
+      "en": [
+        "sudden",
+        "unawar",
+        "hour",
+        "perceive",
+        "com",
+        "come",
+        "until",
+        "retribution"
+      ],
+      "meaning": "The root بغت (bgt) signifies something happening suddenly, unexpectedly, or by surprise. It implies an unforeseen event or an abrupt encounter.",
+      "review_status": null
+    },
+    {
+      "root": "b-y-d6",
+      "root_ar": "بيض",
+      "count": 12,
+      "en": [
+        "white",
+        "hand",
+        "forth"
+      ],
+      "meaning": "The root \"byD\" primarily refers to an egg, especially an ostrich egg, due to its whiteness. It can also metaphorically describe a helmet, a testicle, or the core of something.",
+      "review_status": null
+    },
+    {
+      "root": "kh-t6-b",
+      "root_ar": "خطب",
+      "count": 12,
+      "en": [
+        "take"
+      ],
+      "meaning": "The root خُطْبَةٌ (khuṭbah) refers to a formal speech, sermon, or oration, often delivered in public. It's like an exhortation or admonition, similar to a modern-day sermon.",
+      "review_status": null
+    },
+    {
+      "root": "l-h7-m",
+      "root_ar": "لحم",
+      "count": 12,
+      "en": [
+        "flesh",
+        "meat",
+        "blood",
+        "swineflesh",
+        "immolat",
+        "carrion",
+        "swine",
+        "pig"
+      ],
+      "meaning": "The root LHM relates to joining or closing things, like patching a hole in a garment or consolidating wounds.",
+      "review_status": null
+    },
+    {
+      "root": "j-b-y",
+      "root_ar": "جبي",
+      "count": 12,
+      "en": [
+        "chose",
+        "chosen",
+        "guid",
+        "abraham"
+      ],
+      "meaning": "The root جبي (jby) primarily refers to \"ginger\" (زَنْجَبِيلٌ), a well-known plant root with medicinal properties, often used dried.",
+      "review_status": null
+    },
+    {
+      "root": "s-f-r",
+      "root_ar": "سفر",
+      "count": 12,
+      "en": [
+        "journey",
+        "travel",
+        "ill",
+        "hand"
+      ],
+      "meaning": "The root \"sfr\" primarily means to sweep or clear away, like wind dispersing dust or clouds. It also describes a woman uncovering her face or the sun rising.",
+      "review_status": null
+    },
+    {
+      "root": "t6-m-3",
+      "root_ar": "طمع",
+      "count": 12,
+      "en": [
+        "hope",
+        "fear"
+      ],
+      "meaning": "The root طمع (TmE) primarily means to covet or desire something eagerly, often with a sense of greed or inordinate longing.",
+      "review_status": null
+    },
+    {
+      "root": "kh-w-d6",
+      "root_ar": "خوض",
+      "count": 12,
+      "en": [
+        "talk",
+        "play",
+        "vain",
+        "until",
+        "revelation"
+      ],
+      "meaning": "The root خوض (khawd) primarily means to wade or pass through water. Tropically, it extends to entering into or plunging through various things, like discourse, affairs, or even false speech.",
+      "review_status": null
+    },
+    {
+      "root": "sh-y-3",
+      "root_ar": "شيع",
+      "count": 12,
+      "en": [
+        "sect",
+        "group",
+        "among"
+      ],
+      "meaning": "The root شيع (shyE) primarily means to follow or cause to follow. It describes a pastor calling camels to follow, or urging sheep.",
+      "review_status": null
+    },
+    {
+      "root": "s-j-n",
+      "root_ar": "سجن",
+      "count": 12,
+      "en": [
+        "prison",
+        "lord"
+      ],
+      "meaning": "Sijjeen refers to a place where the records of the wicked are kept, often described as a valley in Hell or a stone beneath the seventh earth. It can also mean a register of evil deeds.",
+      "review_status": null
+    },
+    {
+      "root": "sh-m-l",
+      "root_ar": "شمل",
+      "count": 12,
+      "en": [
+        "left",
+        "right",
+        "hand"
+      ],
+      "meaning": "The root \"shml\" primarily means to include or encompass something, like an event affecting everyone. It also describes covering something, like with a garment, or a she-camel conceiving.",
+      "review_status": null
+    },
+    {
+      "root": "n-t6-f",
+      "root_ar": "نطف",
+      "count": 12,
+      "en": [
+        "drop",
+        "sperm",
+        "seed",
+        "creat",
+        "fluid",
+        "forth",
+        "dust",
+        "man"
+      ],
+      "meaning": "The root نطف (nTf) refers to a type of sweetmeat, similar to \"qubbayṭā.\" It's a confection, often sticky or syrupy.",
+      "review_status": null
+    },
+    {
+      "root": "s-l-k",
+      "root_ar": "سلك",
+      "count": 12,
+      "en": [
+        "forth",
+        "make",
+        "earth"
+      ],
+      "meaning": "The root سلك (slk) means to travel, go along, or enter a path or place. It also means to insert or cause something to enter into another, like threading a needle or water entering springs.",
+      "review_status": null
+    },
+    {
+      "root": "h7-s-r",
+      "root_ar": "حسر",
+      "count": 12,
+      "en": [
+        "anguish",
+        "regret"
+      ],
+      "meaning": "The root HSR primarily means to remove or uncover something. It also describes becoming tired or fatigued, whether a beast from travel or the eye from prolonged looking.",
+      "review_status": null
+    },
+    {
+      "root": "w-d-y",
+      "root_ar": "ودي",
+      "count": 12,
+      "en": [
+        "valley"
+      ],
+      "meaning": "The root WDY primarily means to pay blood-money or compensation for a life. It also refers to the act of giving or presenting something, often as a gift or offering.",
+      "review_status": null
+    },
+    {
+      "root": "t6-w-r",
+      "root_ar": "طور",
+      "count": 11,
+      "en": [
+        "mount",
+        "sinai",
+        "covenant",
+        "made"
+      ],
+      "meaning": "The root طَوْر (Twr) primarily denotes \"time\" or \"occasion.\" It also signifies \"state,\" \"condition,\" or \"manner,\" as in the creation of humans through various stages.",
+      "review_status": null
+    },
+    {
+      "root": "j-m-l",
+      "root_ar": "جمل",
+      "count": 11,
+      "en": [
+        "patience",
+        "good"
+      ],
+      "meaning": "The root \"jml\" primarily refers to a male camel, specifically a full-grown one. It can also be used generically for camels or even metaphorically for a woman's husband or tall palm trees.",
+      "review_status": null
+    },
+    {
+      "root": "gh-m-m",
+      "root_ar": "غمم",
+      "count": 11,
+      "en": [
+        "cloud",
+        "distres",
+        "back",
+        "forth",
+        "thu",
+        "sent"
+      ],
+      "meaning": "The root غمم (gmm) primarily refers to covering or concealing something, leading to meanings of distress, grief, or anxiety.",
+      "review_status": null
+    },
+    {
+      "root": "s6-3-q",
+      "root_ar": "صعق",
+      "count": 11,
+      "en": [
+        "thunder",
+        "lightn",
+        "stunn",
+        "bolt",
+        "seiz",
+        "look"
+      ],
+      "meaning": "The root \"SEq\" describes being struck by a thunderbolt, leading to swooning, insensibility, or death. It also refers to a loud, vehement sound causing such effects, or a well collapsing.",
+      "review_status": null
+    },
+    {
+      "root": "r-d6-3",
+      "root_ar": "رضع",
+      "count": 11,
+      "en": [
+        "suck",
+        "mother",
+        "child"
+      ],
+      "meaning": "The root رَضَعَ (raḍaʿa) denotes suckling — drinking milk from the udder or breast. Ibn Fāris gives it a single sense with no secondary branches; derived forms cover the nursing infant, the wet-nurse, and the relationship of milk-kinship.",
+      "review_status": null
+    },
+    {
+      "root": "y-m-m",
+      "root_ar": "يمم",
+      "count": 11,
+      "en": [
+        "sea",
+        "cast",
+        "take"
+      ],
+      "meaning": "The root يمم primarily means to go or direct oneself towards a place or person, often with intention.",
+      "review_status": null
+    },
+    {
+      "root": "h7-r-b",
+      "root_ar": "حرب",
+      "count": 11,
+      "en": [
+        "chamber",
+        "enclosure",
+        "war",
+        "temple"
+      ],
+      "meaning": "The root حرب (Hrb) primarily means \"war\" or \"battle.\" It is usually feminine, but can be masculine. It can also describe a \"warrior\" or someone \"vehement in war.",
+      "review_status": null
+    },
+    {
+      "root": "s-b-b",
+      "root_ar": "سبب",
+      "count": 11,
+      "en": [
+        "road",
+        "mean",
+        "way",
+        "end",
+        "follow"
+      ],
+      "meaning": "The root سَبَب primarily means a rope or anything by which one ascends or attains an object. It also refers to a means, instrument, or cause for something to happen.",
+      "review_status": null
+    },
+    {
+      "root": "t6-r-f",
+      "root_ar": "طرف",
+      "count": 11,
+      "en": [
+        "gaze",
+        "part",
+        "look",
+        "eye"
+      ],
+      "meaning": "The root طرف (Trf) primarily signifies the extremity or end of something, like a sword's tip or a rope's end. It also denotes a side, region, or a portion of a thing.",
+      "review_status": null
+    },
+    {
+      "root": "q-s6-r",
+      "root_ar": "قصر",
+      "count": 11,
+      "en": [
+        "glanc",
+        "restrain"
+      ],
+      "meaning": "The root قصر (q-ṣ-r) primarily means to be or become short, or to fall short of something. It can describe an arrow missing its target, a person lacking power or ability, or money being insufficient.",
+      "review_status": null
+    },
+    {
+      "root": "f-a-y",
+      "root_ar": "فأي",
+      "count": 11,
+      "en": [
+        "group",
+        "host",
+        "allah"
+      ],
+      "meaning": "The root فَيّ (fayy) primarily refers to the return or turning back of something, often after having departed.",
+      "review_status": null
+    },
+    {
+      "root": "z-b-r",
+      "root_ar": "زبر",
+      "count": 11,
+      "en": [
+        "psalm",
+        "book",
+        "scripture"
+      ],
+      "meaning": "The root زبر (zbr) primarily means to case a well with stones, or to build one part upon another. It also means to chide or restrain someone with rough speech, preventing them from an action.",
+      "review_status": null
+    },
+    {
+      "root": "t6-r-q",
+      "root_ar": "طرق",
+      "count": 11,
+      "en": [
+        "path",
+        "way"
+      ],
+      "meaning": "The root ط ر ق (Trq) primarily means to strike or beat, like knocking on a door or beating wool. It also refers to coming by night, especially to one's family, and a stallion covering a she-camel.",
+      "review_status": null
+    },
+    {
+      "root": "r-3-y",
+      "root_ar": "رعي",
+      "count": 10,
+      "en": [
+        "shepherd"
+      ],
+      "meaning": "The root رعي primarily means to guard, preserve, or pasture animals, implying careful oversight. It extends to observing, considering, or taking care of something, like a promise or a right.",
+      "review_status": null
+    },
+    {
+      "root": "z-y-l",
+      "root_ar": "زيل",
+      "count": 10,
+      "en": [
+        "cease",
+        "until",
+        "made"
+      ],
+      "meaning": "The root زيل (zyl) primarily means to separate or remove something. It also forms the basis for the common phrase \"مَا زَالَ\" (mā zāla), meaning \"he ceased not\" or \"he continued to do something.",
+      "review_status": null
+    },
+    {
+      "root": "r-j-z",
+      "root_ar": "رجز",
+      "count": 10,
+      "en": [
+        "affliction",
+        "plague",
+        "wrath",
+        "penalty",
+        "heaven"
+      ],
+      "meaning": "The root \"rjz\" primarily describes a camel's disease. It also refers to reciting a specific poetic meter called \"rajaz.",
+      "review_status": null
+    },
+    {
+      "root": "s-f-l",
+      "root_ar": "سفل",
+      "count": 10,
+      "en": [
+        "made"
+      ],
+      "meaning": "The root سفل (sfl) primarily means to be or become low, to descend, or to sink downwards. It can describe physical lowness, a low status, or a base and ignoble character.",
+      "review_status": null
+    },
+    {
+      "root": "k-f-l",
+      "root_ar": "كفل",
+      "count": 10,
+      "en": [
+        "care",
+        "good"
+      ],
+      "meaning": "The root كفل (kfl) means to be responsible, accountable, or a surety for something or someone. It implies guaranteeing property or ensuring a person's presence for legal matters.",
+      "review_status": null
+    },
+    {
+      "root": "j-b-r",
+      "root_ar": "جبر",
+      "count": 10,
+      "en": [
+        "tyrant",
+        "powerful",
+        "arrogant"
+      ],
+      "meaning": "The root جَبَرَ (jabr) primarily means to set a broken bone. Tropically, it extends to restoring someone from poverty to wealth or competence, or generally putting something into a sound state.",
+      "review_status": null
+    },
+    {
+      "root": "b-t6-sh",
+      "root_ar": "بطش",
+      "count": 10,
+      "en": [
+        "strike",
+        "power"
+      ],
+      "meaning": "The root بطش (b-ṭ-sh) primarily means to seize or assault with violence and force. It can also describe taking hold of something strongly or a hand working/laboring.",
+      "review_status": null
+    },
+    {
+      "root": "m-l-w",
+      "root_ar": "ملو",
+      "count": 10,
+      "en": [
+        "respite",
+        "long",
+        "grant"
+      ],
+      "meaning": "The root ملو primarily signifies filling something completely, to the brim, or to its full capacity. It can also denote a period of time, like a full lifetime, or a full measure of time.",
+      "review_status": null
+    },
+    {
+      "root": "m-a-y",
+      "root_ar": "مأي",
+      "count": 10,
+      "en": [
+        "hundr"
+      ],
+      "meaning": "The root مأي (mAy) primarily signifies the act of drawing water from a well. It can also refer to the water itself, or the place where water is drawn.",
+      "review_status": null
+    },
+    {
+      "root": "j-d-d",
+      "root_ar": "جدد",
+      "count": 10,
+      "en": [
+        "creation",
+        "new",
+        "dust",
+        "rais",
+        "creat",
+        "reject"
+      ],
+      "meaning": "The root جَدَدَ (jadd) primarily means to cut or to make something new. It signifies renewal, making something fresh, or a new path/way. It can also refer to a new garment or a new fortune.",
+      "review_status": null
+    },
+    {
+      "root": "a-s6-l",
+      "root_ar": "أصل",
+      "count": 10,
+      "en": [
+        "morn",
+        "even"
+      ],
+      "meaning": "The root ASL refers to the foundational part of something, like the root of a tree or the base of a mountain. It also signifies origin, source, or lineage, as in a person's ancestry.",
+      "review_status": null
+    },
+    {
+      "root": "r-j-s",
+      "root_ar": "رجس",
+      "count": 10,
+      "en": [
+        "abomination",
+        "affliction",
+        "leave"
+      ],
+      "meaning": "Rijs (رجس) refers to uncleanness, filth, or anything disliked for its impurity, including sin or actions leading to punishment. It can also mean punishment itself, doubt, or the devil's suggestion.",
+      "review_status": null
+    },
+    {
+      "root": "3-t-w",
+      "root_ar": "عتو",
+      "count": 10,
+      "en": [
+        "insolent",
+        "lord"
+      ],
+      "meaning": "The root عتو (Etw) signifies behaving proudly, being immoderate, or revolting from obedience.",
+      "review_status": null
+    },
+    {
+      "root": "q-h-r",
+      "root_ar": "قهر",
+      "count": 10,
+      "en": [
+        "irresistible",
+        "supreme",
+        "almighty",
+        "thing"
+      ],
+      "meaning": "The root قهر (qahr) means to overcome, conquer, or overpower someone or something. It also implies abasing, oppressing, or forcing someone, as seen in the Quran (93:9) regarding orphans.",
+      "review_status": null
+    },
+    {
+      "root": "r-h-q",
+      "root_ar": "رهق",
+      "count": 10,
+      "en": [
+        "cover",
+        "ignominy"
+      ],
+      "meaning": "The root \"rhq\" primarily means to come upon, reach, or draw near to something, often implying an encompassing or overtaking action.",
+      "review_status": null
+    },
+    {
+      "root": "d-m-r",
+      "root_ar": "دمر",
+      "count": 10,
+      "en": [
+        "destroy",
+        "utter",
+        "folk",
+        "people"
+      ],
+      "meaning": "The root دمر (dmr) describes something small, ignoble, or mean. It can refer to a small, short jerboa, or metaphorically, a small ear.",
+      "review_status": null
+    },
+    {
+      "root": "z-l-f",
+      "root_ar": "زلف",
+      "count": 10,
+      "en": [
+        "near",
+        "approach",
+        "nigh",
+        "brought"
+      ],
+      "meaning": "The root زلف (zlf) primarily conveys the meaning of nearness, closeness, or proximity, whether in terms of physical distance, rank, or status. It can also refer to a portion or division of the night.",
+      "review_status": null
+    },
+    {
+      "root": "w-h-n",
+      "root_ar": "وهن",
+      "count": 9,
+      "en": [
+        "weak"
+      ],
+      "meaning": "The root وهن (whn) signifies weakness, languor, or enervation. It describes being rendered faint, lax, or cowardly, losing energy or resolve. The verb أَوْهَنَهُ means to weaken or unnerve someone.",
+      "review_status": null
+    },
+    {
+      "root": "z-y-gh",
+      "root_ar": "زيغ",
+      "count": 9,
+      "en": [
+        "heart"
+      ],
+      "meaning": "The root ZYG primarily means to deviate or swerve from the right path or truth, like a person straying or the sun declining from its zenith.",
+      "review_status": null
+    },
+    {
+      "root": "b-q-r",
+      "root_ar": "بقر",
+      "count": 9,
+      "en": [
+        "cow",
+        "heifer",
+        "answer",
+        "mos",
+        "make"
+      ],
+      "meaning": "The root بقر (bqr) primarily refers to bovine animals, like cows and oxen, both domestic and wild.",
+      "review_status": null
+    },
+    {
+      "root": "n-q-d6",
+      "root_ar": "نقض",
+      "count": 9,
+      "en": [
+        "break",
+        "covenant",
+        "pledge",
+        "mak",
+        "word",
+        "make",
+        "made"
+      ],
+      "meaning": "The root نقض (nqD) primarily means to remove a covering, like earth from truffles, or for the earth to reveal plants.",
+      "review_status": null
+    },
+    {
+      "root": "3-k-f",
+      "root_ar": "عكف",
+      "count": 9,
+      "en": [
+        "devot",
+        "worship",
+        "men",
+        "made",
+        "people"
+      ],
+      "meaning": "The root عكف (Ekf) primarily means to cleave to something constantly, persevering, or to be intent upon it, often in a place or around an object.",
+      "review_status": null
+    },
+    {
+      "root": "h7-l-y",
+      "root_ar": "حلي",
+      "count": 9,
+      "en": [
+        "wear",
+        "bracelet",
+        "silk",
+        "gold",
+        "ornament",
+        "flow",
+        "garment",
+        "adorn"
+      ],
+      "meaning": "The root حلي (Hly) primarily refers to being sweet or becoming sweet, often in taste. It also encompasses the idea of being lawful or permissible, especially in religious contexts.",
+      "review_status": null
+    },
+    {
+      "root": "d-w-m",
+      "root_ar": "دوم",
+      "count": 9,
+      "en": [
+        "long"
+      ],
+      "meaning": "The root \"dwm\" primarily describes circular motion or stillness within motion. It refers to birds circling, the sun appearing stationary at midday, or eyes rolling.",
+      "review_status": null
+    },
+    {
+      "root": "s6-3-d",
+      "root_ar": "صعد",
+      "count": 9,
+      "en": [
+        "make"
+      ],
+      "meaning": "The root صعد (SEd) primarily means to ascend or go upwards, often implying movement towards higher ground or a higher region.",
+      "review_status": null
+    },
+    {
+      "root": "3-b-r",
+      "root_ar": "عبر",
+      "count": 9,
+      "en": [
+        "lesson",
+        "instructive",
+        "vision",
+        "see"
+      ],
+      "meaning": "The root عبر (Ebr) primarily means to cross or pass over something, like a river or a road. This can extend to metaphorical crossings, such as dying or traveling through life.",
+      "review_status": null
+    },
+    {
+      "root": "kh-y-l",
+      "root_ar": "خيل",
+      "count": 9,
+      "en": [
+        "hors",
+        "thing"
+      ],
+      "meaning": "The root خيل (khyl) primarily relates to imaging or fancying something in the mind, often implying illusion or doubt.",
+      "review_status": null
+    },
+    {
+      "root": "t-j-r",
+      "root_ar": "تجر",
+      "count": 9,
+      "en": [
+        "trade",
+        "commerce",
+        "merchandise"
+      ],
+      "meaning": "The root تجر (tjr) primarily refers to a merchant or trader, someone who buys and sells for gain.",
+      "review_status": null
+    },
+    {
+      "root": "f-d6-d6",
+      "root_ar": "فضض",
+      "count": 9,
+      "en": [
+        "silver",
+        "away"
+      ],
+      "meaning": "The root ف ض ض primarily means to break, burst, or split something open, often with a scattering or dispersing effect. It can refer to breaking a seal, a vessel, or a crowd.",
+      "review_status": null
+    },
+    {
+      "root": "s6-l-b",
+      "root_ar": "صلب",
+      "count": 8,
+      "en": [
+        "crucify",
+        "crucifi",
+        "alternate",
+        "sid",
+        "feet",
+        "cut",
+        "off",
+        "hand"
+      ],
+      "meaning": "The root صلب (Slb) primarily denotes hardness, firmness, or rigidity, applying to objects, places, and even abstract concepts like religion or running.",
+      "review_status": null
+    },
+    {
+      "root": "k-l-f",
+      "root_ar": "كلف",
+      "count": 8,
+      "en": [
+        "beyond",
+        "burden",
+        "scope",
+        "soul",
+        "bear",
+        "mean",
+        "place"
+      ],
+      "meaning": "The root كلف (klf) often implies undertaking something difficult or burdensome, either willingly or as a task.",
+      "review_status": null
+    },
+    {
+      "root": "b-h-t",
+      "root_ar": "بهت",
+      "count": 8,
+      "en": [
+        "calumny",
+        "slander",
+        "falsehood",
+        "sin"
+      ],
+      "meaning": "The root بَهَتَ (bht) primarily means to be confounded, perplexed, or amazed, often to the point of being silenced or overcome.",
+      "review_status": null
+    },
+    {
+      "root": "w-b-l",
+      "root_ar": "وبل",
+      "count": 8,
+      "en": [
+        "result",
+        "taste",
+        "evil"
+      ],
+      "meaning": "The root وبل (wbl) refers to the extremity of the scapula, specifically the glenoid cavity, and the surrounding flesh or muscle.",
+      "review_status": null
+    },
+    {
+      "root": "s6-f-h7",
+      "root_ar": "صفح",
+      "count": 8,
+      "en": [
+        "overlook",
+        "forgive"
+      ],
+      "meaning": "The root صَفْح (SfH) primarily refers to the side or lateral part of something, like the side of a face or a sword's flat.",
+      "review_status": null
+    },
+    {
+      "root": "s6-w-t",
+      "root_ar": "صوت",
+      "count": 8,
+      "en": [
+        "voic"
+      ],
+      "meaning": "The root صَوْت (ṣawt) refers to a sound, noise, voice, or cry, applicable to humans and other things. It can also mean a clamor or a cry for help.",
+      "review_status": null
+    },
+    {
+      "root": "s-t-t",
+      "root_ar": "ستت",
+      "count": 8,
+      "en": [
+        "six",
+        "throne",
+        "settl",
+        "creat",
+        "heaven",
+        "authority",
+        "firm",
+        "establish"
+      ],
+      "meaning": "The root سَتَتَ (sattata) primarily means to cover or conceal something. It implies drawing a veil or screen over an object, making it hidden from view.",
+      "review_status": null
+    },
+    {
+      "root": "l-t6-f",
+      "root_ar": "لطف",
+      "count": 8,
+      "en": [
+        "subtile",
+        "myster",
+        "finest",
+        "expert",
+        "acquaint",
+        "aware",
+        "understand",
+        "well"
+      ],
+      "meaning": "The root لطف (lTf) means to treat someone with gentleness, kindness, and affection. It implies speaking softly, soothing, and showing good manners. It can also mean to caress or coax someone.",
+      "review_status": null
+    },
+    {
+      "root": "q-b-r",
+      "root_ar": "قبر",
+      "count": 8,
+      "en": [
+        "grav"
+      ],
+      "meaning": "The root QBR refers to a type of small bird, specifically a lark. It is known by several similar-sounding names, such as qubbar, qubbarah, and qunbura. The plural form is qanabir.",
+      "review_status": null
+    },
+    {
+      "root": "3-q-r",
+      "root_ar": "عقر",
+      "count": 8,
+      "en": [
+        "hamstrung",
+        "lord"
+      ],
+      "meaning": "The root عقر (Eqr) primarily means to wound or hamstring, especially an animal like a camel, often with a sword.",
+      "review_status": null
+    },
+    {
+      "root": "gh-b-r",
+      "root_ar": "غبر",
+      "count": 8,
+      "en": [
+        "stay",
+        "behind",
+        "wife",
+        "except",
+        "household",
+        "save",
+        "fami"
+      ],
+      "meaning": "The root غبر (gbr) primarily relates to dust and a dusty color. It describes things that are dust-colored, like a wolf or the earth itself.",
+      "review_status": null
+    },
+    {
+      "root": "n-s-k",
+      "root_ar": "نسك",
+      "count": 7,
+      "en": [
+        "rit",
+        "people",
+        "lord"
+      ],
+      "meaning": "The root نسك (nsk) primarily means to devote oneself to religious exercises or devotion. It describes someone who becomes a devout worshipper, engaging in acts of piety.",
+      "review_status": null
+    },
+    {
+      "root": "n-w-q",
+      "root_ar": "نوق",
+      "count": 7,
+      "en": [
+        "camel"
+      ],
+      "meaning": "The root نوق (nwq) relates to daintiness, nicety, and refinement. It implies exceeding the usual in quality, making something good, beautiful, firm, or free from defect.",
+      "review_status": null
+    },
+    {
+      "root": "3-q-d",
+      "root_ar": "عقد",
+      "count": 7,
+      "en": [
+        "him"
+      ],
+      "meaning": "The root عقد (Eqd) primarily means to tie or knot something firmly, like a rope. It extends to making contracts, oaths, or firm decisions.",
+      "review_status": null
+    },
+    {
+      "root": "q-s-w",
+      "root_ar": "قسو",
+      "count": 7,
+      "en": [
+        "harden",
+        "heart"
+      ],
+      "meaning": "The root قسو primarily means to be hard, severe, or unyielding. It describes something that is tough and not easily affected or softened, like a stone.",
+      "review_status": null
+    },
+    {
+      "root": "n-s6-f",
+      "root_ar": "نصف",
+      "count": 7,
+      "en": [
+        "half",
+        "third",
+        "women"
+      ],
+      "meaning": "The root نَصَفَ (naṣafa) primarily means to do justice, act equitably, or give someone their due right. It implies fairness and rectitude in dealings, ensuring that what is owed is rendered.",
+      "review_status": null
+    },
+    {
+      "root": "n-d-m",
+      "root_ar": "ندم",
+      "count": 7,
+      "en": [
+        "regret",
+        "become"
+      ],
+      "meaning": "The root ندم (ndm) primarily signifies grieving, regretting, or repenting for past actions. It can also imply disliking something.",
+      "review_status": null
+    },
+    {
+      "root": "n-k-th",
+      "root_ar": "نكث",
+      "count": 7,
+      "en": [
+        "oath"
+      ],
+      "meaning": "The root نكث (nkth) primarily means to undo or untwist, like a rope. Tropically, it refers to breaking a promise or covenant, or a difficult affair that causes people to break agreements.",
+      "review_status": null
+    },
+    {
+      "root": "b-d6-3",
+      "root_ar": "بضع",
+      "count": 7,
+      "en": [
+        "merchandise",
+        "good"
+      ],
+      "meaning": "The root بضع (bDE) refers to a small, indefinite number, typically from three to nine. It can also denote a number between thirteen and nineteen when combined with 'ashara (ten).",
+      "review_status": null
+    },
+    {
+      "root": "a-s-w",
+      "root_ar": "أسو",
+      "count": 7,
+      "en": [
+        "good",
+        "people",
+        "lord"
+      ],
+      "meaning": "The root أسو (Asw) primarily conveys the idea of sharing, making equal, or imitating.",
+      "review_status": null
+    },
+    {
+      "root": "3-l-q",
+      "root_ar": "علق",
+      "count": 7,
+      "en": [
+        "clot",
+        "creat"
+      ],
+      "meaning": "The root عَلِقَ (ʿaliqa) primarily means to hang, cling, or stick to something. It can also describe becoming attached by love, getting caught in a snare, or setting about an action.",
+      "review_status": null
+    },
+    {
+      "root": "f-y-a",
+      "root_ar": "فيأ",
+      "count": 7,
+      "en": [
+        "allah"
+      ],
+      "meaning": "The root فَآءَ (fyA) primarily means \"to return,\" often implying a return to a good state, obedience, or reconsideration.",
+      "review_status": null
+    },
+    {
+      "root": "d6-h7-w",
+      "root_ar": "ضحو",
+      "count": 7,
+      "en": [
+        "morn"
+      ],
+      "meaning": "The root ضحو (DHw) primarily relates to actions performed during the forenoon (ضُحَى). It describes coming to someone, pasturing animals, or feeding people during this time.",
+      "review_status": null
+    },
+    {
+      "root": "s6-r-r",
+      "root_ar": "صرر",
+      "count": 6,
+      "en": [
+        "persist",
+        "obstinate"
+      ],
+      "meaning": "The root صرر (Srr) primarily means to tie or bind tightly, to gather or collect something into a bundle or purse, and to make a sound like a creak or chirp.",
+      "review_status": null
+    },
+    {
+      "root": "l-h7-d",
+      "root_ar": "لحد",
+      "count": 6,
+      "en": [
+        "him"
+      ],
+      "meaning": "The root لحد (lHd) primarily means to decline, deviate, or incline.",
+      "review_status": null
+    },
+    {
+      "root": "k-l-b",
+      "root_ar": "كلب",
+      "count": 6,
+      "en": [
+        "dog"
+      ],
+      "meaning": "The root كَلْب (klb) primarily refers to a dog, or any wounding animal of prey. It can also describe a lion or wolf.",
+      "review_status": null
+    },
+    {
+      "root": "h7-m-r",
+      "root_ar": "حمر",
+      "count": 6,
+      "en": [
+        "ass",
+        "donkey"
+      ],
+      "meaning": "The root حمر (Hmr) primarily denotes the color red, but its meaning extends significantly.",
+      "review_status": null
+    },
+    {
+      "root": "l-w-h7",
+      "root_ar": "لوح",
+      "count": 6,
+      "en": [
+        "tablet"
+      ],
+      "meaning": "The root (lwH) primarily conveys the meaning of appearing, shining, or gleaming, like a star or lightning. It also describes something becoming apparent or manifest.",
+      "review_status": null
+    },
+    {
+      "root": "h7-b-r",
+      "root_ar": "حبر",
+      "count": 6,
+      "en": [
+        "rabbi",
+        "priest"
+      ],
+      "meaning": "The root Hbr refers to the \"hubara,\" a type of bustard bird. It's known for its dust-colored plumage, long neck, and is often preyed upon.",
+      "review_status": null
+    },
+    {
+      "root": "n-z-gh",
+      "root_ar": "نزغ",
+      "count": 6,
+      "en": [
+        "devil"
+      ],
+      "meaning": "The root NZG primarily means to incite, instigate, or stir up trouble, often with a sense of subtle or malicious prompting.",
+      "review_status": null
+    },
+    {
+      "root": "l-h7-q",
+      "root_ar": "لحق",
+      "count": 6,
+      "en": [
+        "join"
+      ],
+      "meaning": "The root لحق (lHq) primarily means to reach, overtake, or catch up with someone or something. It can also describe something becoming adjoined or annexed, or grief befalling someone.",
+      "review_status": null
+    },
+    {
+      "root": "h7-r-f",
+      "root_ar": "حرف",
+      "count": 6,
+      "en": [
+        "change",
+        "word",
+        "allah"
+      ],
+      "meaning": "The root حَرَفَ (ḥarafa) has three cores per Ibn Fāris: the edge or brink of a thing; turning aside or deviating; and apportioning. From the first comes حَرْف, a letter or edge; from the second, تحريف, distorting speech by twisting it from its sense.",
+      "review_status": null
+    },
+    {
+      "root": "q-m-s6",
+      "root_ar": "قمص",
+      "count": 6,
+      "en": [
+        "shirt"
+      ],
+      "meaning": "The root قمص (qmS) describes a horse or similar animal raising its forelegs and beating the ground with its hind legs, often when startled or restless.",
+      "review_status": null
+    },
+    {
+      "root": "f-kh-r",
+      "root_ar": "فخر",
+      "count": 6,
+      "en": [
+        "like"
+      ],
+      "meaning": "The root فخر (fkhr) primarily means to glory, boast, or praise oneself, often by recounting noble deeds or ancestry. It can also imply contending for superiority or disdaining others.",
+      "review_status": null
+    },
+    {
+      "root": "d-r-s",
+      "root_ar": "درس",
+      "count": 6,
+      "en": [
+        "study",
+        "book",
+        "scripture"
+      ],
+      "meaning": "The root درس (drs) primarily means for something to become effaced, erased, or worn out, like traces, houses, or garments.",
+      "review_status": null
+    },
+    {
+      "root": "dh-r-a",
+      "root_ar": "ذرأ",
+      "count": 6,
+      "en": [
+        "earth",
+        "him"
+      ],
+      "meaning": "The root ذرأ primarily means to create, originate, or produce something from nothing, often referring to God's act of bringing forth creation.",
+      "review_status": null
+    },
+    {
+      "root": "kh-l-t6",
+      "root_ar": "خلط",
+      "count": 6,
+      "en": [
+        "mix"
+      ],
+      "meaning": "The root خلط (khlT) primarily means to mix or mingle. It can refer to physical mixing, like water with milk, or more abstract concepts like a disease infecting someone or anxiety pervading the heart.",
+      "review_status": null
+    },
+    {
+      "root": "th-q-f",
+      "root_ar": "ثقف",
+      "count": 6,
+      "en": [
+        "wherever",
+        "kill"
+      ],
+      "meaning": "The root ثقف (thqf) means to become skilled, intelligent, or quick. It also refers to perceiving or attaining something quickly, often implying finding, overcoming, or taking hold of it.",
+      "review_status": null
+    },
+    {
+      "root": "sh-h-b",
+      "root_ar": "شهب",
+      "count": 5,
+      "en": [
+        "flam",
+        "flame",
+        "fire"
+      ],
+      "meaning": "The root شهب (shhb) primarily describes a color: a mix of white and black, often a grayish hue.",
+      "review_status": null
+    },
+    {
+      "root": "k-m-l",
+      "root_ar": "كمل",
+      "count": 5,
+      "en": [
+        "day"
+      ],
+      "meaning": "The root كمل (kml) primarily means to be or become perfect. It can also mean complete, entire, whole, or full, though the root تمم (tmm) is more precise for these latter meanings.",
+      "review_status": null
+    },
+    {
+      "root": "l-w-y",
+      "root_ar": "لوي",
+      "count": 5,
+      "en": [
+        "allah"
+      ],
+      "meaning": "The root LWY primarily signifies bending, twisting, or turning something. It can also denote evading, delaying, or distorting.",
+      "review_status": null
+    },
+    {
+      "root": "b-l-s",
+      "root_ar": "بلس",
+      "count": 5,
+      "en": [
+        "despair"
+      ],
+      "meaning": "The root بلس (bls) refers to the balsam tree, specifically the species producing the balsam of Mecca. This tree, or shrub, has fragrant leaves and berries.",
+      "review_status": null
+    },
+    {
+      "root": "l-y-n",
+      "root_ar": "لين",
+      "count": 5,
+      "en": [
+        "him"
+      ],
+      "meaning": "The root \"lyn\" describes something that is soft, gentle, or pliable. It can refer to physical softness, a smooth surface, or a gentle disposition.",
+      "review_status": null
+    },
+    {
+      "root": "n-f-d",
+      "root_ar": "نفد",
+      "count": 5,
+      "en": [
+        "run"
+      ],
+      "meaning": "The root نَفَدَ (nfd) primarily means to come to an end, be exhausted, or consumed. It can describe provisions running out, property being spent, or a well losing its water.",
+      "review_status": null
+    },
+    {
+      "root": "k-s-f",
+      "root_ar": "كسف",
+      "count": 5,
+      "en": [
+        "piec",
+        "fall",
+        "sky",
+        "heaven"
+      ],
+      "meaning": "The term \"كاسف البال\" (kāsif al-bāl) is defined by referring to the entry for \"بال\" (bāl). This suggests that its meaning is closely tied to or explained within the definition of \"bāl\" itself.",
+      "review_status": null
+    },
+    {
+      "root": "th-b-r",
+      "root_ar": "ثبر",
+      "count": 5,
+      "en": [
+        "destruction"
+      ],
+      "meaning": "The root \"thabr\" means to confine, restrain, or prevent someone from something. It also means to deny, refuse, or disappoint someone.",
+      "review_status": null
+    },
+    {
+      "root": "h7-r-s6",
+      "root_ar": "حرص",
+      "count": 5,
+      "en": [
+        "even"
+      ],
+      "meaning": "The root حرص (HrS) primarily means to tear, cleave, or strip off a surface. It also signifies an intense, often greedy or culpable, desire for something, or striving diligently to attain it.",
+      "review_status": null
+    },
+    {
+      "root": "r-b-t6",
+      "root_ar": "ربط",
+      "count": 5,
+      "en": [
+        "heart"
+      ],
+      "meaning": "The root \"rbT\" primarily means to tie or bind. It refers to horses kept tied, often for military readiness. The term also describes a monk or sage who restrains themselves from worldly pleasures.",
+      "review_status": null
+    },
+    {
+      "root": "j-th-m",
+      "root_ar": "جثم",
+      "count": 5,
+      "en": [
+        "lay",
+        "prostrate",
+        "morn",
+        "hom",
+        "found",
+        "seiz",
+        "took"
+      ],
+      "meaning": "The root جثم denotes settling, crouching, or remaining fixed in a place, especially close to the ground. Classical lexicons use it of a person or bird that stays motionless or pressed to the ground; جثمان “body/person” is a related derivative, not the primary Quranic sense.",
+      "review_status": "phase2-reviewed"
+    },
+    {
+      "root": "w-z-3",
+      "root_ar": "وزع",
+      "count": 5,
+      "en": [
+        "rank"
+      ],
+      "meaning": "The root وزع (wazʿa) refers to a group of people, like assistants or followers. It can also describe someone who restrains or prevents.",
+      "review_status": null
+    },
+    {
+      "root": "m-s6-r",
+      "root_ar": "مصر",
+      "count": 5,
+      "en": [
+        "egypt"
+      ],
+      "meaning": "The root مصر (m-ṣ-r) refers to a partition, barrier, or limit between two things, like a boundary between lands.",
+      "review_status": null
+    },
+    {
+      "root": "sh-r-h7",
+      "root_ar": "شرح",
+      "count": 5,
+      "en": [
+        "chest",
+        "breast"
+      ],
+      "meaning": "The root \"shrH\" means to uncover, open, or explain something, making it clear. It can also mean to cut meat or to understand speech.",
+      "review_status": null
+    },
+    {
+      "root": "q-d-d",
+      "root_ar": "قدد",
+      "count": 5,
+      "en": [
+        "shirt"
+      ],
+      "meaning": "The root Q-D-D primarily means to cut or slit something lengthwise, often referring to tearing or splitting.",
+      "review_status": null
+    },
+    {
+      "root": "n-sh-z",
+      "root_ar": "نشز",
+      "count": 5,
+      "en": [
+        "allah"
+      ],
+      "meaning": "The root نشز (nshz) primarily means to rise or elevate oneself. It can describe rising in a place, or a physical object being high or prominent.",
+      "review_status": null
+    },
+    {
+      "root": "m-y-d",
+      "root_ar": "ميد",
+      "count": 5,
+      "en": [
+        "set"
+      ],
+      "meaning": "The root \"myd\" primarily describes motion, agitation, or swaying, like the earth shaking or a branch bending. It also refers to a feeling of giddiness or nausea.",
+      "review_status": null
+    },
+    {
+      "root": "b-gh-d6",
+      "root_ar": "بغض",
+      "count": 5,
+      "en": [
+        "hatr",
+        "enmity",
+        "between"
+      ],
+      "meaning": "The root بغض (bgD) primarily means to hate. The verb أَبْغَضَ (abghaḍa) signifies \"he hated him.",
+      "review_status": null
+    },
+    {
+      "root": "s-d-s",
+      "root_ar": "سدس",
+      "count": 5,
+      "en": [
+        "sixth",
+        "know"
+      ],
+      "meaning": "The root سدس (sds) primarily refers to the \"sadees\" tooth in camels, which is the tooth that appears after the \"raba'iyah\" tooth, typically in the eighth year of a camel's life.",
+      "review_status": null
+    },
+    {
+      "root": "kh-w-y",
+      "root_ar": "خوي",
+      "count": 5,
+      "en": [
+        "ruin"
+      ],
+      "meaning": "The root خوي primarily signifies emptiness, hollowness, or being void.",
+      "review_status": null
+    },
+    {
+      "root": "q-s6-w",
+      "root_ar": "قصو",
+      "count": 5,
+      "en": [
+        "far"
+      ],
+      "meaning": "The root قَصْو (qaṣw) primarily refers to being distant or far away, both physically and metaphorically.",
+      "review_status": null
+    },
+    {
+      "root": "a-r-k",
+      "root_ar": "أرك",
+      "count": 5,
+      "en": [
+        "thron",
+        "couch"
+      ],
+      "meaning": "The root أرك (Ark) primarily describes camels feeding on Arak trees or remaining in a place. Tropically, it refers to a person staying put, persisting in an affair, or even holding back.",
+      "review_status": null
+    },
+    {
+      "root": "kh-n-z-r",
+      "root_ar": "خنزر",
+      "count": 5,
+      "en": [
+        "swine",
+        "pig",
+        "swineflesh",
+        "immolat",
+        "carrion",
+        "invok",
+        "flesh",
+        "meat"
+      ],
+      "meaning": "The root خنزر (khnzr) is directly linked to the root خزر (khzr). To understand its meaning, one should refer to the definitions provided under the root خزر.",
+      "review_status": null
+    },
+    {
+      "root": "s-b-t6",
+      "root_ar": "سبط",
+      "count": 5,
+      "en": [
+        "trib",
+        "patriarch",
+        "isma",
+        "ishmael",
+        "isaac",
+        "jacob",
+        "abraham",
+        "sent"
+      ],
+      "meaning": "The root سبط (sbT) primarily describes something lank or straight, especially hair, as opposed to curly. It can also refer to a person who is tall, well-proportioned, or has long fingers.",
+      "review_status": null
+    },
+    {
+      "root": "h-l-l",
+      "root_ar": "هلل",
+      "count": 5,
+      "en": [
+        "swineflesh",
+        "immolat",
+        "carrion",
+        "swine",
+        "pig",
+        "invok",
+        "flesh",
+        "meat"
+      ],
+      "meaning": "The root H-L-L primarily signifies appearing, shining, or becoming visible, like the new moon. It also conveys the idea of beginning something, especially a new month.",
+      "review_status": null
+    },
+    {
+      "root": "s-n-b-l",
+      "root_ar": "سنبل",
+      "count": 5,
+      "en": [
+        "pod",
+        "seven",
+        "ear"
+      ],
+      "meaning": "The root سنبل (snbl) primarily refers to an ear of corn, as seen in the Quran. It also names the zodiac sign Virgo and a fragrant plant, spikenard, known for its medicinal properties.",
+      "review_status": null
+    },
+    {
+      "root": "h7-s6-b",
+      "root_ar": "حصب",
+      "count": 5,
+      "en": [
+        "tornado",
+        "shower",
+        "ston",
+        "violent",
+        "against"
+      ],
+      "meaning": "The root HSB primarily means to pelt with pebbles or to spread pebbles. It also refers to throwing things into a fire or kindling a fire.",
+      "review_status": null
+    },
+    {
+      "root": "kh-t6-w",
+      "root_ar": "خطو",
+      "count": 5,
+      "en": [
+        "footstep",
+        "devil",
+        "follow"
+      ],
+      "meaning": "The root خ ط و (kha-ṭa-wa) means to step or walk over something or someone. It implies passing beyond or transgressing a boundary.",
+      "review_status": null
+    },
+    {
+      "root": "k-s-w",
+      "root_ar": "كسو",
+      "count": 5,
+      "en": [
+        "made",
+        "give",
+        "allah"
+      ],
+      "meaning": "The root كَسَا (kasā) denotes clothing and covering. الكُِسْوَة is a garment, الكِساء a wrap; the verb means to clothe another, and the reflexive to be clothed.",
+      "review_status": null
+    },
+    {
+      "root": "q-r-3",
+      "root_ar": "قرع",
+      "count": 5,
+      "en": [
+        "shocker",
+        "calamity"
+      ],
+      "meaning": "The root قرع (qrE) primarily means to strike or hit. It can refer to striking with a stick or sword, or even filliping with fingers.",
+      "review_status": null
+    },
+    {
+      "root": "s6-r-kh",
+      "root_ar": "صرخ",
+      "count": 5,
+      "en": [
+        "help"
+      ],
+      "meaning": "The root صرخ (Srkh) means to cry out or scream, often vehemently, due to fright, alarm, or affliction. It also signifies calling for aid or succour.",
+      "review_status": null
+    },
+    {
+      "root": "s-r-j",
+      "root_ar": "سرج",
+      "count": 4,
+      "en": [
+        "lamp",
+        "light"
+      ],
+      "meaning": "The root \"srj\" primarily means to lie or forge a lie. It can also describe something being bright or a face becoming beautiful. Additionally, it refers to a woman plaiting her hair.",
+      "review_status": null
+    },
+    {
+      "root": "y-b-s",
+      "root_ar": "يبس",
+      "count": 4,
+      "en": [
+        "dry"
+      ],
+      "meaning": "The root \"ybs\" primarily means dry or dried up, often after having been moist. It can also describe something stiff, rigid, or hard.",
+      "review_status": null
+    },
+    {
+      "root": "m-j-d",
+      "root_ar": "مجد",
+      "count": 4,
+      "en": [
+        "gloriou"
+      ],
+      "meaning": "The root \"mjd\" (أَمْجَدَ) primarily signifies abundance and honor. It describes providing ample sustenance, like filling camels' bellies with fodder, or offering generous hospitality.",
+      "review_status": null
+    },
+    {
+      "root": "q-l-m",
+      "root_ar": "قلم",
+      "count": 4,
+      "en": [
+        "pen"
+      ],
+      "meaning": "The root QLM refers to a writing reed or pen. It is used for writing, similar to the meaning of the root JLM.",
+      "review_status": null
+    },
+    {
+      "root": "3-f-f",
+      "root_ar": "عفف",
+      "count": 4,
+      "en": [
+        "allah"
+      ],
+      "meaning": "The root عَفَّ (ʿaffa) primarily means to be chaste, modest, or to abstain from what is unlawful or unseemly.",
+      "review_status": null
+    },
+    {
+      "root": "f-sh-l",
+      "root_ar": "فشل",
+      "count": 4,
+      "en": [
+        "fail",
+        "allah"
+      ],
+      "meaning": "The root فشل (fashala) primarily means to be cowardly, weak, or flagging. It describes a state of timidity or lack of resolve.",
+      "review_status": null
+    },
+    {
+      "root": "k-w-b",
+      "root_ar": "كوب",
+      "count": 4,
+      "en": [
+        "goblet"
+      ],
+      "meaning": "The root كوب is represented chiefly by كوب, a cup or drinking vessel without a handle, with the Quranic plural أكواب. Classical lexicons also record secondary senses of كوبة, but these are distinct from the Quranic vessel sense.",
+      "review_status": "phase2-reviewed"
+    }
+  ]
+}

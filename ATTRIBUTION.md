@@ -1,3 +1,7 @@
+## Current Arabic build source
+
+The present `build_surahs.py` pipeline consumes `ara-quranuthmanihaf.json` (Quran Uthmani Hafs, Version 13). The edition metadata identifies its source as the King Fahd Quran Complex. Tanzil is used in Gold Master verification as an independent reference. Licensing/redistribution conclusions remain deferred to the separate legal review.
+
 # Attribution and licences
 
 These are licence conditions, not courtesies. Reproduce them on a persistent

@@ -1,0 +1,38 @@
+{
+  "release_candidate": "PureMonotheism Quran Data RC1",
+  "certification_date": "2026-08-18",
+  "status": "PASS",
+  "scope": "technical/linguistic data integrity; copyright/licensing intentionally deferred",
+  "metrics": {
+    "surah_tokens": 77430,
+    "interlinear_tokens": 77430,
+    "verses": 6236,
+    "canonical_roots": 1650,
+    "root_bearing_tokens": 50267,
+    "target_json_files": 3942
+  },
+  "known_intentional_exceptions": [
+    {
+      "id": "l-w-t",
+      "type": "dictionary-only-root",
+      "note": "Retained as classical dictionary material; canonical Quran occurrence count is 0; excluded from Quran-root suggestions."
+    },
+    {
+      "type": "unicode-normalization",
+      "note": "Quranic Arabic is not mechanically NFC-normalized because combining-mark/Quranic orthography sequences are preserved."
+    },
+    {
+      "type": "compound-segmentation",
+      "note": "Some compound forms intentionally carry different primary helper links across display layers; this is not forced into one link."
+    },
+    {
+      "type": "verse-count-convention",
+      "note": "Repository contains 6,236 explicit verse records; certification validates internal identity/reference consistency rather than imposing an external counting convention."
+    },
+    {
+      "type": "copyright-licensing",
+      "note": "Not certified in this workstream; explicitly deferred for later review."
+    }
+  ],
+  "failures": 0
+}

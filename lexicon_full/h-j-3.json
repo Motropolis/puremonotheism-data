@@ -1,1 +1,198 @@
-{"root": "h-j-3", "root_ar": "هجع", "quranic": true, "quran_frequency": 1, "summary": "The root هجع (hjE) refers to the setting of a star or a light sleep in the early part of the night. It implies a brief, initial period of rest or decline.", "lane": "هجع\n\nتهجع تَهَجَّعَ 5 _He slept._ (1001 Nights, ii. 321.)\n\nهجعة هَجْعَةٌ † The _setting_ of a star. (Sgh in TA, art. شرط.) See شَرَطٌ. === _A light sleep in the first part of the night._ (S.)", "lane_match_type": "root", "classical": [{"id": "ayn", "name": "Kitab al-Ayn", "name_ar": "كتاب العين", "compiler": "al-Khalil ibn Ahmad al-Farahidi", "died": 786, "tier": "earliest-disputed", "source": "OpenITI Shamela0001682-ara1 (Makhzumi & Samarra'i, Dar wa-Maktabat al-Hilal)", "match_type": "root", "entries": [{"headword": "هجع", "text": "هجع: الهجوع: نوم الليل دون النهار، يقال: لقيته بعد هجعة. وقوم هجع وهجوع وهاجعون، وامرأة هاجعة، ونسوة هواجع وهاجعات. ورجل هجع أي أحمق غافل سريع الاستنامة. الهجعة ومثلها الجعة «2» ، عن أبي سعيد: نبيذ الشعير والذرة، وعن أبي عبيد: نبيذ الشعير."}]}, {"id": "tahdhib", "name": "Tahdhib al-Lugha", "name_ar": "تهذيب اللغة", "compiler": "al-Azhari", "died": 980, "tier": "general", "source": "OpenITI Shamela0007031-ara1", "match_type": "root", "entries": [{"headword": "هجع", "text": "هجع: يقال أتيت فلانا بعد هجعة، أي بعد نومة خفيفة من أول الليل. وقد هجع يهجع هجوعا، إذا نام. وقوم هجوع، ونسوة هجع وهواجع. وروى ابن حبيب عن ابن الأعرابي: يقال للرجل الأحمق الغافل عما يراد به: هجع وهجعة، وهجعة، ومهجع وأصله من الهجوع وهو النوم. وقال أبو تراب: مضى هجيع من الليل وهزيع، بمعنى واحد. قال: وقال ابن الأعرابي: هجع غرثه وهجأ، إذا سكن. قال: وقال ابن شميل: هجع جوع الرجل يهجع هجعا، أي انكسر جوعه ولم يشبع بعد. قال: وهجأ فلان غرثه وهجع غرثه، وهجأ غرثه أيضا. قال: وأهجع غرثه وأهجأه، إذا سكن ضرمه. قال: وهجع القوم تهجيعا، إذا نوموا. قلت: وسمعت أعرابيا من بني تميم يقول: هجعنا هجعة خفيفة وقت السحر."}]}, {"id": "sihah", "name": "al-Sihah", "name_ar": "الصحاح", "compiler": "al-Jawhari", "died": 1002, "tier": "general", "source": "wizsk/arabic_lexicons SQLite", "match_type": "root", "entries": [{"headword": "هجع", "text": "الهُجوعُ [[الهجوع: النوم ليلا، وبابه خضع. عن المختار.|(165 - صحاح - 3)]] : النومُ.|والتَهْجاعُ: النومةُ الخفيفةُ. قال أبو قيس ابن الأسلت: قد حَصَّتِ البَيْضَةُ رأسي فما * أطعمُ نوماً غير تَهْجاعِ * وهجيع من الليل، مثل هَزيعٍ.|وهَجَّعَ القومُ تَهْجيعاً، أي نَوَّموا.|ويقال: أتيت فلاناً بعد هَجْعَةٍ، أي بعد نومةٍ خفيفة من أوَّل الليل.|والهِجْعَةُ منه، كالجِلسة من الجلوس.|ويقال: رجلٌ هُجَعَةٌ، مثال همرة، وهجع، ومهجع، للغافل عما يراد به، الأحمقُ.|وأصله من الهُجوعِ.|وهَجَعَ جوعَه مثل هَجَأَ، إذا انكسر ولم يشبع.|وأهْجَعَ فلانٌ غَرَثُهُ، إذا سكَّنَ ضَرَمُهُ، متل أهجأ.|والهجنع بتشديد النون: الطويل الضخم عن الأصمعيّ. قال ذو الرمّة يصف ظليماً: هَجَنَّعٌ راحَ في سوداَء مُخْمِلَةٍ * من القَطائفِ أعلى ثوبه الهدب"}]}, {"id": "maqayis", "name": "Maqayis al-Lugha", "name_ar": "مقاييس اللغة", "compiler": "Ibn Faris", "died": 1004, "tier": "root-semantic", "source": "wizsk/arabic_lexicons SQLite", "match_type": "root", "entries": [{"headword": "هجع", "text": "(هَجَعَ) الْهَاءُ وَالْجِيمُ وَالْعَيْنُ: كَلِمَةٌ تَدُلُّ عَلَى نَوْمٍ. وَهَجَعَ هُجُوعًا: نَامَ لَيْلًا. وَلَقِيتُهُ بَعْدَ هَجْعَةٍ.|وَمِمَّا قِيسَ عَلَى هَذَا: رَجُلٌ هُجَعَ، أَيْ أَحْمَقُ مُسْتَنِيمٌ إِلَى كُلٍّ."}]}, {"id": "mufradat", "name": "Mufradat Alfaz al-Quran", "name_ar": "مفردات ألفاظ القرآن", "compiler": "al-Raghib al-Isfahani", "died": 1108, "tier": "interpretive", "source": "wizsk/arabic_lexicons SQLite", "match_type": "root", "entries": [{"headword": "هجع", "text": "الهُجُوع: النّوم ليلا. قال تعالى: ﴿كانُوا قَلِيلًا مِنَ اللَّيْلِ ما يَهْجَعُونَ﴾ [الذاريات : 17] وذلك يصحّ أن يكون معناه: كان هُجُوعهم قليلا من أوقات الليل، ويجوز أن يكون معناه: لم يكونوا يهجعون. والقليل يعبّر به عن النّفي والمشارف لنفيه لقلّته، ولقيته بعد هَجْعَةٍ. أي: بعد نومة، وقولهم: رجل هُجَعٌ كقولك: نوم للمستنيم إلى كل شيء."}], "suspect": true, "suspect_reason": "headword matches another root page"}, {"id": "lisan", "name": "Lisan al-Arab", "name_ar": "لسان العرب", "compiler": "Ibn Manzur", "died": 1311, "tier": "general", "source": "wizsk/arabic_lexicons SQLite", "match_type": "root", "entries": [{"headword": "هجع", "text": "هجع: الهُجُوعُ: النوْم ليْلًا. هَجَعَ يَهْجَعُ هُجُوعاً: نامَ، وَقِيلَ نَامَ بالليلِ خَاصَّةً، وَقَدْ يَكُونُ الهجُوعُ بِغَيْرِ نَوْمٍ؛ قَالَ زُهَيْرُ بْنُ أَبي سُلْمَى:|قَفْرٌ هَجَعْتُ بِهَا ولَسْتُ بنائِمٍ، ... وذِراعُ مُلْقِيةِ الجِرانِ وَسَادِي|وَقَوْمٌ هُجَّعٌ وهُجوعٌ، وَنِسَاءٌ هُجَّعٌ وهُجوعٌ وهَواجِعُ، وهَواجِعاتٌ جَمْعُ الْجَمْعِ. والتَّهْجاعُ: النومةُ الخفيفةُ؛ قَالَ أَبو قَيْسِ بْنُ الأَسْلَتِ:|قَدْ حَصَّتِ البَيْضةُ رَأْسِي، فَمَا ... أَطْعَمُ نَوْماً غيرَ تَهْجاعِ|وهَجَّعَ القومُ تَهْجِيعاً أَي نَوَّمُوا. ومَرَّ هَجِيعٌ مِنَ الليلِ أَي ساعةٌ مِثْلَ هَزِيع؛ حُكِيَ عَنْ ثَعْلَبٍ. وَيُقَالُ: أَتيت فُلَانًا بَعْدَ هَجْعةٍ أَي بَعْدَ نَوْمةٍ خفيفةٍ مِنْ أَوّل اللَّيْلِ. وَفِي حَدِيثِ الثَّوْرِيِّ: طَرَقَني بَعْدَ هَجْعٍ. مِنَ الليلِ؛ الهَجْعُ والهَجْعةُ والهَجِيعُ: طائفةٌ مِنَ اللَّيْلِ، والهِجْعةُ مِنْهُ كالجِلْسةِ مِنَ الْجُلُوسِ. ابْنُ الأَعرابي: يُقَالُ للرجُلِ الأَحْمَقِ الغافِلِ عَمَّا يُرادُ بِهِ هِجْعٌ وهِجْعةٌ وهُجَعةٌ ومِهْجَعٌ، وأَصله مِنَ الهُجُوعِ النَّوْمِ. وَرَجُلٌ هُجَعةٌ، مِثلُ هُمَزةٍ، وهُجَعٌ ومِهجَعٌ للغافِل الأَحمَقِ السَّرِيعِ الاسْتِنامةِ إِلى كُلِّ أَحَدٍ. والهَجِعُ: الأَحْمَقُ.|وهَجَعَ جُوعُه مِثْلَ هَجأَ إِذا انْكَسَرَ وَلَمْ يَشْبَعْ بَعْدُ. وهَجَعَ غَرَثُه وهَجأَ إِذا سَكَنَ. وأَهْجَعَ فلانٌ غَرَثَه إِذا سكَّن ضَرَمَه مِثْلَ أَهْجَأَ. ومِهْجَعٌ: اسْمُ رجل."}]}], "cap": null, "mentions": {"شرط": [1]}, "headwords": [{"hw": "تَهَجَّعَ", "keys": ["تهجع"], "gloss": "He slept", "parts": [{"k": "a", "t": "تَهَجَّعَ"}, {"k": "d", "t": "He slept."}, {"k": "p", "t": "(1001 Nights, ii. 321.)"}], "def": "تَهَجَّعَ He slept. (1001 Nights, ii. 321.)", "auth": []}, {"hw": "هَجْعَةٌ", "keys": ["هجعه"], "gloss": "setting; A light sleep in the first part of the night", "parts": [{"k": "a", "t": "هَجْعَةٌ"}, {"k": "p", "t": "(assumed tropical:)"}, {"k": "p", "t": "The"}, {"k": "d", "t": "setting"}, {"k": "p", "t": "of a star. (Sgh in TA, art."}, {"k": "a", "t": "شرط"}, {"k": "p", "t": ".) See"}, {"k": "a", "t": "شَرَطٌ"}, {"k": "p", "t": "."}, {"k": "d", "t": "A light sleep in the first part of the night."}, {"k": "p", "t": "(S.)"}], "def": "هَجْعَةٌ (assumed tropical:) The setting of a star. (Sgh in TA, art. شرط .) See شَرَطٌ . A light sleep in the first part of the night. (S.)", "auth": []}], "parts_note": "parts[].k: d=Lane's English rendering, a=Arabic, p=apparatus/citation", "headword_note": "Lane indexes geminate roots with two letters where the Corpus uses three; both spellings are resolved here. Kitab al-Ayn does the same, and also files some weak roots under a different third radical; those are resolved against the Corpus spelling and the al-Ayn headword is kept in the entry.", "lane_source": "wizsk/arabic_lexicons SQLite (Lane's Arabic-English Lexicon, 1863-93, public domain)", "lane_format": "plain text; Lane's italics preserved as _emphasis_, verse quotations on their own lines"}
+{
+  "root": "h-j-3",
+  "root_ar": "هجع",
+  "quranic": true,
+  "quran_frequency": 1,
+  "summary": "The root هجع (hjE) refers to the setting of a star or a light sleep in the early part of the night. It implies a brief, initial period of rest or decline.",
+  "lane": "هجع\n\nتهجع تَهَجَّعَ 5 _He slept._ (1001 Nights, ii. 321.)\n\nهجعة هَجْعَةٌ † The _setting_ of a star. (Sgh in TA, art. شرط.) See شَرَطٌ. === _A light sleep in the first part of the night._ (S.)",
+  "lane_match_type": "root",
+  "classical": [
+    {
+      "id": "ayn",
+      "name": "Kitab al-Ayn",
+      "name_ar": "كتاب العين",
+      "compiler": "al-Khalil ibn Ahmad al-Farahidi",
+      "died": 786,
+      "tier": "earliest-disputed",
+      "source": "OpenITI Shamela0001682-ara1 (Makhzumi & Samarra'i, Dar wa-Maktabat al-Hilal)",
+      "match_type": "root",
+      "entries": [
+        {
+          "headword": "هجع",
+          "text": "هجع: الهجوع: نوم الليل دون النهار، يقال: لقيته بعد هجعة. وقوم هجع وهجوع وهاجعون، وامرأة هاجعة، ونسوة هواجع وهاجعات. ورجل هجع أي أحمق غافل سريع الاستنامة. الهجعة ومثلها الجعة «2» ، عن أبي سعيد: نبيذ الشعير والذرة، وعن أبي عبيد: نبيذ الشعير."
+        }
+      ]
+    },
+    {
+      "id": "tahdhib",
+      "name": "Tahdhib al-Lugha",
+      "name_ar": "تهذيب اللغة",
+      "compiler": "al-Azhari",
+      "died": 980,
+      "tier": "general",
+      "source": "OpenITI Shamela0007031-ara1",
+      "match_type": "root",
+      "entries": [
+        {
+          "headword": "هجع",
+          "text": "هجع: يقال أتيت فلانا بعد هجعة، أي بعد نومة خفيفة من أول الليل. وقد هجع يهجع هجوعا، إذا نام. وقوم هجوع، ونسوة هجع وهواجع. وروى ابن حبيب عن ابن الأعرابي: يقال للرجل الأحمق الغافل عما يراد به: هجع وهجعة، وهجعة، ومهجع وأصله من الهجوع وهو النوم. وقال أبو تراب: مضى هجيع من الليل وهزيع، بمعنى واحد. قال: وقال ابن الأعرابي: هجع غرثه وهجأ، إذا سكن. قال: وقال ابن شميل: هجع جوع الرجل يهجع هجعا، أي انكسر جوعه ولم يشبع بعد. قال: وهجأ فلان غرثه وهجع غرثه، وهجأ غرثه أيضا. قال: وأهجع غرثه وأهجأه، إذا سكن ضرمه. قال: وهجع القوم تهجيعا، إذا نوموا. قلت: وسمعت أعرابيا من بني تميم يقول: هجعنا هجعة خفيفة وقت السحر."
+        }
+      ]
+    },
+    {
+      "id": "sihah",
+      "name": "al-Sihah",
+      "name_ar": "الصحاح",
+      "compiler": "al-Jawhari",
+      "died": 1002,
+      "tier": "general",
+      "source": "wizsk/arabic_lexicons SQLite",
+      "match_type": "root",
+      "entries": [
+        {
+          "headword": "هجع",
+          "text": "الهُجوعُ [[الهجوع: النوم ليلا، وبابه خضع. عن المختار.|(165 - صحاح - 3)]] : النومُ.|والتَهْجاعُ: النومةُ الخفيفةُ. قال أبو قيس ابن الأسلت: قد حَصَّتِ البَيْضَةُ رأسي فما * أطعمُ نوماً غير تَهْجاعِ * وهجيع من الليل، مثل هَزيعٍ.|وهَجَّعَ القومُ تَهْجيعاً، أي نَوَّموا.|ويقال: أتيت فلاناً بعد هَجْعَةٍ، أي بعد نومةٍ خفيفة من أوَّل الليل.|والهِجْعَةُ منه، كالجِلسة من الجلوس.|ويقال: رجلٌ هُجَعَةٌ، مثال همرة، وهجع، ومهجع، للغافل عما يراد به، الأحمقُ.|وأصله من الهُجوعِ.|وهَجَعَ جوعَه مثل هَجَأَ، إذا انكسر ولم يشبع.|وأهْجَعَ فلانٌ غَرَثُهُ، إذا سكَّنَ ضَرَمُهُ، متل أهجأ.|والهجنع بتشديد النون: الطويل الضخم عن الأصمعيّ. قال ذو الرمّة يصف ظليماً: هَجَنَّعٌ راحَ في سوداَء مُخْمِلَةٍ * من القَطائفِ أعلى ثوبه الهدب"
+        }
+      ]
+    },
+    {
+      "id": "maqayis",
+      "name": "Maqayis al-Lugha",
+      "name_ar": "مقاييس اللغة",
+      "compiler": "Ibn Faris",
+      "died": 1004,
+      "tier": "root-semantic",
+      "source": "wizsk/arabic_lexicons SQLite",
+      "match_type": "root",
+      "entries": [
+        {
+          "headword": "هجع",
+          "text": "(هَجَعَ) الْهَاءُ وَالْجِيمُ وَالْعَيْنُ: كَلِمَةٌ تَدُلُّ عَلَى نَوْمٍ. وَهَجَعَ هُجُوعًا: نَامَ لَيْلًا. وَلَقِيتُهُ بَعْدَ هَجْعَةٍ.|وَمِمَّا قِيسَ عَلَى هَذَا: رَجُلٌ هُجَعَ، أَيْ أَحْمَقُ مُسْتَنِيمٌ إِلَى كُلٍّ."
+        }
+      ]
+    },
+    {
+      "id": "mufradat",
+      "name": "Mufradat Alfaz al-Quran",
+      "name_ar": "مفردات ألفاظ القرآن",
+      "compiler": "al-Raghib al-Isfahani",
+      "died": 1108,
+      "tier": "interpretive",
+      "source": "wizsk/arabic_lexicons SQLite",
+      "match_type": "filed-under-reviewed",
+      "entries": [
+        {
+          "headword": "هجع",
+          "text": "الهُجُوع: النّوم ليلا. قال تعالى: ﴿كانُوا قَلِيلًا مِنَ اللَّيْلِ ما يَهْجَعُونَ﴾ [الذاريات : 17] وذلك يصحّ أن يكون معناه: كان هُجُوعهم قليلا من أوقات الليل، ويجوز أن يكون معناه: لم يكونوا يهجعون. والقليل يعبّر به عن النّفي والمشارف لنفيه لقلّته، ولقيته بعد هَجْعَةٍ. أي: بعد نومة، وقولهم: رجل هُجَعٌ كقولك: نوم للمستنيم إلى كل شيء."
+        }
+      ],
+      "filed_under": "هجوع"
+    },
+    {
+      "id": "lisan",
+      "name": "Lisan al-Arab",
+      "name_ar": "لسان العرب",
+      "compiler": "Ibn Manzur",
+      "died": 1311,
+      "tier": "general",
+      "source": "wizsk/arabic_lexicons SQLite",
+      "match_type": "root",
+      "entries": [
+        {
+          "headword": "هجع",
+          "text": "هجع: الهُجُوعُ: النوْم ليْلًا. هَجَعَ يَهْجَعُ هُجُوعاً: نامَ، وَقِيلَ نَامَ بالليلِ خَاصَّةً، وَقَدْ يَكُونُ الهجُوعُ بِغَيْرِ نَوْمٍ؛ قَالَ زُهَيْرُ بْنُ أَبي سُلْمَى:|قَفْرٌ هَجَعْتُ بِهَا ولَسْتُ بنائِمٍ، ... وذِراعُ مُلْقِيةِ الجِرانِ وَسَادِي|وَقَوْمٌ هُجَّعٌ وهُجوعٌ، وَنِسَاءٌ هُجَّعٌ وهُجوعٌ وهَواجِعُ، وهَواجِعاتٌ جَمْعُ الْجَمْعِ. والتَّهْجاعُ: النومةُ الخفيفةُ؛ قَالَ أَبو قَيْسِ بْنُ الأَسْلَتِ:|قَدْ حَصَّتِ البَيْضةُ رَأْسِي، فَمَا ... أَطْعَمُ نَوْماً غيرَ تَهْجاعِ|وهَجَّعَ القومُ تَهْجِيعاً أَي نَوَّمُوا. ومَرَّ هَجِيعٌ مِنَ الليلِ أَي ساعةٌ مِثْلَ هَزِيع؛ حُكِيَ عَنْ ثَعْلَبٍ. وَيُقَالُ: أَتيت فُلَانًا بَعْدَ هَجْعةٍ أَي بَعْدَ نَوْمةٍ خفيفةٍ مِنْ أَوّل اللَّيْلِ. وَفِي حَدِيثِ الثَّوْرِيِّ: طَرَقَني بَعْدَ هَجْعٍ. مِنَ الليلِ؛ الهَجْعُ والهَجْعةُ والهَجِيعُ: طائفةٌ مِنَ اللَّيْلِ، والهِجْعةُ مِنْهُ كالجِلْسةِ مِنَ الْجُلُوسِ. ابْنُ الأَعرابي: يُقَالُ للرجُلِ الأَحْمَقِ الغافِلِ عَمَّا يُرادُ بِهِ هِجْعٌ وهِجْعةٌ وهُجَعةٌ ومِهْجَعٌ، وأَصله مِنَ الهُجُوعِ النَّوْمِ. وَرَجُلٌ هُجَعةٌ، مِثلُ هُمَزةٍ، وهُجَعٌ ومِهجَعٌ للغافِل الأَحمَقِ السَّرِيعِ الاسْتِنامةِ إِلى كُلِّ أَحَدٍ. والهَجِعُ: الأَحْمَقُ.|وهَجَعَ جُوعُه مِثْلَ هَجأَ إِذا انْكَسَرَ وَلَمْ يَشْبَعْ بَعْدُ. وهَجَعَ غَرَثُه وهَجأَ إِذا سَكَنَ. وأَهْجَعَ فلانٌ غَرَثَه إِذا سكَّن ضَرَمَه مِثْلَ أَهْجَأَ. ومِهْجَعٌ: اسْمُ رجل."
+        }
+      ]
+    }
+  ],
+  "cap": null,
+  "mentions": {
+    "شرط": [
+      1
+    ]
+  },
+  "headwords": [
+    {
+      "hw": "تَهَجَّعَ",
+      "keys": [
+        "تهجع"
+      ],
+      "gloss": "He slept",
+      "parts": [
+        {
+          "k": "a",
+          "t": "تَهَجَّعَ"
+        },
+        {
+          "k": "d",
+          "t": "He slept."
+        },
+        {
+          "k": "p",
+          "t": "(1001 Nights, ii. 321.)"
+        }
+      ],
+      "def": "تَهَجَّعَ He slept. (1001 Nights, ii. 321.)",
+      "auth": []
+    },
+    {
+      "hw": "هَجْعَةٌ",
+      "keys": [
+        "هجعه"
+      ],
+      "gloss": "setting; A light sleep in the first part of the night",
+      "parts": [
+        {
+          "k": "a",
+          "t": "هَجْعَةٌ"
+        },
+        {
+          "k": "p",
+          "t": "(assumed tropical:)"
+        },
+        {
+          "k": "p",
+          "t": "The"
+        },
+        {
+          "k": "d",
+          "t": "setting"
+        },
+        {
+          "k": "p",
+          "t": "of a star. (Sgh in TA, art."
+        },
+        {
+          "k": "a",
+          "t": "شرط"
+        },
+        {
+          "k": "p",
+          "t": ".) See"
+        },
+        {
+          "k": "a",
+          "t": "شَرَطٌ"
+        },
+        {
+          "k": "p",
+          "t": "."
+        },
+        {
+          "k": "d",
+          "t": "A light sleep in the first part of the night."
+        },
+        {
+          "k": "p",
+          "t": "(S.)"
+        }
+      ],
+      "def": "هَجْعَةٌ (assumed tropical:) The setting of a star. (Sgh in TA, art. شرط .) See شَرَطٌ . A light sleep in the first part of the night. (S.)",
+      "auth": []
+    }
+  ],
+  "parts_note": "parts[].k: d=Lane's English rendering, a=Arabic, p=apparatus/citation",
+  "headword_note": "Lane indexes geminate roots with two letters where the Corpus uses three; both spellings are resolved here. Kitab al-Ayn does the same, and also files some weak roots under a different third radical; those are resolved against the Corpus spelling and the al-Ayn headword is kept in the entry.",
+  "lane_source": "wizsk/arabic_lexicons SQLite (Lane's Arabic-English Lexicon, 1863-93, public domain)",
+  "lane_format": "plain text; Lane's italics preserved as _emphasis_, verse quotations on their own lines"
+}

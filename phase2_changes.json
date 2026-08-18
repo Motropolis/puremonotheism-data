@@ -1,0 +1,30 @@
+{
+  "confirmed_lemma_field_changes": [
+    "surah/002.json/verses/15/w/6/lem",
+    "root/r-b-h7.json/forms/0/lem"
+  ],
+  "grammar_regenerated": [
+    "gender",
+    "number",
+    "person"
+  ],
+  "root_meanings_reviewed": [
+    "a-y-y",
+    "q-n-3",
+    "3-dh-b",
+    "q-s6-m",
+    "n-t-q",
+    "3-z-l",
+    "k-w-b",
+    "j-th-m",
+    "s6-f-w",
+    "n-b-a",
+    "n-s-w",
+    "l-3-n",
+    "s6-r-t6"
+  ],
+  "lemma_review_candidates": 460,
+  "unique_lemma_candidates": 129,
+  "root_assignment_ambiguities": 6,
+  "meaning_review_candidates": 297
+}

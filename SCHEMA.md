@@ -277,7 +277,7 @@ interpolation count, and the attribution string. Render attribution in the UI.
 These are license conditions, not courtesies. Put them in a persistent
 footer or an /about/sources page.
 
-- **Arabic text** — Tanzil Project, CC BY-ND. Distributed unmodified.
+- **Arabic text** — `ara-quranuthmanihaf` (Quran Uthmani Hafs, Version 13) as consumed by `build_surahs.py`; the edition metadata identifies the source as the King Fahd Quran Complex. Tanzil is used as an independent verification reference, not as the byte-for-byte build source.
 - **Morphology** — Quranic Arabic Corpus v0.4, © 2011 Kais Dukes, GNU GPL.
   The license requires the source be clearly indicated **and** a link made
   to http://corpus.quran.com so users can track changes. The link is
@@ -294,7 +294,7 @@ footer or an /about/sources page.
 A one-time script, run locally, output committed as versioned files:
 
 1. Parse `quranic-corpus-morphology-0.4.txt` into word records.
-2. Join against Tanzil Uthmani text on verse key. Assert 6,236 verses and
+2. Join against the selected Uthmani Hafs Arabic edition on verse key. Assert 6,236 verses and
    77,430 words before continuing — a silent join failure here corrupts
    every downstream file.
 3. Emit `/surah/*.json`.

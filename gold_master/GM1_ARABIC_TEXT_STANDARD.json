@@ -1,0 +1,30 @@
+{
+  "stage": "GM1",
+  "primary_build_text": {
+    "edition": "ara-quranuthmanihaf",
+    "label": "Quran Uthmani Hafs",
+    "edition_version": "13",
+    "upstream_aggregator": "fawazahmed0/quran-api",
+    "declared_source": "King Fahd Quran Complex",
+    "build_script": "build_surahs.py"
+  },
+  "independent_reference": {
+    "name": "Tanzil Uthmani",
+    "version": "1.1",
+    "role": "independent verification reference, not current byte-level build source"
+  },
+  "tokenization": {
+    "method": "Unicode whitespace split of the selected Uthmani edition in build_surahs.py",
+    "tokens": 77430,
+    "verses": 6236
+  },
+  "documented_tanzil_v1_1_checkpoints": {
+    "2:181": "PASS: بعد and ما are separate tokens",
+    "8:6": "PASS: بعد and ما are separate tokens",
+    "13:37": "PASS: بعد and ما are separate tokens",
+    "21:88": "PASS encoding checkpoint contains tatweel + high noon sequence",
+    "12:39": "ENCODING PROFILE DIFFERENCE: current King Fahd source sequence differs bytewise from Tanzil v1.1 documented Uthmani form",
+    "12:41": "ENCODING PROFILE DIFFERENCE: current King Fahd source sequence differs bytewise from Tanzil v1.1 documented Uthmani form",
+    "17:7": "ENCODING PROFILE DIFFERENCE: current King Fahd source sequence differs bytewise from Tanzil v1.1 documented Uthmani form"
+  }
+}

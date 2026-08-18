@@ -1,0 +1,708 @@
+[
+  {
+    "root_ar": "قنع",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "قنوع"
+  },
+  {
+    "root_ar": "وري",
+    "dictionary": "qamus",
+    "action": "remove_block",
+    "detail": "Article is الورة/ورور, not Quranic وري; no relevant وري lexical article."
+  },
+  {
+    "root_ar": "وصد",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "وصيد"
+  },
+  {
+    "root_ar": "حدث",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "حديث"
+  },
+  {
+    "root_ar": "سردق",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "سرادق"
+  },
+  {
+    "root_ar": "غلف",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "غلاف"
+  },
+  {
+    "root_ar": "زود",
+    "dictionary": "tahdhib",
+    "action": "prune_entries",
+    "detail": "Kept ['زود']; removed ['زيد', 'زاد', 'زد']"
+  },
+  {
+    "root_ar": "قطمر",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "قطمير"
+  },
+  {
+    "root_ar": "نكح",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "نكاح"
+  },
+  {
+    "root_ar": "اخو",
+    "dictionary": "qamus",
+    "action": "remove_block",
+    "detail": "Article is الأخيخة/interjection أخ and does not define Quranic أخو sibling lexeme."
+  },
+  {
+    "root_ar": "عمد",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "عمود"
+  },
+  {
+    "root_ar": "بسق",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "بساق"
+  },
+  {
+    "root_ar": "سرج",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "سراج"
+  },
+  {
+    "root_ar": "فكك",
+    "dictionary": "qamus",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "فكه"
+  },
+  {
+    "root_ar": "خبث",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "خبيث"
+  },
+  {
+    "root_ar": "لدد",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "الد"
+  },
+  {
+    "root_ar": "عتد",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "عتيد"
+  },
+  {
+    "root_ar": "كلم",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "كلام"
+  },
+  {
+    "root_ar": "سري",
+    "dictionary": "qamus",
+    "action": "clear_false_positive",
+    "detail": "Reviewed valid association"
+  },
+  {
+    "root_ar": "قنت",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "قنوت"
+  },
+  {
+    "root_ar": "قنت",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "قنوت"
+  },
+  {
+    "root_ar": "فرت",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "فرات"
+  },
+  {
+    "root_ar": "فرت",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "فرات"
+  },
+  {
+    "root_ar": "خرطم",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "خرطوم"
+  },
+  {
+    "root_ar": "طمس",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "طموس"
+  },
+  {
+    "root_ar": "امو",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "امه"
+  },
+  {
+    "root_ar": "امو",
+    "dictionary": "qamus",
+    "action": "remove_block",
+    "detail": "Entries are أم/أمه under أمم-type material, not the أمو root of أمة (bondwoman)."
+  },
+  {
+    "root_ar": "جبه",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "جبهه"
+  },
+  {
+    "root_ar": "قوي",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "قوه"
+  },
+  {
+    "root_ar": "ضان",
+    "dictionary": "sihah",
+    "action": "prune_entries",
+    "detail": "Kept ['ضأن']; removed ['ضون']"
+  },
+  {
+    "root_ar": "اله",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "له"
+  },
+  {
+    "root_ar": "طعم",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "طعام"
+  },
+  {
+    "root_ar": "ازز",
+    "dictionary": "maqayis",
+    "action": "clear_false_positive",
+    "detail": "root not traceable in entry text"
+  },
+  {
+    "root_ar": "وشي",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "شيه"
+  },
+  {
+    "root_ar": "وشي",
+    "dictionary": "lisan",
+    "action": "clear_false_positive",
+    "detail": "Reviewed valid association"
+  },
+  {
+    "root_ar": "لجج",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "لجاج"
+  },
+  {
+    "root_ar": "هجد",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "هجود"
+  },
+  {
+    "root_ar": "دمو",
+    "dictionary": "qamus",
+    "action": "remove_block",
+    "detail": "Article is دمه/دمم (smearing/leveling), not دمو blood."
+  },
+  {
+    "root_ar": "دمغ",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "دماغ"
+  },
+  {
+    "root_ar": "سوع",
+    "dictionary": "sihah",
+    "action": "prune_entries",
+    "detail": "Kept ['سوع']; removed ['سيع']"
+  },
+  {
+    "root_ar": "صبب",
+    "dictionary": "qamus",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "صبه"
+  },
+  {
+    "root_ar": "هدهد",
+    "dictionary": "ayn",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "هد"
+  },
+  {
+    "root_ar": "هدهد",
+    "dictionary": "tahdhib",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "هد"
+  },
+  {
+    "root_ar": "هدهد",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "root not traceable in entry text",
+    "filed_under": "هد"
+  },
+  {
+    "root_ar": "هدهد",
+    "dictionary": "maqayis",
+    "action": "remove_block",
+    "detail": "Subentry contains no هدهد material; attached only through loose reduplicative filing."
+  },
+  {
+    "root_ar": "هدهد",
+    "dictionary": "lisan",
+    "action": "remove_block",
+    "detail": "Subentry contains no هدهد material; attached to هدد without a هدهد lexical entry."
+  },
+  {
+    "root_ar": "سبب",
+    "dictionary": "qamus",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "سبه"
+  },
+  {
+    "root_ar": "يسر",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "سير"
+  },
+  {
+    "root_ar": "افف",
+    "dictionary": "tahdhib",
+    "action": "clear_false_positive",
+    "detail": "root not traceable in entry text"
+  },
+  {
+    "root_ar": "طفف",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "طفيف"
+  },
+  {
+    "root_ar": "طفف",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "طفيف"
+  },
+  {
+    "root_ar": "رقب",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "رقيب"
+  },
+  {
+    "root_ar": "سوا",
+    "dictionary": "mufradat",
+    "action": "prune_entries",
+    "detail": "Kept ['سوأ']; removed ['سوا']"
+  },
+  {
+    "root_ar": "قرطس",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "قرطاس"
+  },
+  {
+    "root_ar": "قرطس",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "قرطاس"
+  },
+  {
+    "root_ar": "جزا",
+    "dictionary": "sihah",
+    "action": "prune_entries",
+    "detail": "Kept ['جزى']; removed ['جزأ']"
+  },
+  {
+    "root_ar": "عفف",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "عفه"
+  },
+  {
+    "root_ar": "سوي",
+    "dictionary": "mufradat",
+    "action": "prune_entries",
+    "detail": "Kept ['سوا']; removed ['سوأ']"
+  },
+  {
+    "root_ar": "عرجن",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "عرجون"
+  },
+  {
+    "root_ar": "عرر",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "اموي"
+  },
+  {
+    "root_ar": "سقم",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "سقام"
+  },
+  {
+    "root_ar": "صفر",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "صفره"
+  },
+  {
+    "root_ar": "صفر",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "صفره"
+  },
+  {
+    "root_ar": "شمل",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "شمال"
+  },
+  {
+    "root_ar": "هجع",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "هجوع"
+  },
+  {
+    "root_ar": "سربل",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "سربال"
+  },
+  {
+    "root_ar": "سربل",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "سربال"
+  },
+  {
+    "root_ar": "ودد",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "root not traceable in entry text"
+  },
+  {
+    "root_ar": "مطو",
+    "dictionary": "qamus",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "مطه"
+  },
+  {
+    "root_ar": "ابب",
+    "dictionary": "maqayis",
+    "action": "clear_false_positive",
+    "detail": "root not traceable in entry text"
+  },
+  {
+    "root_ar": "سلح",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "سلاح"
+  },
+  {
+    "root_ar": "لسن",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "لسان"
+  },
+  {
+    "root_ar": "لسن",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "لسان"
+  },
+  {
+    "root_ar": "ايي",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "ايه"
+  },
+  {
+    "root_ar": "ذرع",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "ذراع"
+  },
+  {
+    "root_ar": "خشع",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "خشوع"
+  },
+  {
+    "root_ar": "خشع",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "خشوع"
+  },
+  {
+    "root_ar": "لجا",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "لجاج"
+  },
+  {
+    "root_ar": "موه",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "ماء"
+  },
+  {
+    "root_ar": "هلل",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "هلال"
+  },
+  {
+    "root_ar": "هلل",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "هلال"
+  },
+  {
+    "root_ar": "سنم",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "سنام"
+  },
+  {
+    "root_ar": "عزز",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "عزه"
+  },
+  {
+    "root_ar": "برهن",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "برهان"
+  },
+  {
+    "root_ar": "صلح",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "صلاح"
+  },
+  {
+    "root_ar": "صلح",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "صلاح"
+  },
+  {
+    "root_ar": "امم",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "root not traceable in entry text"
+  },
+  {
+    "root_ar": "اجج",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "اجيج"
+  },
+  {
+    "root_ar": "خرر",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "خرير"
+  },
+  {
+    "root_ar": "عتو",
+    "dictionary": "qamus",
+    "action": "remove_block",
+    "detail": "Article is عته/عتعت and only incidental عتى=حتى; not Quranic عتو haughtiness."
+  },
+  {
+    "root_ar": "رحق",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "رحيق"
+  },
+  {
+    "root_ar": "نعس",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "نعاس"
+  },
+  {
+    "root_ar": "نعس",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "نعاس"
+  },
+  {
+    "root_ar": "حنن",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "حنين"
+  },
+  {
+    "root_ar": "حنن",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "حنين"
+  },
+  {
+    "root_ar": "شقق",
+    "dictionary": "qamus",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "شقه"
+  },
+  {
+    "root_ar": "عرض",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "Reviewed valid association"
+  },
+  {
+    "root_ar": "زيد",
+    "dictionary": "tahdhib",
+    "action": "remove_block",
+    "detail": "Parsed Tahdhib block is corrupted/misaligned: زيد entry begins with unrelated حلق material and contains neighboring زود/زأد entries."
+  },
+  {
+    "root_ar": "ضلل",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "ضلال"
+  },
+  {
+    "root_ar": "صرط",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "صراط"
+  },
+  {
+    "root_ar": "سبل",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "سبيل"
+  },
+  {
+    "root_ar": "ربص",
+    "dictionary": "sihah",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "تربص"
+  },
+  {
+    "root_ar": "ربص",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "تربص"
+  },
+  {
+    "root_ar": "شوظ",
+    "dictionary": "mufradat",
+    "action": "clear_false_positive",
+    "detail": "headword matches another root page",
+    "filed_under": "شواظ"
+  }
+]

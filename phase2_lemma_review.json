@@ -1,0 +1,3227 @@
+{
+  "count": 460,
+  "unique_lemmas": 129,
+  "reason": "Verb lemmas ending in inflectional ت are candidates for canonical-lemma normalization; upstream morphology explicitly documents this class as needing review.",
+  "items": [
+    {
+      "ref": "22:2:7",
+      "word": "أَرۡضَعَتۡ",
+      "lemma": "أَرْضَعَتْ",
+      "root": "r-d6-3",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "22:5:63",
+      "word": "ٱهۡتَزَّتۡ",
+      "lemma": "اهْتَزَّتْ",
+      "root": "h-z-z",
+      "grammar": "form VIII perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "22:5:64",
+      "word": "وَرَبَتۡ",
+      "lemma": "رَبَتْ",
+      "root": "r-b-w",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "22:5:65",
+      "word": "وَأَنۢبَتَتۡ",
+      "lemma": "أَنۢبَتَ",
+      "root": "n-b-t",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "22:35:5",
+      "word": "وَجِلَتۡ",
+      "lemma": "وَجِلَتْ",
+      "root": "w-j-l",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "22:36:16",
+      "word": "وَجَبَتۡ",
+      "lemma": "وَجَبَتْ",
+      "root": "w-j-b",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "22:40:18",
+      "word": "لَّهُدِّمَتۡ",
+      "lemma": "هُدِّمَتْ",
+      "root": "h-d-m",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "22:52:22",
+      "word": "يُحۡكِمُ",
+      "lemma": "أُحْكِمَتْ",
+      "root": "h7-k-m",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "22:54:11",
+      "word": "فَتُخۡبِتَ",
+      "lemma": "أَخْبَتُ",
+      "root": "kh-b-t",
+      "grammar": "form IV imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "22:55:2",
+      "word": "يَزَالُ",
+      "lemma": "زالَت",
+      "root": "z-y-l",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "22:58:9",
+      "word": "مَاتُواْ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "22:66:5",
+      "word": "يُمِيتُكُمۡ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "6:43:7",
+      "word": "قَسَتۡ",
+      "lemma": "قَسَتْ",
+      "root": "q-s-w",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "6:71:19",
+      "word": "ٱسۡتَهۡوَتۡهُ",
+      "lemma": "اسْتَهْوَتْ",
+      "root": "h-w-y",
+      "grammar": "form X perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "6:113:1",
+      "word": "وَلِتَصۡغَىٰٓ",
+      "lemma": "صَغَتْ",
+      "root": "s6-gh-w",
+      "grammar": "form I imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "6:143:15",
+      "word": "ٱشۡتَمَلَتۡ",
+      "lemma": "اشْتَمَلَتْ",
+      "root": "sh-m-l",
+      "grammar": "form VIII perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "6:144:13",
+      "word": "ٱشۡتَمَلَتۡ",
+      "lemma": "اشْتَمَلَتْ",
+      "root": "sh-m-l",
+      "grammar": "form VIII perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "33:5:23",
+      "word": "تَعَمَّدَتۡ",
+      "lemma": "تَعَمَّدَتْ",
+      "root": "3-m-d",
+      "grammar": "form V perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "33:16:6",
+      "word": "فَرَرۡتُم",
+      "lemma": "فَرَّتْ",
+      "root": "f-r-r",
+      "grammar": "form I perfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "33:31:2",
+      "word": "يَقۡنُتۡ",
+      "lemma": "يَقْنُتْ",
+      "root": "q-n-t",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "33:31:11",
+      "word": "وَأَعۡتَدۡنَا",
+      "lemma": "أَعْتَدَتْ",
+      "root": "3-t-d",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "33:37:31",
+      "word": "زَوَّجۡنَٰكَهَا",
+      "lemma": "زُوِّجَتْ",
+      "root": "z-w-j",
+      "grammar": "form II perfect verb"
+    },
+    {
+      "ref": "33:50:11",
+      "word": "مَلَكَتۡ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "33:50:52",
+      "word": "مَلَكَتۡ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "33:52:18",
+      "word": "مَلَكَتۡ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "33:55:20",
+      "word": "مَلَكَتۡ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "71:17:2",
+      "word": "أَنۢبَتَكُم",
+      "lemma": "أَنۢبَتَ",
+      "root": "n-b-t",
+      "grammar": "form IV perfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "12:16:4",
+      "word": "يَبۡكُونَ",
+      "lemma": "بَكَتْ",
+      "root": "b-k-y",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "12:23:8",
+      "word": "وَغَلَّقَتِ",
+      "lemma": "غَلَّقَتِ",
+      "root": "gh-l-q",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "12:31:6",
+      "word": "وَأَعۡتَدَتۡ",
+      "lemma": "أَعْتَدَتْ",
+      "root": "3-t-d",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "12:41:19",
+      "word": "تَسۡتَفۡتِيَانِ",
+      "lemma": "يَسْتَفْتُ",
+      "root": "f-t-y",
+      "grammar": "form X imperfect verb"
+    },
+    {
+      "ref": "12:48:15",
+      "word": "تُحۡصِنُونَ",
+      "lemma": "أَحْصَنَتْ",
+      "root": "h7-s6-n",
+      "grammar": "form IV imperfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "12:67:13",
+      "word": "أُغۡنِي",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb"
+    },
+    {
+      "ref": "12:68:9",
+      "word": "يُغۡنِي",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "12:84:7",
+      "word": "وَٱبۡيَضَّتۡ",
+      "lemma": "ابْيَضَّتْ",
+      "root": "b-y-d6",
+      "grammar": "form IX perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "56:4:2",
+      "word": "رُجَّتِ",
+      "lemma": "رُجَّتِ",
+      "root": "r-j-j",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "56:5:1",
+      "word": "وَبُسَّتِ",
+      "lemma": "بُسَّتِ",
+      "root": "b-s-s",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "56:21:4",
+      "word": "يَشۡتَهُونَ",
+      "lemma": "اشْتَهَتْ",
+      "root": "sh-h-w",
+      "grammar": "form VIII imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "56:47:4",
+      "word": "مِتۡنَا",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb"
+    },
+    {
+      "ref": "36:9:9",
+      "word": "فَأَغۡشَيۡنَٰهُمۡ",
+      "lemma": "أُغْشِيَتْ",
+      "root": "gh-sh-w",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "36:23:10",
+      "word": "تُغۡنِ",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "36:34:7",
+      "word": "وَفَجَّرۡنَا",
+      "lemma": "فُجِّرَتْ",
+      "root": "f-j-r",
+      "grammar": "form II perfect verb"
+    },
+    {
+      "ref": "36:36:7",
+      "word": "تُنۢبِتُ",
+      "lemma": "أَنۢبَتَ",
+      "root": "n-b-t",
+      "grammar": "form IV imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "36:66:3",
+      "word": "لَطَمَسۡنَا",
+      "lemma": "طُمِسَتْ",
+      "root": "t6-m-s",
+      "grammar": "form I perfect verb"
+    },
+    {
+      "ref": "36:72:1",
+      "word": "وَذَلَّلۡنَٰهَا",
+      "lemma": "ذُلِّلَتْ",
+      "root": "dh-l-l",
+      "grammar": "form II perfect verb"
+    },
+    {
+      "ref": "66:4:6",
+      "word": "صَغَتۡ",
+      "lemma": "صَغَتْ",
+      "root": "s6-gh-w",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "66:10:18",
+      "word": "يُغۡنِيَا",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person masculine dual)"
+    },
+    {
+      "ref": "66:12:5",
+      "word": "أَحۡصَنَتۡ",
+      "lemma": "أَحْصَنَتْ",
+      "root": "h7-s6-n",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "101:6:3",
+      "word": "ثَقُلَتۡ",
+      "lemma": "ثَقُلَتْ",
+      "root": "th-q-l",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "101:8:3",
+      "word": "خَفَّتۡ",
+      "lemma": "خَفَّتْ",
+      "root": "kh-f-f",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "58:5:6",
+      "word": "كُبِتُواْ",
+      "lemma": "كُبِتَ",
+      "root": "k-b-t",
+      "grammar": "form I perfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "58:5:8",
+      "word": "كُبِتَ",
+      "lemma": "كُبِتَ",
+      "root": "k-b-t",
+      "grammar": "form I perfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "58:17:2",
+      "word": "تُغۡنِيَ",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "89:21:3",
+      "word": "دُكَّتِ",
+      "lemma": "دُكَّتِ",
+      "root": "d-k-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "2:27:2",
+      "word": "يَنقُضُونَ",
+      "lemma": "نَقَضَتْ",
+      "root": "n-q-d6",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "2:28:8",
+      "word": "يُمِيتُكُمۡ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "2:60:9",
+      "word": "فَٱنفَجَرَتۡ",
+      "lemma": "انفَجَرَتْ",
+      "root": "f-j-r",
+      "grammar": "form VII perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "2:61:15",
+      "word": "تُنۢبِتُ",
+      "lemma": "أَنۢبَتَ",
+      "root": "n-b-t",
+      "grammar": "form IV imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "2:74:2",
+      "word": "قَسَتۡ",
+      "lemma": "قَسَتْ",
+      "root": "q-s-w",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "2:111:14",
+      "word": "هَاتُواْ",
+      "lemma": "هاتُ",
+      "root": "h-a-t",
+      "grammar": "form I imperative verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "2:132:13",
+      "word": "تَمُوتُنَّ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "2:161:4",
+      "word": "وَمَاتُواْ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "2:186:7",
+      "word": "أُجِيبُ",
+      "lemma": "أُجِيبَت",
+      "root": "j-w-b",
+      "grammar": "form IV imperfect verb"
+    },
+    {
+      "ref": "2:217:30",
+      "word": "يَزَالُونَ",
+      "lemma": "زالَت",
+      "root": "z-y-l",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "2:217:43",
+      "word": "فَيَمُتۡ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "2:220:22",
+      "word": "لَأَعۡنَتَكُمۡۚ",
+      "lemma": "أَعْنَتَ",
+      "root": "3-n-t",
+      "grammar": "form IV perfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "2:243:15",
+      "word": "مُوتُواْ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperative verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "2:250:10",
+      "word": "وَثَبِّتۡ",
+      "lemma": "ثَبَّتْ",
+      "root": "th-b-t",
+      "grammar": "form II imperative verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "2:251:20",
+      "word": "لَّفَسَدَتِ",
+      "lemma": "فَسَدَتِ",
+      "root": "f-s-d",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "2:258:19",
+      "word": "وَيُمِيتُ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "2:258:23",
+      "word": "وَأُمِيتُۖ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV imperfect verb"
+    },
+    {
+      "ref": "2:258:36",
+      "word": "فَبُهِتَ",
+      "lemma": "بُهِتَ",
+      "root": "b-h-t",
+      "grammar": "form I perfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "2:259:17",
+      "word": "فَأَمَاتَهُ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV perfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "2:261:10",
+      "word": "أَنۢبَتَتۡ",
+      "lemma": "أَنۢبَتَ",
+      "root": "n-b-t",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "2:266:28",
+      "word": "فَٱحۡتَرَقَتۡۗ",
+      "lemma": "احْتَرَقَتْ",
+      "root": "h7-r-q",
+      "grammar": "form VIII perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "3:10:5",
+      "word": "تُغۡنِيَ",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "3:37:5",
+      "word": "وَأَنۢبَتَهَا",
+      "lemma": "أَنۢبَتَ",
+      "root": "n-b-t",
+      "grammar": "form IV perfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "3:43:2",
+      "word": "ٱقۡنُتِي",
+      "lemma": "يَقْنُتْ",
+      "root": "q-n-t",
+      "grammar": "form I imperative verb (2nd person feminine singular)"
+    },
+    {
+      "ref": "3:91:4",
+      "word": "وَمَاتُواْ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "3:102:9",
+      "word": "تَمُوتُنَّ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "3:106:2",
+      "word": "تَبۡيَضُّ",
+      "lemma": "ابْيَضَّتْ",
+      "root": "b-y-d6",
+      "grammar": "form IX imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "3:106:4",
+      "word": "وَتَسۡوَدُّ",
+      "lemma": "اسْوَدَّتْ",
+      "root": "s-w-d",
+      "grammar": "form IX imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "3:106:8",
+      "word": "ٱسۡوَدَّتۡ",
+      "lemma": "اسْوَدَّتْ",
+      "root": "s-w-d",
+      "grammar": "form IX perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "3:107:3",
+      "word": "ٱبۡيَضَّتۡ",
+      "lemma": "ابْيَضَّتْ",
+      "root": "b-y-d6",
+      "grammar": "form IX perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "3:116:5",
+      "word": "تُغۡنِيَ",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "3:119:21",
+      "word": "مُوتُواْ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperative verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "3:127:7",
+      "word": "يَكۡبِتَهُمۡ",
+      "lemma": "كُبِتَ",
+      "root": "k-b-t",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "3:144:11",
+      "word": "مَّاتَ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "3:145:5",
+      "word": "تَمُوتَ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "3:147:14",
+      "word": "وَثَبِّتۡ",
+      "lemma": "ثَبَّتْ",
+      "root": "th-b-t",
+      "grammar": "form II imperative verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "3:153:18",
+      "word": "فَاتَكُمۡ",
+      "lemma": "فاتَ",
+      "root": "f-w-t",
+      "grammar": "form I perfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "3:154:14",
+      "word": "أَهَمَّتۡهُمۡ",
+      "lemma": "أَهَمَّتْ",
+      "root": "h-m-m",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "3:156:21",
+      "word": "مَاتُواْ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "3:156:32",
+      "word": "وَيُمِيتُۗ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "3:157:7",
+      "word": "مُتُّمۡ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "3:158:2",
+      "word": "مُّتُّمۡ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "39:5:5",
+      "word": "يُكَوِّرُ",
+      "lemma": "كُوِّرَتْ",
+      "root": "k-w-r",
+      "grammar": "form II imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "39:5:9",
+      "word": "وَيُكَوِّرُ",
+      "lemma": "كُوِّرَتْ",
+      "root": "k-w-r",
+      "grammar": "form II imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "39:42:8",
+      "word": "تَمُتۡ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "39:43:11",
+      "word": "يَمۡلِكُونَ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "39:45:5",
+      "word": "ٱشۡمَأَزَّتۡ",
+      "lemma": "اشْمَأَزَّتْ",
+      "root": "sh-m-z",
+      "grammar": "form VIII perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "39:69:1",
+      "word": "وَأَشۡرَقَتِ",
+      "lemma": "أَشْرَقَتِ",
+      "root": "sh-r-q",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "43:47:7",
+      "word": "يَضۡحَكُونَ",
+      "lemma": "ضَحِكَتْ",
+      "root": "d6-h7-k",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "43:71:9",
+      "word": "تَشۡتَهِيهِ",
+      "lemma": "اشْتَهَتْ",
+      "root": "sh-h-w",
+      "grammar": "form VIII imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "43:86:2",
+      "word": "يَمۡلِكُ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "17:10:6",
+      "word": "أَعۡتَدۡنَا",
+      "lemma": "أَعْتَدَتْ",
+      "root": "3-t-d",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "17:56:8",
+      "word": "يَمۡلِكُونَ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "17:74:3",
+      "word": "ثَبَّتۡنَٰكَ",
+      "lemma": "ثَبَّتْ",
+      "root": "th-b-t",
+      "grammar": "form II perfect verb"
+    },
+    {
+      "ref": "17:91:8",
+      "word": "فَتُفَجِّرَ",
+      "lemma": "فُجِّرَتْ",
+      "root": "f-j-r",
+      "grammar": "form II imperfect verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "17:97:25",
+      "word": "خَبَتۡ",
+      "lemma": "خَبَتْ",
+      "root": "kh-b-w",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "17:100:4",
+      "word": "تَمۡلِكُونَ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "17:109:3",
+      "word": "يَبۡكُونَ",
+      "lemma": "بَكَتْ",
+      "root": "b-k-y",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "17:110:17",
+      "word": "تُخَافِتۡ",
+      "lemma": "تُخافِتْ",
+      "root": "kh-f-t",
+      "grammar": "form III imperfect verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "47:7:8",
+      "word": "وَيُثَبِّتۡ",
+      "lemma": "ثَبَّتْ",
+      "root": "th-b-t",
+      "grammar": "form II imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "47:34:9",
+      "word": "مَاتُواْ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "29:17:16",
+      "word": "يَمۡلِكُونَ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "92:11:2",
+      "word": "يُغۡنِي",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "88:7:4",
+      "word": "يُغۡنِي",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "88:19:4",
+      "word": "نُصِبَتۡ",
+      "lemma": "نُصِبَتْ",
+      "root": "n-s6-b",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "88:20:4",
+      "word": "سُطِحَتۡ",
+      "lemma": "سُطِحَتْ",
+      "root": "s-t6-h7",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "9:5:10",
+      "word": "وَٱحۡصُرُوهُمۡ",
+      "lemma": "حَصِرَتْ",
+      "root": "h7-s6-r",
+      "grammar": "form I imperative verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "9:25:13",
+      "word": "تُغۡنِ",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "9:25:20",
+      "word": "رَحُبَتۡ",
+      "lemma": "رَحُبَتْ",
+      "root": "r-h7-b",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "9:28:18",
+      "word": "يُغۡنِيكُمُ",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "9:42:9",
+      "word": "بَعُدَتۡ",
+      "lemma": "بَعُدَتْ",
+      "root": "b-3-d",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "9:82:1",
+      "word": "فَلۡيَضۡحَكُواْ",
+      "lemma": "ضَحِكَتْ",
+      "root": "d6-h7-k",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "9:82:3",
+      "word": "وَلۡيَبۡكُواْ",
+      "lemma": "بَكَتْ",
+      "root": "b-k-y",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "9:84:6",
+      "word": "مَّاتَ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "9:84:16",
+      "word": "وَمَاتُواْ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "9:110:2",
+      "word": "يَزَالُ",
+      "lemma": "زالَت",
+      "root": "z-y-l",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "9:116:8",
+      "word": "وَيُمِيتُۚ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "9:118:11",
+      "word": "رَحُبَتۡ",
+      "lemma": "رَحُبَتْ",
+      "root": "r-h7-b",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "9:125:10",
+      "word": "وَمَاتُواْ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "5:13:18",
+      "word": "تَزَالُ",
+      "lemma": "زالَت",
+      "root": "z-y-l",
+      "grammar": "form I imperfect verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "5:17:13",
+      "word": "يَمۡلِكُ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "5:25:5",
+      "word": "أَمۡلِكُ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb"
+    },
+    {
+      "ref": "5:30:1",
+      "word": "فَطَوَّعَتۡ",
+      "lemma": "طَوَّعَتْ",
+      "root": "t6-w-3",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "5:41:46",
+      "word": "تَمۡلِكَ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "5:76:8",
+      "word": "يَمۡلِكُ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "5:109:7",
+      "word": "أُجِبۡتُمۡۖ",
+      "lemma": "أُجِيبَت",
+      "root": "j-w-b",
+      "grammar": "form IV perfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "30:28:10",
+      "word": "مَلَكَتۡ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "30:39:5",
+      "word": "لِّيَرۡبُوَاْ",
+      "lemma": "رَبَتْ",
+      "root": "r-b-w",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "30:39:10",
+      "word": "يَرۡبُواْ",
+      "lemma": "رَبَتْ",
+      "root": "r-b-w",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "30:40:7",
+      "word": "يُمِيتُكُمۡ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "48:11:6",
+      "word": "شَغَلَتۡنَآ",
+      "lemma": "شَغَلَتْ",
+      "root": "sh-gh-l",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "48:11:19",
+      "word": "يَمۡلِكُ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "48:13:7",
+      "word": "أَعۡتَدۡنَا",
+      "lemma": "أَعْتَدَتْ",
+      "root": "3-t-d",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "97:4:1",
+      "word": "تَنَزَّلُ",
+      "lemma": "تَنَزَّلَتْ",
+      "root": "n-z-l",
+      "grammar": "form V imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "45:10:5",
+      "word": "يُغۡنِي",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "45:19:3",
+      "word": "يُغۡنُواْ",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "45:24:7",
+      "word": "نَمُوتُ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperfect verb"
+    },
+    {
+      "ref": "45:26:5",
+      "word": "يُمِيتُكُمۡ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "72:8:5",
+      "word": "مُلِئَتۡ",
+      "lemma": "مُلِئَتْ",
+      "root": "m-l-a",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "72:21:4",
+      "word": "أَمۡلِكُ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb"
+    },
+    {
+      "ref": "46:8:8",
+      "word": "تَمۡلِكُونَ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "46:29:12",
+      "word": "أَنصِتُواْۖ",
+      "lemma": "أَنصِتُ",
+      "root": "n-s6-t",
+      "grammar": "form IV imperative verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "46:31:2",
+      "word": "أَجِيبُواْ",
+      "lemma": "أُجِيبَت",
+      "root": "j-w-b",
+      "grammar": "form IV imperative verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "46:32:3",
+      "word": "يُجِبۡ",
+      "lemma": "أُجِيبَت",
+      "root": "j-w-b",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "70:30:6",
+      "word": "مَلَكَتۡ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "53:26:7",
+      "word": "تُغۡنِي",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "53:28:13",
+      "word": "يُغۡنِي",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "53:44:3",
+      "word": "أَمَاتَ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV perfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "53:57:1",
+      "word": "أَزِفَتِ",
+      "lemma": "أَزِفَتِ",
+      "root": "a-z-f",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "53:60:1",
+      "word": "وَتَضۡحَكُونَ",
+      "lemma": "ضَحِكَتْ",
+      "root": "d6-h7-k",
+      "grammar": "form I imperfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "53:60:3",
+      "word": "تَبۡكُونَ",
+      "lemma": "بَكَتْ",
+      "root": "b-k-y",
+      "grammar": "form I imperfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "20:61:10",
+      "word": "فَيُسۡحِتَكُم",
+      "lemma": "يُسْحِتَ",
+      "root": "s-h7-t",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "20:74:10",
+      "word": "يَمُوتُ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "20:89:8",
+      "word": "يَمۡلِكُ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "20:96:2",
+      "word": "بَصُرۡتُ",
+      "lemma": "بَصُرَتْ",
+      "root": "b-s6-r",
+      "grammar": "form I perfect verb"
+    },
+    {
+      "ref": "20:96:5",
+      "word": "يَبۡصُرُواْ",
+      "lemma": "بَصُرَتْ",
+      "root": "b-s6-r",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "20:97:25",
+      "word": "لَنَنسِفَنَّهُۥ",
+      "lemma": "نُسِفَتْ",
+      "root": "n-s-f",
+      "grammar": "form I imperfect verb"
+    },
+    {
+      "ref": "20:103:1",
+      "word": "يَتَخَٰفَتُونَ",
+      "lemma": "يَتَخافَتُ",
+      "root": "kh-f-t",
+      "grammar": "form VI imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "20:105:5",
+      "word": "يَنسِفُهَا",
+      "lemma": "نُسِفَتْ",
+      "root": "n-s-f",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "20:108:7",
+      "word": "وَخَشَعَتِ",
+      "lemma": "خَشَعَتِ",
+      "root": "kh-sh-3",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "20:111:1",
+      "word": "۞وَعَنَتِ",
+      "lemma": "عَنَتِ",
+      "root": "3-n-w",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "16:11:1",
+      "word": "يُنۢبِتُ",
+      "lemma": "أَنۢبَتَ",
+      "root": "n-b-t",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "16:38:9",
+      "word": "يَمُوتُۚ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "16:57:7",
+      "word": "يَشۡتَهُونَ",
+      "lemma": "اشْتَهَتْ",
+      "root": "sh-h-w",
+      "grammar": "form VIII imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "16:59:1",
+      "word": "يَتَوَٰرَىٰ",
+      "lemma": "تَوارَتْ",
+      "root": "w-r-y",
+      "grammar": "form VI imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "16:71:15",
+      "word": "مَلَكَتۡ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "16:73:7",
+      "word": "يَمۡلِكُ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "16:91:7",
+      "word": "تَنقُضُواْ",
+      "lemma": "نَقَضَتْ",
+      "root": "n-q-d6",
+      "grammar": "form I imperfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "16:92:4",
+      "word": "نَقَضَتۡ",
+      "lemma": "نَقَضَتْ",
+      "root": "n-q-d6",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "16:102:8",
+      "word": "لِيُثَبِّتَ",
+      "lemma": "ثَبَّتْ",
+      "root": "th-b-t",
+      "grammar": "form II imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "31:10:22",
+      "word": "فَأَنۢبَتۡنَا",
+      "lemma": "أَنۢبَتَ",
+      "root": "n-b-t",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "31:34:23",
+      "word": "تَمُوتُۚ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "68:23:3",
+      "word": "يَتَخَٰفَتُونَ",
+      "lemma": "يَتَخافَتُ",
+      "root": "kh-f-t",
+      "grammar": "form VI imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "8:2:7",
+      "word": "وَجِلَتۡ",
+      "lemma": "وَجِلَتْ",
+      "root": "w-j-l",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "8:11:20",
+      "word": "وَيُثَبِّتَ",
+      "lemma": "ثَبَّتْ",
+      "root": "th-b-t",
+      "grammar": "form II imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "8:12:8",
+      "word": "فَثَبِّتُواْ",
+      "lemma": "ثَبَّتْ",
+      "root": "th-b-t",
+      "grammar": "form II imperative verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "8:19:15",
+      "word": "تُغۡنِيَ",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "8:30:6",
+      "word": "لِيُثۡبِتُوكَ",
+      "lemma": "يُثْبِتُ",
+      "root": "th-b-t",
+      "grammar": "form IV imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "8:32:11",
+      "word": "فَأَمۡطِرۡ",
+      "lemma": "أُمْطِرَتْ",
+      "root": "m-t6-r",
+      "grammar": "form IV imperative verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "8:45:7",
+      "word": "فَٱثۡبُتُواْ",
+      "lemma": "اثْبُتُ",
+      "root": "th-b-t",
+      "grammar": "form I imperative verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "8:48:17",
+      "word": "تَرَآءَتِ",
+      "lemma": "تَراءَتِ",
+      "root": "r-a-y",
+      "grammar": "form VI perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "8:56:5",
+      "word": "يَنقُضُونَ",
+      "lemma": "نَقَضَتْ",
+      "root": "n-q-d6",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "52:20:5",
+      "word": "وَزَوَّجۡنَٰهُم",
+      "lemma": "زُوِّجَتْ",
+      "root": "z-w-j",
+      "grammar": "form II perfect verb"
+    },
+    {
+      "ref": "52:21:10",
+      "word": "أَلَتۡنَٰهُم",
+      "lemma": "أَلَتْ",
+      "root": "a-l-t",
+      "grammar": "form I perfect verb"
+    },
+    {
+      "ref": "52:22:5",
+      "word": "يَشۡتَهُونَ",
+      "lemma": "اشْتَهَتْ",
+      "root": "sh-h-w",
+      "grammar": "form VIII imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "52:46:3",
+      "word": "يُغۡنِي",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "67:5:9",
+      "word": "وَأَعۡتَدۡنَا",
+      "lemma": "أَعْتَدَتْ",
+      "root": "3-t-d",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "18:16:10",
+      "word": "يَنشُرۡ",
+      "lemma": "نُشِرَتْ",
+      "root": "n-sh-r",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "18:17:4",
+      "word": "طَلَعَت",
+      "lemma": "طَلَعَت",
+      "root": "t6-l-3",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "18:17:11",
+      "word": "غَرَبَت",
+      "lemma": "غَرَبَت",
+      "root": "gh-r-b",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "18:18:20",
+      "word": "وَلَمُلِئۡتَ",
+      "lemma": "مُلِئَتْ",
+      "root": "m-l-a",
+      "grammar": "form I perfect verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "18:22:30",
+      "word": "تَسۡتَفۡتِ",
+      "lemma": "يَسْتَفْتُ",
+      "root": "f-t-y",
+      "grammar": "form X imperfect verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "18:29:12",
+      "word": "أَعۡتَدۡنَا",
+      "lemma": "أَعْتَدَتْ",
+      "root": "3-t-d",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "18:33:9",
+      "word": "وَفَجَّرۡنَا",
+      "lemma": "فُجِّرَتْ",
+      "root": "f-j-r",
+      "grammar": "form II perfect verb"
+    },
+    {
+      "ref": "18:47:2",
+      "word": "نُسَيِّرُ",
+      "lemma": "سُيِّرَتْ",
+      "root": "s-y-r",
+      "grammar": "form II imperfect verb"
+    },
+    {
+      "ref": "18:86:7",
+      "word": "تَغۡرُبُ",
+      "lemma": "غَرَبَت",
+      "root": "gh-r-b",
+      "grammar": "form I imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "18:90:7",
+      "word": "تَطۡلُعُ",
+      "lemma": "طَلَعَت",
+      "root": "t6-l-3",
+      "grammar": "form I imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "18:102:11",
+      "word": "أَعۡتَدۡنَا",
+      "lemma": "أَعْتَدَتْ",
+      "root": "3-t-d",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "25:3:11",
+      "word": "يَمۡلِكُونَ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "25:3:17",
+      "word": "يَمۡلِكُونَ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "25:11:4",
+      "word": "وَأَعۡتَدۡنَا",
+      "lemma": "أَعْتَدَتْ",
+      "root": "3-t-d",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "25:21:17",
+      "word": "وَعَتَوۡ",
+      "lemma": "عَتَ",
+      "root": "3-t-w",
+      "grammar": "form I perfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "25:32:11",
+      "word": "لِنُثَبِّتَ",
+      "lemma": "ثَبَّتْ",
+      "root": "th-b-t",
+      "grammar": "form II imperfect verb"
+    },
+    {
+      "ref": "25:37:10",
+      "word": "وَأَعۡتَدۡنَا",
+      "lemma": "أَعْتَدَتْ",
+      "root": "3-t-d",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "25:40:6",
+      "word": "أُمۡطِرَتۡ",
+      "lemma": "أُمْطِرَتْ",
+      "root": "m-t6-r",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "25:58:6",
+      "word": "يَمُوتُ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "25:64:2",
+      "word": "يَبِيتُونَ",
+      "lemma": "يَبِيتُ",
+      "root": "b-y-t",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "60:4:40",
+      "word": "أَمۡلِكُ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb"
+    },
+    {
+      "ref": "60:11:2",
+      "word": "فَاتَكُمۡ",
+      "lemma": "فاتَ",
+      "root": "f-w-t",
+      "grammar": "form I perfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "26:7:6",
+      "word": "أَنۢبَتۡنَا",
+      "lemma": "أَنۢبَتَ",
+      "root": "n-b-t",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "26:21:1",
+      "word": "فَفَرَرۡتُ",
+      "lemma": "فَرَّتْ",
+      "root": "f-r-r",
+      "grammar": "form I perfect verb"
+    },
+    {
+      "ref": "26:61:2",
+      "word": "تَرَٰٓءَا",
+      "lemma": "تَراءَتِ",
+      "root": "r-a-y",
+      "grammar": "form VI imperfect verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "26:64:1",
+      "word": "وَأَزۡلَفۡنَا",
+      "lemma": "أُزْلِفَتْ",
+      "root": "z-l-f",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "26:81:2",
+      "word": "يُمِيتُنِي",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "26:90:1",
+      "word": "وَأُزۡلِفَتِ",
+      "lemma": "أُزْلِفَتْ",
+      "root": "z-l-f",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "26:91:1",
+      "word": "وَبُرِّزَتِ",
+      "lemma": "بُرِّزَتِ",
+      "root": "b-r-z",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "26:149:1",
+      "word": "وَتَنۡحِتُونَ",
+      "lemma": "يَنْحِتُ",
+      "root": "n-h7-t",
+      "grammar": "form I imperfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "26:173:1",
+      "word": "وَأَمۡطَرۡنَا",
+      "lemma": "أُمْطِرَتْ",
+      "root": "m-t6-r",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "26:210:2",
+      "word": "تَنَزَّلَتۡ",
+      "lemma": "تَنَزَّلَتْ",
+      "root": "n-z-l",
+      "grammar": "form V perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "26:221:5",
+      "word": "تَنَزَّلُ",
+      "lemma": "تَنَزَّلَتْ",
+      "root": "n-z-l",
+      "grammar": "form V imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "26:222:1",
+      "word": "تَنَزَّلُ",
+      "lemma": "تَنَزَّلَتْ",
+      "root": "n-z-l",
+      "grammar": "form V imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "28:7:6",
+      "word": "أَرۡضِعِيهِۖ",
+      "lemma": "أَرْضَعَتْ",
+      "root": "r-d6-3",
+      "grammar": "form IV imperative verb (2nd person feminine singular)"
+    },
+    {
+      "ref": "28:11:4",
+      "word": "فَبَصُرَتۡ",
+      "lemma": "بَصُرَتْ",
+      "root": "b-s6-r",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "28:31:6",
+      "word": "تَهۡتَزُّ",
+      "lemma": "اهْتَزَّتْ",
+      "root": "h-z-z",
+      "grammar": "form VIII imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "28:58:5",
+      "word": "بَطِرَتۡ",
+      "lemma": "بَطِرَتْ",
+      "root": "b-t6-r",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "28:65:5",
+      "word": "أَجَبۡتُمُ",
+      "lemma": "أُجِيبَت",
+      "root": "j-w-b",
+      "grammar": "form IV perfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "28:75:7",
+      "word": "هَاتُواْ",
+      "lemma": "هاتُ",
+      "root": "h-a-t",
+      "grammar": "form I imperative verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "69:14:4",
+      "word": "فَدُكَّتَا",
+      "lemma": "دُكَّتِ",
+      "root": "d-k-k",
+      "grammar": "form I perfect verb (3rd person feminine dual)"
+    },
+    {
+      "ref": "69:24:5",
+      "word": "أَسۡلَفۡتُمۡ",
+      "lemma": "أَسْلَفَتْ",
+      "root": "s-l-f",
+      "grammar": "form IV perfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "24:31:46",
+      "word": "مَلَكَتۡ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "24:32:11",
+      "word": "يُغۡنِهِمُ",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "24:33:7",
+      "word": "يُغۡنِيَهُمُ",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "24:33:15",
+      "word": "مَلَكَتۡ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "24:58:6",
+      "word": "مَلَكَتۡ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "24:61:46",
+      "word": "مَلَكۡتُم",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I perfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "41:30:8",
+      "word": "تَتَنَزَّلُ",
+      "lemma": "تَنَزَّلَتْ",
+      "root": "n-z-l",
+      "grammar": "form V imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "41:31:11",
+      "word": "تَشۡتَهِيٓ",
+      "lemma": "اشْتَهَتْ",
+      "root": "sh-h-w",
+      "grammar": "form VIII imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "41:39:11",
+      "word": "ٱهۡتَزَّتۡ",
+      "lemma": "اهْتَزَّتْ",
+      "root": "h-z-z",
+      "grammar": "form VIII perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "41:39:12",
+      "word": "وَرَبَتۡۚ",
+      "lemma": "رَبَتْ",
+      "root": "r-b-w",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "79:36:1",
+      "word": "وَبُرِّزَتِ",
+      "lemma": "بُرِّزَتِ",
+      "root": "b-r-z",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "11:1:3",
+      "word": "أُحۡكِمَتۡ",
+      "lemma": "أُحْكِمَتْ",
+      "root": "h7-k-m",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "11:23:6",
+      "word": "وَأَخۡبَتُوٓاْ",
+      "lemma": "أَخْبَتُ",
+      "root": "kh-b-t",
+      "grammar": "form IV perfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "11:28:14",
+      "word": "فَعُمِّيَتۡ",
+      "lemma": "عُمِّيَتْ",
+      "root": "3-m-y",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "11:71:3",
+      "word": "فَضَحِكَتۡ",
+      "lemma": "ضَحِكَتْ",
+      "root": "d6-h7-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "11:81:15",
+      "word": "يَلۡتَفِتۡ",
+      "lemma": "يَلْتَفِتْ",
+      "root": "l-f-t",
+      "grammar": "form VIII imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "11:82:7",
+      "word": "وَأَمۡطَرۡنَا",
+      "lemma": "أُمْطِرَتْ",
+      "root": "m-t6-r",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "11:95:9",
+      "word": "بَعِدَتۡ",
+      "lemma": "بَعُدَتْ",
+      "root": "b-3-d",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "11:101:7",
+      "word": "أَغۡنَتۡ",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "11:118:9",
+      "word": "يَزَالُونَ",
+      "lemma": "زالَت",
+      "root": "z-y-l",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "11:119:10",
+      "word": "لَأَمۡلَأَنَّ",
+      "lemma": "مُلِئَتْ",
+      "root": "m-l-a",
+      "grammar": "form I imperfect verb"
+    },
+    {
+      "ref": "11:120:8",
+      "word": "نُثَبِّتُ",
+      "lemma": "ثَبَّتْ",
+      "root": "th-b-t",
+      "grammar": "form II imperfect verb"
+    },
+    {
+      "ref": "54:5:4",
+      "word": "تُغۡنِ",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "54:12:1",
+      "word": "وَفَجَّرۡنَا",
+      "lemma": "فُجِّرَتْ",
+      "root": "f-j-r",
+      "grammar": "form II perfect verb"
+    },
+    {
+      "ref": "54:37:5",
+      "word": "فَطَمَسۡنَآ",
+      "lemma": "طُمِسَتْ",
+      "root": "t6-m-s",
+      "grammar": "form I perfect verb"
+    },
+    {
+      "ref": "44:8:6",
+      "word": "وَيُمِيتُۖ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "44:29:2",
+      "word": "بَكَتۡ",
+      "lemma": "بَكَتْ",
+      "root": "b-k-y",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "44:41:3",
+      "word": "يُغۡنِي",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "44:54:2",
+      "word": "وَزَوَّجۡنَٰهُم",
+      "lemma": "زُوِّجَتْ",
+      "root": "z-w-j",
+      "grammar": "form II perfect verb"
+    },
+    {
+      "ref": "83:29:8",
+      "word": "يَضۡحَكُونَ",
+      "lemma": "ضَحِكَتْ",
+      "root": "d6-h7-k",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "83:34:6",
+      "word": "يَضۡحَكُونَ",
+      "lemma": "ضَحِكَتْ",
+      "root": "d6-h7-k",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "94:7:3",
+      "word": "فَٱنصَبۡ",
+      "lemma": "نُصِبَتْ",
+      "root": "n-s6-b",
+      "grammar": "form I imperative verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "76:4:2",
+      "word": "أَعۡتَدۡنَا",
+      "lemma": "أَعْتَدَتْ",
+      "root": "3-t-d",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "76:6:6",
+      "word": "يُفَجِّرُونَهَا",
+      "lemma": "فُجِّرَتْ",
+      "root": "f-j-r",
+      "grammar": "form II imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "76:14:4",
+      "word": "وَذُلِّلَتۡ",
+      "lemma": "ذُلِّلَتْ",
+      "root": "dh-l-l",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "13:3:16",
+      "word": "يُغۡشِي",
+      "lemma": "أُغْشِيَتْ",
+      "root": "gh-sh-w",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "13:16:14",
+      "word": "يَمۡلِكُونَ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "13:17:5",
+      "word": "فَسَالَتۡ",
+      "lemma": "سالَتْ",
+      "root": "s-y-l",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "13:20:6",
+      "word": "يَنقُضُونَ",
+      "lemma": "نَقَضَتْ",
+      "root": "n-q-d6",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "13:25:2",
+      "word": "يَنقُضُونَ",
+      "lemma": "نَقَضَتْ",
+      "root": "n-q-d6",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "13:31:4",
+      "word": "سُيِّرَتۡ",
+      "lemma": "سُيِّرَتْ",
+      "root": "s-y-r",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "13:31:31",
+      "word": "يَزَالُ",
+      "lemma": "زالَت",
+      "root": "z-y-l",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "13:39:5",
+      "word": "وَيُثۡبِتُۖ",
+      "lemma": "يُثْبِتُ",
+      "root": "th-b-t",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "34:22:9",
+      "word": "يَمۡلِكُونَ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "34:42:3",
+      "word": "يَمۡلِكُ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "34:54:5",
+      "word": "يَشۡتَهُونَ",
+      "lemma": "اشْتَهَتْ",
+      "root": "sh-h-w",
+      "grammar": "form VIII imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "42:28:9",
+      "word": "وَيَنشُرُ",
+      "lemma": "نُشِرَتْ",
+      "root": "n-sh-r",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "42:50:2",
+      "word": "يُزَوِّجُهُمۡ",
+      "lemma": "زُوِّجَتْ",
+      "root": "z-w-j",
+      "grammar": "form II imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "80:21:2",
+      "word": "أَمَاتَهُۥ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV perfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "80:27:1",
+      "word": "فَأَنۢبَتۡنَا",
+      "lemma": "أَنۢبَتَ",
+      "root": "n-b-t",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "80:34:2",
+      "word": "يَفِرُّ",
+      "lemma": "فَرَّتْ",
+      "root": "f-r-r",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "80:37:6",
+      "word": "يُغۡنِيهِ",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "78:20:1",
+      "word": "وَسُيِّرَتِ",
+      "lemma": "سُيِّرَتْ",
+      "root": "s-y-r",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "78:37:8",
+      "word": "يَمۡلِكُونَ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "77:8:3",
+      "word": "طُمِسَتۡ",
+      "lemma": "طُمِسَتْ",
+      "root": "t6-m-s",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "77:9:3",
+      "word": "فُرِجَتۡ",
+      "lemma": "فُرِجَتْ",
+      "root": "f-r-j",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "77:10:3",
+      "word": "نُسِفَتۡ",
+      "lemma": "نُسِفَتْ",
+      "root": "n-s-f",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "77:11:3",
+      "word": "أُقِّتَتۡ",
+      "lemma": "أُقِّتَتْ",
+      "root": "w-q-t",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "77:31:4",
+      "word": "يُغۡنِي",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "77:42:3",
+      "word": "يَشۡتَهُونَ",
+      "lemma": "اشْتَهَتْ",
+      "root": "sh-h-w",
+      "grammar": "form VIII imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "37:11:1",
+      "word": "فَٱسۡتَفۡتِهِمۡ",
+      "lemma": "يَسْتَفْتُ",
+      "root": "f-t-y",
+      "grammar": "form X imperative verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "37:16:2",
+      "word": "مِتۡنَا",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb"
+    },
+    {
+      "ref": "37:53:2",
+      "word": "مِتۡنَا",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb"
+    },
+    {
+      "ref": "37:95:4",
+      "word": "تَنۡحِتُونَ",
+      "lemma": "يَنْحِتُ",
+      "root": "n-h7-t",
+      "grammar": "form I imperfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "37:146:1",
+      "word": "وَأَنۢبَتۡنَا",
+      "lemma": "أَنۢبَتَ",
+      "root": "n-b-t",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "37:149:1",
+      "word": "فَٱسۡتَفۡتِهِمۡ",
+      "lemma": "يَسْتَفْتُ",
+      "root": "f-t-y",
+      "grammar": "form X imperative verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "62:8:5",
+      "word": "تَفِرُّونَ",
+      "lemma": "فَرَّتْ",
+      "root": "f-r-r",
+      "grammar": "form I imperfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "75:29:1",
+      "word": "وَٱلۡتَفَّتِ",
+      "lemma": "الْتَفَّتِ",
+      "root": "l-f-f",
+      "grammar": "form VIII perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "65:6:21",
+      "word": "أَرۡضَعۡنَ",
+      "lemma": "أَرْضَعَتْ",
+      "root": "r-d6-3",
+      "grammar": "form IV perfect verb (3rd person feminine plural)"
+    },
+    {
+      "ref": "65:6:30",
+      "word": "فَسَتُرۡضِعُ",
+      "lemma": "أَرْضَعَتْ",
+      "root": "r-d6-3",
+      "grammar": "form IV imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "65:8:4",
+      "word": "عَتَتۡ",
+      "lemma": "عَتَ",
+      "root": "3-t-w",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "65:12:9",
+      "word": "يَتَنَزَّلُ",
+      "lemma": "تَنَزَّلَتْ",
+      "root": "n-z-l",
+      "grammar": "form V imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "19:15:6",
+      "word": "يَمُوتُ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "19:16:6",
+      "word": "ٱنتَبَذَتۡ",
+      "lemma": "انتَبَذَتْ",
+      "root": "n-b-dh",
+      "grammar": "form VIII perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "19:22:2",
+      "word": "فَٱنتَبَذَتۡ",
+      "lemma": "انتَبَذَتْ",
+      "root": "n-b-dh",
+      "grammar": "form VIII perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "19:23:8",
+      "word": "مِتُّ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb"
+    },
+    {
+      "ref": "19:29:1",
+      "word": "فَأَشَارَتۡ",
+      "lemma": "أَشارَتْ",
+      "root": "sh-w-r",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "19:33:6",
+      "word": "أَمُوتُ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperfect verb"
+    },
+    {
+      "ref": "19:42:13",
+      "word": "يُغۡنِي",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "19:64:2",
+      "word": "نَتَنَزَّلُ",
+      "lemma": "تَنَزَّلَتْ",
+      "root": "n-z-l",
+      "grammar": "form V imperfect verb"
+    },
+    {
+      "ref": "19:66:5",
+      "word": "مِتُّ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb"
+    },
+    {
+      "ref": "19:68:5",
+      "word": "لَنُحۡضِرَنَّهُمۡ",
+      "lemma": "أَحْضَرَتْ",
+      "root": "h7-d6-r",
+      "grammar": "form IV imperfect verb"
+    },
+    {
+      "ref": "19:87:2",
+      "word": "يَمۡلِكُونَ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "23:6:6",
+      "word": "مَلَكَتۡ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "23:20:6",
+      "word": "تَنۢبُتُ",
+      "lemma": "تَنۢبُتُ",
+      "root": "n-b-t",
+      "grammar": "form I imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "23:35:4",
+      "word": "مِتُّمۡ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "23:37:6",
+      "word": "نَمُوتُ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperfect verb"
+    },
+    {
+      "ref": "23:71:5",
+      "word": "لَفَسَدَتِ",
+      "lemma": "فَسَدَتِ",
+      "root": "f-s-d",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "23:80:4",
+      "word": "وَيُمِيتُ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "23:82:3",
+      "word": "مِتۡنَا",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb"
+    },
+    {
+      "ref": "23:102:2",
+      "word": "ثَقُلَتۡ",
+      "lemma": "ثَقُلَتْ",
+      "root": "th-q-l",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "23:103:2",
+      "word": "خَفَّتۡ",
+      "lemma": "خَفَّتْ",
+      "root": "kh-f-f",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "23:110:8",
+      "word": "تَضۡحَكُونَ",
+      "lemma": "ضَحِكَتْ",
+      "root": "d6-h7-k",
+      "grammar": "form I imperfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "40:11:3",
+      "word": "أَمَتَّنَا",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV perfect verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "40:34:8",
+      "word": "زِلۡتُمۡ",
+      "lemma": "زالَت",
+      "root": "z-y-l",
+      "grammar": "form I perfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "40:68:4",
+      "word": "وَيُمِيتُۖ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "81:1:3",
+      "word": "كُوِّرَتۡ",
+      "lemma": "كُوِّرَتْ",
+      "root": "k-w-r",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "81:2:3",
+      "word": "ٱنكَدَرَتۡ",
+      "lemma": "انكَدَرَتْ",
+      "root": "k-d-r",
+      "grammar": "form VII perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "81:3:3",
+      "word": "سُيِّرَتۡ",
+      "lemma": "سُيِّرَتْ",
+      "root": "s-y-r",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "81:4:3",
+      "word": "عُطِّلَتۡ",
+      "lemma": "عُطِّلَتْ",
+      "root": "3-t6-l",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "81:6:3",
+      "word": "سُجِّرَتۡ",
+      "lemma": "سُجِّرَتْ",
+      "root": "s-j-r",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "81:7:3",
+      "word": "زُوِّجَتۡ",
+      "lemma": "زُوِّجَتْ",
+      "root": "z-w-j",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "81:10:3",
+      "word": "نُشِرَتۡ",
+      "lemma": "نُشِرَتْ",
+      "root": "n-sh-r",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "81:11:3",
+      "word": "كُشِطَتۡ",
+      "lemma": "كُشِطَتْ",
+      "root": "k-sh-t6",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "81:12:3",
+      "word": "سُعِّرَتۡ",
+      "lemma": "سُعِّرَتْ",
+      "root": "s-3-r",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "81:13:3",
+      "word": "أُزۡلِفَتۡ",
+      "lemma": "أُزْلِفَتْ",
+      "root": "z-l-f",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "81:14:4",
+      "word": "أَحۡضَرَتۡ",
+      "lemma": "أَحْضَرَتْ",
+      "root": "h7-d6-r",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "50:3:2",
+      "word": "مِتۡنَا",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb"
+    },
+    {
+      "ref": "50:7:6",
+      "word": "وَأَنۢبَتۡنَا",
+      "lemma": "أَنۢبَتَ",
+      "root": "n-b-t",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "50:9:6",
+      "word": "فَأَنۢبَتۡنَا",
+      "lemma": "أَنۢبَتَ",
+      "root": "n-b-t",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "50:31:1",
+      "word": "وَأُزۡلِفَتِ",
+      "lemma": "أُزْلِفَتْ",
+      "root": "z-l-f",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "50:43:4",
+      "word": "وَنُمِيتُ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV imperfect verb"
+    },
+    {
+      "ref": "21:15:2",
+      "word": "زَالَت",
+      "lemma": "زالَت",
+      "root": "z-y-l",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "21:22:7",
+      "word": "لَفَسَدَتَاۚ",
+      "lemma": "فَسَدَتِ",
+      "root": "f-s-d",
+      "grammar": "form I perfect verb (3rd person feminine dual)"
+    },
+    {
+      "ref": "21:24:7",
+      "word": "هَاتُواْ",
+      "lemma": "هاتُ",
+      "root": "h-a-t",
+      "grammar": "form I imperative verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "21:34:8",
+      "word": "مِّتَّ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I perfect verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "21:40:4",
+      "word": "فَتَبۡهَتُهُمۡ",
+      "lemma": "بُهِتَ",
+      "root": "b-h-t",
+      "grammar": "form I imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "21:78:8",
+      "word": "نَفَشَتۡ",
+      "lemma": "نَفَشَتْ",
+      "root": "n-f-sh",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "21:80:5",
+      "word": "لِتُحۡصِنَكُم",
+      "lemma": "أَحْصَنَتْ",
+      "root": "h7-s6-n",
+      "grammar": "form IV imperfect verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "21:91:2",
+      "word": "أَحۡصَنَتۡ",
+      "lemma": "أَحْصَنَتْ",
+      "root": "h7-s6-n",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "21:102:7",
+      "word": "ٱشۡتَهَتۡ",
+      "lemma": "اشْتَهَتْ",
+      "root": "sh-h-w",
+      "grammar": "form VIII perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "32:13:11",
+      "word": "لَأَمۡلَأَنَّ",
+      "lemma": "مُلِئَتْ",
+      "root": "m-l-a",
+      "grammar": "form I imperfect verb"
+    },
+    {
+      "ref": "51:29:5",
+      "word": "فَصَكَّتۡ",
+      "lemma": "صَكَّتْ",
+      "root": "s6-k-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "51:44:1",
+      "word": "فَعَتَوۡاْ",
+      "lemma": "عَتَ",
+      "root": "3-t-w",
+      "grammar": "form I perfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "51:50:1",
+      "word": "فَفِرُّوٓاْ",
+      "lemma": "فَرَّتْ",
+      "root": "f-r-r",
+      "grammar": "form I imperative verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "57:2:6",
+      "word": "وَيُمِيتُۖ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "57:16:6",
+      "word": "تَخۡشَعَ",
+      "lemma": "خَشَعَتِ",
+      "root": "kh-sh-3",
+      "grammar": "form I imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "57:16:24",
+      "word": "فَقَسَتۡ",
+      "lemma": "قَسَتْ",
+      "root": "q-s-w",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "57:23:5",
+      "word": "فَاتَكُمۡ",
+      "lemma": "فاتَ",
+      "root": "f-w-t",
+      "grammar": "form I perfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "27:10:5",
+      "word": "تَهۡتَزُّ",
+      "lemma": "اهْتَزَّتْ",
+      "root": "h-z-z",
+      "grammar": "form VIII imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "27:14:3",
+      "word": "وَٱسۡتَيۡقَنَتۡهَآ",
+      "lemma": "اسْتَيْقَنَتْ",
+      "root": "y-q-n",
+      "grammar": "form X perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "27:23:4",
+      "word": "تَمۡلِكُهُمۡ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "27:49:4",
+      "word": "لَنُبَيِّتَنَّهُۥ",
+      "lemma": "بَيَّتَ",
+      "root": "b-y-t",
+      "grammar": "form II imperfect verb"
+    },
+    {
+      "ref": "27:58:1",
+      "word": "وَأَمۡطَرۡنَا",
+      "lemma": "أُمْطِرَتْ",
+      "root": "m-t6-r",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "27:60:10",
+      "word": "فَأَنۢبَتۡنَا",
+      "lemma": "أَنۢبَتَ",
+      "root": "n-b-t",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "27:60:19",
+      "word": "تُنۢبِتُواْ",
+      "lemma": "أَنۢبَتَ",
+      "root": "n-b-t",
+      "grammar": "form IV imperfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "27:62:2",
+      "word": "يُجِيبُ",
+      "lemma": "أُجِيبَت",
+      "root": "j-w-b",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "27:64:15",
+      "word": "هَاتُواْ",
+      "lemma": "هاتُ",
+      "root": "h-a-t",
+      "grammar": "form I imperative verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "27:90:4",
+      "word": "فَكُبَّتۡ",
+      "lemma": "كُبَّتْ",
+      "root": "k-b-b",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "14:18:7",
+      "word": "ٱشۡتَدَّتۡ",
+      "lemma": "اشْتَدَّتْ",
+      "root": "sh-d-d",
+      "grammar": "form VIII perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "14:26:6",
+      "word": "ٱجۡتُثَّتۡ",
+      "lemma": "اجْتُثَّتْ",
+      "root": "j-th-th",
+      "grammar": "form VIII perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "14:27:1",
+      "word": "يُثَبِّتُ",
+      "lemma": "ثَبَّتْ",
+      "root": "th-b-t",
+      "grammar": "form II imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "14:44:14",
+      "word": "نُّجِبۡ",
+      "lemma": "أُجِيبَت",
+      "root": "j-w-b",
+      "grammar": "form IV imperfect verb"
+    },
+    {
+      "ref": "84:4:4",
+      "word": "وَتَخَلَّتۡ",
+      "lemma": "تَخَلَّتْ",
+      "root": "kh-l-w",
+      "grammar": "form V perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "7:8:5",
+      "word": "ثَقُلَتۡ",
+      "lemma": "ثَقُلَتْ",
+      "root": "th-q-l",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "7:9:2",
+      "word": "خَفَّتۡ",
+      "lemma": "خَفَّتْ",
+      "root": "kh-f-f",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "7:18:9",
+      "word": "لَأَمۡلَأَنَّ",
+      "lemma": "مُلِئَتْ",
+      "root": "m-l-a",
+      "grammar": "form I imperfect verb"
+    },
+    {
+      "ref": "7:25:5",
+      "word": "تَمُوتُونَ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "7:54:15",
+      "word": "يُغۡشِي",
+      "lemma": "أُغْشِيَتْ",
+      "root": "gh-sh-w",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "7:57:11",
+      "word": "أَقَلَّتۡ",
+      "lemma": "أَقَلَّتْ",
+      "root": "q-l-l",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "7:74:15",
+      "word": "وَتَنۡحِتُونَ",
+      "lemma": "يَنْحِتُ",
+      "root": "n-h7-t",
+      "grammar": "form I imperfect verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "7:77:3",
+      "word": "وَعَتَوۡاْ",
+      "lemma": "عَتَ",
+      "root": "3-t-w",
+      "grammar": "form I perfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "7:84:1",
+      "word": "وَأَمۡطَرۡنَا",
+      "lemma": "أُمْطِرَتْ",
+      "root": "m-t6-r",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "7:150:32",
+      "word": "تُشۡمِتۡ",
+      "lemma": "تُشْمِتْ",
+      "root": "sh-m-t",
+      "grammar": "form IV imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "7:154:2",
+      "word": "سَكَتَ",
+      "lemma": "سَكَتَ",
+      "root": "s-k-t",
+      "grammar": "form I perfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "7:158:19",
+      "word": "وَيُمِيتُۖ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "7:160:16",
+      "word": "فَٱنۢبَجَسَتۡ",
+      "lemma": "انۢبَجَسَتْ",
+      "root": "b-j-s",
+      "grammar": "form VII perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "7:163:20",
+      "word": "يَسۡبِتُونَ",
+      "lemma": "يَسْبِتُ",
+      "root": "s-b-t",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "7:166:2",
+      "word": "عَتَوۡاْ",
+      "lemma": "عَتَ",
+      "root": "3-t-w",
+      "grammar": "form I perfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "7:187:16",
+      "word": "ثَقُلَتۡ",
+      "lemma": "ثَقُلَتْ",
+      "root": "th-q-l",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "7:188:3",
+      "word": "أَمۡلِكُ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb"
+    },
+    {
+      "ref": "7:189:20",
+      "word": "أَثۡقَلَت",
+      "lemma": "أَثْقَلَت",
+      "root": "th-q-l",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "7:204:6",
+      "word": "وَأَنصِتُواْ",
+      "lemma": "أَنصِتُ",
+      "root": "n-s6-t",
+      "grammar": "form IV imperative verb (2nd person masculine plural)"
+    },
+    {
+      "ref": "82:1:3",
+      "word": "ٱنفَطَرَتۡ",
+      "lemma": "انفَطَرَتْ",
+      "root": "f-t6-r",
+      "grammar": "form VII perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "82:2:3",
+      "word": "ٱنتَثَرَتۡ",
+      "lemma": "انتَثَرَتْ",
+      "root": "n-th-r",
+      "grammar": "form VIII perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "82:3:3",
+      "word": "فُجِّرَتۡ",
+      "lemma": "فُجِّرَتْ",
+      "root": "f-j-r",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "82:19:3",
+      "word": "تَمۡلِكُ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "10:22:3",
+      "word": "يُسَيِّرُكُمۡ",
+      "lemma": "سُيِّرَتْ",
+      "root": "s-y-r",
+      "grammar": "form II imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "10:24:22",
+      "word": "وَٱزَّيَّنَتۡ",
+      "lemma": "ازَّيَّنَتْ",
+      "root": "z-y-n",
+      "grammar": "form V perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "10:27:16",
+      "word": "أُغۡشِيَتۡ",
+      "lemma": "أُغْشِيَتْ",
+      "root": "gh-sh-w",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "10:30:6",
+      "word": "أَسۡلَفَتۡۚ",
+      "lemma": "أَسْلَفَتْ",
+      "root": "s-l-f",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "10:31:8",
+      "word": "يَمۡلِكُ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "10:36:9",
+      "word": "يُغۡنِي",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "10:49:3",
+      "word": "أَمۡلِكُ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb"
+    },
+    {
+      "ref": "10:56:3",
+      "word": "وَيُمِيتُ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "10:78:3",
+      "word": "لِتَلۡفِتَنَا",
+      "lemma": "تَلْفِتَ",
+      "root": "l-f-t",
+      "grammar": "form I imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "10:88:18",
+      "word": "ٱطۡمِسۡ",
+      "lemma": "طُمِسَتْ",
+      "root": "t6-m-s",
+      "grammar": "form I imperative verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "10:89:3",
+      "word": "أُجِيبَت",
+      "lemma": "أُجِيبَت",
+      "root": "j-w-b",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "10:101:8",
+      "word": "تُغۡنِي",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "74:31:14",
+      "word": "لِيَسۡتَيۡقِنَ",
+      "lemma": "اسْتَيْقَنَتْ",
+      "root": "y-q-n",
+      "grammar": "form X imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "74:51:1",
+      "word": "فَرَّتۡ",
+      "lemma": "فَرَّتْ",
+      "root": "f-r-r",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "35:13:26",
+      "word": "يَمۡلِكُونَ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "35:36:9",
+      "word": "فَيَمُوتُواْ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "49:14:20",
+      "word": "يَلِتۡكُم",
+      "lemma": "يَلِتْ",
+      "root": "l-y-t",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "15:15:3",
+      "word": "سُكِّرَتۡ",
+      "lemma": "سُكِّرَتْ",
+      "root": "s-k-r",
+      "grammar": "form II perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "15:19:6",
+      "word": "وَأَنۢبَتۡنَا",
+      "lemma": "أَنۢبَتَ",
+      "root": "n-b-t",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "15:23:4",
+      "word": "وَنُمِيتُ",
+      "lemma": "أَماتَ",
+      "root": "m-w-t",
+      "grammar": "form IV imperfect verb"
+    },
+    {
+      "ref": "15:53:3",
+      "word": "تَوۡجَلۡ",
+      "lemma": "وَجِلَتْ",
+      "root": "w-j-l",
+      "grammar": "form I imperfect verb (2nd person masculine singular)"
+    },
+    {
+      "ref": "15:65:9",
+      "word": "يَلۡتَفِتۡ",
+      "lemma": "يَلْتَفِتْ",
+      "root": "l-f-t",
+      "grammar": "form VIII imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "15:74:4",
+      "word": "وَأَمۡطَرۡنَا",
+      "lemma": "أُمْطِرَتْ",
+      "root": "m-t6-r",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "15:82:2",
+      "word": "يَنۡحِتُونَ",
+      "lemma": "يَنْحِتُ",
+      "root": "n-h7-t",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "87:13:3",
+      "word": "يَمُوتُ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "4:3:23",
+      "word": "مَلَكَتۡ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "4:18:17",
+      "word": "يَمُوتُونَ",
+      "lemma": "ماتَ",
+      "root": "m-w-t",
+      "grammar": "form I imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "4:18:21",
+      "word": "أَعۡتَدۡنَا",
+      "lemma": "أَعْتَدَتْ",
+      "root": "3-t-d",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "4:23:14",
+      "word": "أَرۡضَعۡنَكُمۡ",
+      "lemma": "أَرْضَعَتْ",
+      "root": "r-d6-3",
+      "grammar": "form IV perfect verb (3rd person feminine plural)"
+    },
+    {
+      "ref": "4:24:6",
+      "word": "مَلَكَتۡ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "4:25:12",
+      "word": "مَلَكَتۡ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "4:25:36",
+      "word": "أُحۡصِنَّ",
+      "lemma": "أَحْصَنَتْ",
+      "root": "h7-s6-n",
+      "grammar": "form IV perfect verb (3rd person feminine plural)"
+    },
+    {
+      "ref": "4:33:9",
+      "word": "عَقَدَتۡ",
+      "lemma": "عَقَدَتْ",
+      "root": "3-q-d",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "4:36:23",
+      "word": "مَلَكَتۡ",
+      "lemma": "مَلَكَتْ",
+      "root": "m-l-k",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "4:37:12",
+      "word": "وَأَعۡتَدۡنَا",
+      "lemma": "أَعْتَدَتْ",
+      "root": "3-t-d",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "4:47:14",
+      "word": "نَّطۡمِسَ",
+      "lemma": "طُمِسَتْ",
+      "root": "t6-m-s",
+      "grammar": "form I imperfect verb"
+    },
+    {
+      "ref": "4:56:9",
+      "word": "نَضِجَتۡ",
+      "lemma": "نَضِجَتْ",
+      "root": "n-d6-j",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "4:81:7",
+      "word": "بَيَّتَ",
+      "lemma": "بَيَّتَ",
+      "root": "b-y-t",
+      "grammar": "form II perfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "4:81:16",
+      "word": "يُبَيِّتُونَۖ",
+      "lemma": "بَيَّتَ",
+      "root": "b-y-t",
+      "grammar": "form II imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "4:90:11",
+      "word": "حَصِرَتۡ",
+      "lemma": "حَصِرَتْ",
+      "root": "h7-s6-r",
+      "grammar": "form I perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "4:108:11",
+      "word": "يُبَيِّتُونَ",
+      "lemma": "بَيَّتَ",
+      "root": "b-y-t",
+      "grammar": "form II imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "4:127:1",
+      "word": "وَيَسۡتَفۡتُونَكَ",
+      "lemma": "يَسْتَفْتُ",
+      "root": "f-t-y",
+      "grammar": "form X imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "4:128:18",
+      "word": "وَأُحۡضِرَتِ",
+      "lemma": "أَحْضَرَتْ",
+      "root": "h7-d6-r",
+      "grammar": "form IV perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "4:130:3",
+      "word": "يُغۡنِ",
+      "lemma": "أَغْنَتْ",
+      "root": "gh-n-y",
+      "grammar": "form IV imperfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "4:151:5",
+      "word": "وَأَعۡتَدۡنَا",
+      "lemma": "أَعْتَدَتْ",
+      "root": "3-t-d",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "4:161:10",
+      "word": "وَأَعۡتَدۡنَا",
+      "lemma": "أَعْتَدَتْ",
+      "root": "3-t-d",
+      "grammar": "form IV perfect verb"
+    },
+    {
+      "ref": "4:176:1",
+      "word": "يَسۡتَفۡتُونَكَ",
+      "lemma": "يَسْتَفْتُ",
+      "root": "f-t-y",
+      "grammar": "form X imperfect verb (3rd person masculine plural)"
+    },
+    {
+      "ref": "38:3:8",
+      "word": "وَّلَاتَ",
+      "lemma": "لاتَ",
+      "root": "l-w-t",
+      "grammar": "form I perfect verb (3rd person masculine singular)"
+    },
+    {
+      "ref": "38:32:10",
+      "word": "تَوَارَتۡ",
+      "lemma": "تَوارَتْ",
+      "root": "w-r-y",
+      "grammar": "form VI perfect verb (3rd person feminine singular)"
+    },
+    {
+      "ref": "38:85:1",
+      "word": "لَأَمۡلَأَنَّ",
+      "lemma": "مُلِئَتْ",
+      "root": "m-l-a",
+      "grammar": "form I imperfect verb"
+    }
+  ]
+}

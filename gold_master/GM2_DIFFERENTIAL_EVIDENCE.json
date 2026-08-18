@@ -1,0 +1,30 @@
+{
+  "stage": "GM2",
+  "status": "PASS_PART_1",
+  "independent_resources": [
+    {
+      "name": "Quranic Arabic Corpus v0.4",
+      "role": "morphology/root/lemma reference",
+      "notes": "Version 0.4 revised morphology and improved root/lemma consistency."
+    },
+    {
+      "name": "QuranMorph 2025",
+      "role": "independent-team lemma/POS corroboration",
+      "notes": "77,429 words manually lemmatized and POS-tagged by three expert linguists using Qabas."
+    },
+    {
+      "name": "quran-frequencies cross-annotation audit 2026-06-11",
+      "role": "published occurrence-aligned QAC vs QuranMorph comparison",
+      "notes": "50/58 audited selections agree exactly; documented systematic lemma merge/split differences."
+    }
+  ],
+  "new_issue": {
+    "root_bearing_tokens_missing_lemma": 38,
+    "corrected": 38,
+    "remaining": 0
+  },
+  "frequency_anchors_checked": 20,
+  "frequency_anchor_failures": 0,
+  "gm1_arabic_hash_preserved": true,
+  "gm1_token_hash_preserved": true
+}

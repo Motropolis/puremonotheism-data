@@ -19,6 +19,10 @@ stored in the app database.
 Files marked *sample* carry a `_sample` key and show the intended shape. Run
 the build pipeline in `SCHEMA.md` to populate them.
 
+## Arabic text provenance
+
+The current build script reads `ara-quranuthmanihaf.json` (Quran Uthmani Hafs, Version 13). Its upstream edition metadata identifies the source as the King Fahd Quran Complex. Do not describe the current byte-level Arabic build as Tanzil text unless a future build actually consumes a Tanzil text file. Tanzil Uthmani is retained as an independent verification reference.
+
 ## Rules
 
 1. **Never hand-edit generated files.** Fix the build script and re-run.

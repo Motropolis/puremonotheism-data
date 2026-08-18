@@ -1,0 +1,32 @@
+{
+  "stage": "GM13",
+  "status": "GOLD_MASTER_CERTIFIED",
+  "verses": 6236,
+  "tokens": 77430,
+  "quran_roots": 1650,
+  "lexicon_full_roots": 13606,
+  "dictsearch_dangling_refs_removed": 2972,
+  "dictsearch_remaining_dangling_refs": 0,
+  "parallel_edges_checked": 82839,
+  "parallel_reference_failures": 0,
+  "lexicon_quran_frequency_records_corrected": 4,
+  "lemma_occurrence_reference_failures": 0,
+  "primary_generated_layers_zero_drift": [
+    "root",
+    "interlinear",
+    "browse",
+    "search",
+    "suggest"
+  ],
+  "frozen_reference_layers": [
+    "parallels",
+    "dictsearch",
+    "lexicon_full"
+  ],
+  "frozen_reference_files_hashed": 13752,
+  "gm1_arabic_hash_preserved": true,
+  "gm1_token_hash_preserved": true,
+  "final_validation_failures": 0,
+  "certification_scope": "Checked-in canonical Quran corpus and all audited product/reference layers",
+  "known_boundary": "Raw upstream bootstrap remains dependent on external source files; licensing/copyright review remains separate."
+}

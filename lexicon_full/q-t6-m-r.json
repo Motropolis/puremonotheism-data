@@ -1,1 +1,325 @@
-{"root": "q-t6-m-r", "root_ar": "قطمر", "quranic": true, "quran_frequency": 1, "summary": "The root قطمر (qTmr) refers to the thin skin or cleft of a date-stone, or the small white point from which a palm tree grows. It metaphorically signifies something small, mean, or paltry.", "lane": "قطمر\n\nقطمير قِطْمِيرٌ (S, K) and قِطْمَارٌ (K) The _cleft_ (شَقّ) _of a date-stone:_ (M, K:) or the _integument_ (قِشْرَة) _that is upon it_ (فِيهَا): (K:) the _thin skin_ (S, K) _called_ فُوفَة, _which is upon a date-stone,_ (S,) _between the stone and the date itself:_ (K:) or the _white point_ [i. e. the _embryo_] _in the back of the date-stone,_ (S, K,) _from which_ [_when it is sown_] _the palm-tree grows forth._ (S.) === [Hence,] † _A small, mean, paltry, contemptible, thing._ So the former signifies in the Kur, xxxv. 14. One says also مَا أَصَبْتُ مِنْهُ قِطْمِيرًا, meaning, † _I obtained not of him,_ or _it, anything._ (TA.)", "lane_match_type": "root", "classical": [{"id": "ayn", "name": "Kitab al-Ayn", "name_ar": "كتاب العين", "compiler": "al-Khalil ibn Ahmad al-Farahidi", "died": 786, "tier": "earliest-disputed", "source": "OpenITI Shamela0001682-ara1 (Makhzumi & Samarra'i, Dar wa-Maktabat al-Hilal)", "match_type": "root", "entries": [{"headword": "قطمر", "text": "قطمر: القطمير «3» : الذي تعلق به النواة مع القمع إذا أخرجتها من التمر. ويقال: هو السحاة «4» التي تكون بين النواة والتمر."}]}, {"id": "sihah", "name": "al-Sihah", "name_ar": "الصحاح", "compiler": "al-Jawhari", "died": 1002, "tier": "general", "source": "wizsk/arabic_lexicons SQLite", "match_type": "root", "entries": [{"headword": "قطمر", "text": "القِطْميرُ: الفوفَةُ التي في النواة، وهي القشرةُ الرقيقةُ، ويقال هي النُكتة البيضاء التي في ظهر النواة تنبت منها النخلة."}], "suspect": true, "suspect_reason": "headword matches another root page"}, {"id": "mufradat", "name": "Mufradat Alfaz al-Quran", "name_ar": "مفردات ألفاظ القرآن", "compiler": "al-Raghib al-Isfahani", "died": 1108, "tier": "interpretive", "source": "wizsk/arabic_lexicons SQLite", "match_type": "root", "entries": [{"headword": "قطمر", "text": "قال تعالى: ﴿وَالَّذِينَ تَدْعُونَ مِنْ دُونِهِ ما يَمْلِكُونَ مِنْ قِطْمِيرٍ﴾ [فاطر : 13] أي: الأثر في ظهر النّواة، وذلك مثل للشيء الطّفيف."}]}, {"id": "lisan", "name": "Lisan al-Arab", "name_ar": "لسان العرب", "compiler": "Ibn Manzur", "died": 1311, "tier": "general", "source": "wizsk/arabic_lexicons SQLite", "match_type": "root", "entries": [{"headword": "قطمر", "text": "قطمر: القِطْمِيرُ والقِطْمارُ: شَقُّ النَّوَاةِ، وَفِي الصِّحَاحِ: القِطْمِيرُ الفُوفة الَّتِي فِي النَّوَاةِ، وَهِيَ القِشْرة الدَّقِيقَةُ الَّتِي عَلَى النَّوَاةِ بَيْنَ النَّوَاةِ وَالتَّمْرِ، وَيُقَالُ: هِيَ النُّكْتة الْبَيْضَاءُ الَّتِي فِي ظَهْرِ النَّوَاةِ الَّتِي تَنْبُتُ مِنْهَا النَّخْلَةُ. وَمَا أَصبتُ مِنْهُ قِطْميراً أَي شيئاً."}]}], "cap": null, "mentions": {"قطمار": [0], "شق": [0], "قشره": [0], "فيها": [0], "فوفه": [0], "ما اصبت منه قطميرا": [0], "ما": [0], "اصبت": [0], "منه": [0], "قطميرا": [0]}, "headwords": [{"hw": "قِطْمِيرٌ", "keys": ["قطمير"], "gloss": "cleft; of a date-stone; integument", "parts": [{"k": "a", "t": "قِطْمِيرٌ"}, {"k": "p", "t": "(S, K) and"}, {"k": "a", "t": "قِطْمَارٌ"}, {"k": "p", "t": "(K) The"}, {"k": "d", "t": "cleft"}, {"k": "p", "t": "("}, {"k": "a", "t": "شَقّ"}, {"k": "p", "t": ")"}, {"k": "d", "t": "of a date-stone:"}, {"k": "p", "t": "(M, K:) or the"}, {"k": "d", "t": "integument"}, {"k": "p", "t": "("}, {"k": "a", "t": "قِشْرَة"}, {"k": "p", "t": ")"}, {"k": "d", "t": "that is upon it"}, {"k": "p", "t": "("}, {"k": "a", "t": "فِيهَا"}, {"k": "p", "t": "): (K:) the"}, {"k": "d", "t": "thin skin"}, {"k": "p", "t": "(S, K)"}, {"k": "d", "t": "called"}, {"k": "a", "t": "فُوفَة"}, {"k": "p", "t": ","}, {"k": "d", "t": "which is upon a date-stone,"}, {"k": "p", "t": "(S,)"}, {"k": "d", "t": "between the stone and the date itself:"}, {"k": "p", "t": "(K:) or the"}, {"k": "d", "t": "white point"}, {"k": "p", "t": "[i. e. the"}, {"k": "d", "t": "embryo"}, {"k": "p", "t": "]"}, {"k": "d", "t": "in the back of the date-stone,"}, {"k": "p", "t": "(S, K,)"}, {"k": "d", "t": "from which"}, {"k": "p", "t": "["}, {"k": "d", "t": "when it is sown"}, {"k": "p", "t": "]"}, {"k": "d", "t": "the palm-tree grows forth."}, {"k": "p", "t": "(S.) [Hence,]"}, {"k": "p", "t": "(assumed tropical:)"}, {"k": "d", "t": "A small, mean, paltry, contemptible, thing."}, {"k": "p", "t": "So the former signifies in the Kur, xxxv. 14. One says also"}, {"k": "a", "t": "مَا أَصَبْتُ مِنْهُ قِطْمِيرًا"}, {"k": "p", "t": ", meaning,"}, {"k": "p", "t": "(assumed tropical:)"}, {"k": "d", "t": "I obtained not of him,"}, {"k": "p", "t": "or"}, {"k": "d", "t": "it, anything."}, {"k": "p", "t": "(TA.)"}], "def": "قِطْمِيرٌ (S, K) and قِطْمَارٌ (K) The cleft ( شَقّ ) of a date-stone: (M, K:) or the integument ( قِشْرَة ) that is upon it ( فِيهَا ): (K:) the thin skin (S, K) called فُوفَة , which is upon a date-stone, (S,) between the stone and the date itself: (K:) or the white point [i. e. the embryo ] in the back of the date-stone, (S, K,) from which [ when it is sown ] the palm-tree grows forth. (S.) [Hence,] (assumed tropical:) A small, mean, paltry, contemptible, thing. So the former signifies in the Kur, xxxv. 14. One says also مَا أَصَبْتُ مِنْهُ قِطْمِيرًا , meaning, (assumed tropical:) I obtained not of him, or it, anything. (TA.)", "auth": ["S", "K"]}], "parts_note": "parts[].k: d=Lane's English rendering, a=Arabic, p=apparatus/citation", "headword_note": "Lane indexes geminate roots with two letters where the Corpus uses three; both spellings are resolved here. Kitab al-Ayn does the same, and also files some weak roots under a different third radical; those are resolved against the Corpus spelling and the al-Ayn headword is kept in the entry.", "lane_source": "wizsk/arabic_lexicons SQLite (Lane's Arabic-English Lexicon, 1863-93, public domain)", "lane_format": "plain text; Lane's italics preserved as _emphasis_, verse quotations on their own lines"}
+{
+  "root": "q-t6-m-r",
+  "root_ar": "قطمر",
+  "quranic": true,
+  "quran_frequency": 1,
+  "summary": "The root قطمر (qTmr) refers to the thin skin or cleft of a date-stone, or the small white point from which a palm tree grows. It metaphorically signifies something small, mean, or paltry.",
+  "lane": "قطمر\n\nقطمير قِطْمِيرٌ (S, K) and قِطْمَارٌ (K) The _cleft_ (شَقّ) _of a date-stone:_ (M, K:) or the _integument_ (قِشْرَة) _that is upon it_ (فِيهَا): (K:) the _thin skin_ (S, K) _called_ فُوفَة, _which is upon a date-stone,_ (S,) _between the stone and the date itself:_ (K:) or the _white point_ [i. e. the _embryo_] _in the back of the date-stone,_ (S, K,) _from which_ [_when it is sown_] _the palm-tree grows forth._ (S.) === [Hence,] † _A small, mean, paltry, contemptible, thing._ So the former signifies in the Kur, xxxv. 14. One says also مَا أَصَبْتُ مِنْهُ قِطْمِيرًا, meaning, † _I obtained not of him,_ or _it, anything._ (TA.)",
+  "lane_match_type": "root",
+  "classical": [
+    {
+      "id": "ayn",
+      "name": "Kitab al-Ayn",
+      "name_ar": "كتاب العين",
+      "compiler": "al-Khalil ibn Ahmad al-Farahidi",
+      "died": 786,
+      "tier": "earliest-disputed",
+      "source": "OpenITI Shamela0001682-ara1 (Makhzumi & Samarra'i, Dar wa-Maktabat al-Hilal)",
+      "match_type": "root",
+      "entries": [
+        {
+          "headword": "قطمر",
+          "text": "قطمر: القطمير «3» : الذي تعلق به النواة مع القمع إذا أخرجتها من التمر. ويقال: هو السحاة «4» التي تكون بين النواة والتمر."
+        }
+      ]
+    },
+    {
+      "id": "sihah",
+      "name": "al-Sihah",
+      "name_ar": "الصحاح",
+      "compiler": "al-Jawhari",
+      "died": 1002,
+      "tier": "general",
+      "source": "wizsk/arabic_lexicons SQLite",
+      "match_type": "filed-under-reviewed",
+      "entries": [
+        {
+          "headword": "قطمر",
+          "text": "القِطْميرُ: الفوفَةُ التي في النواة، وهي القشرةُ الرقيقةُ، ويقال هي النُكتة البيضاء التي في ظهر النواة تنبت منها النخلة."
+        }
+      ],
+      "filed_under": "قطمير"
+    },
+    {
+      "id": "mufradat",
+      "name": "Mufradat Alfaz al-Quran",
+      "name_ar": "مفردات ألفاظ القرآن",
+      "compiler": "al-Raghib al-Isfahani",
+      "died": 1108,
+      "tier": "interpretive",
+      "source": "wizsk/arabic_lexicons SQLite",
+      "match_type": "root",
+      "entries": [
+        {
+          "headword": "قطمر",
+          "text": "قال تعالى: ﴿وَالَّذِينَ تَدْعُونَ مِنْ دُونِهِ ما يَمْلِكُونَ مِنْ قِطْمِيرٍ﴾ [فاطر : 13] أي: الأثر في ظهر النّواة، وذلك مثل للشيء الطّفيف."
+        }
+      ]
+    },
+    {
+      "id": "lisan",
+      "name": "Lisan al-Arab",
+      "name_ar": "لسان العرب",
+      "compiler": "Ibn Manzur",
+      "died": 1311,
+      "tier": "general",
+      "source": "wizsk/arabic_lexicons SQLite",
+      "match_type": "root",
+      "entries": [
+        {
+          "headword": "قطمر",
+          "text": "قطمر: القِطْمِيرُ والقِطْمارُ: شَقُّ النَّوَاةِ، وَفِي الصِّحَاحِ: القِطْمِيرُ الفُوفة الَّتِي فِي النَّوَاةِ، وَهِيَ القِشْرة الدَّقِيقَةُ الَّتِي عَلَى النَّوَاةِ بَيْنَ النَّوَاةِ وَالتَّمْرِ، وَيُقَالُ: هِيَ النُّكْتة الْبَيْضَاءُ الَّتِي فِي ظَهْرِ النَّوَاةِ الَّتِي تَنْبُتُ مِنْهَا النَّخْلَةُ. وَمَا أَصبتُ مِنْهُ قِطْميراً أَي شيئاً."
+        }
+      ]
+    }
+  ],
+  "cap": null,
+  "mentions": {
+    "قطمار": [
+      0
+    ],
+    "شق": [
+      0
+    ],
+    "قشره": [
+      0
+    ],
+    "فيها": [
+      0
+    ],
+    "فوفه": [
+      0
+    ],
+    "ما اصبت منه قطميرا": [
+      0
+    ],
+    "ما": [
+      0
+    ],
+    "اصبت": [
+      0
+    ],
+    "منه": [
+      0
+    ],
+    "قطميرا": [
+      0
+    ]
+  },
+  "headwords": [
+    {
+      "hw": "قِطْمِيرٌ",
+      "keys": [
+        "قطمير"
+      ],
+      "gloss": "cleft; of a date-stone; integument",
+      "parts": [
+        {
+          "k": "a",
+          "t": "قِطْمِيرٌ"
+        },
+        {
+          "k": "p",
+          "t": "(S, K) and"
+        },
+        {
+          "k": "a",
+          "t": "قِطْمَارٌ"
+        },
+        {
+          "k": "p",
+          "t": "(K) The"
+        },
+        {
+          "k": "d",
+          "t": "cleft"
+        },
+        {
+          "k": "p",
+          "t": "("
+        },
+        {
+          "k": "a",
+          "t": "شَقّ"
+        },
+        {
+          "k": "p",
+          "t": ")"
+        },
+        {
+          "k": "d",
+          "t": "of a date-stone:"
+        },
+        {
+          "k": "p",
+          "t": "(M, K:) or the"
+        },
+        {
+          "k": "d",
+          "t": "integument"
+        },
+        {
+          "k": "p",
+          "t": "("
+        },
+        {
+          "k": "a",
+          "t": "قِشْرَة"
+        },
+        {
+          "k": "p",
+          "t": ")"
+        },
+        {
+          "k": "d",
+          "t": "that is upon it"
+        },
+        {
+          "k": "p",
+          "t": "("
+        },
+        {
+          "k": "a",
+          "t": "فِيهَا"
+        },
+        {
+          "k": "p",
+          "t": "): (K:) the"
+        },
+        {
+          "k": "d",
+          "t": "thin skin"
+        },
+        {
+          "k": "p",
+          "t": "(S, K)"
+        },
+        {
+          "k": "d",
+          "t": "called"
+        },
+        {
+          "k": "a",
+          "t": "فُوفَة"
+        },
+        {
+          "k": "p",
+          "t": ","
+        },
+        {
+          "k": "d",
+          "t": "which is upon a date-stone,"
+        },
+        {
+          "k": "p",
+          "t": "(S,)"
+        },
+        {
+          "k": "d",
+          "t": "between the stone and the date itself:"
+        },
+        {
+          "k": "p",
+          "t": "(K:) or the"
+        },
+        {
+          "k": "d",
+          "t": "white point"
+        },
+        {
+          "k": "p",
+          "t": "[i. e. the"
+        },
+        {
+          "k": "d",
+          "t": "embryo"
+        },
+        {
+          "k": "p",
+          "t": "]"
+        },
+        {
+          "k": "d",
+          "t": "in the back of the date-stone,"
+        },
+        {
+          "k": "p",
+          "t": "(S, K,)"
+        },
+        {
+          "k": "d",
+          "t": "from which"
+        },
+        {
+          "k": "p",
+          "t": "["
+        },
+        {
+          "k": "d",
+          "t": "when it is sown"
+        },
+        {
+          "k": "p",
+          "t": "]"
+        },
+        {
+          "k": "d",
+          "t": "the palm-tree grows forth."
+        },
+        {
+          "k": "p",
+          "t": "(S.) [Hence,]"
+        },
+        {
+          "k": "p",
+          "t": "(assumed tropical:)"
+        },
+        {
+          "k": "d",
+          "t": "A small, mean, paltry, contemptible, thing."
+        },
+        {
+          "k": "p",
+          "t": "So the former signifies in the Kur, xxxv. 14. One says also"
+        },
+        {
+          "k": "a",
+          "t": "مَا أَصَبْتُ مِنْهُ قِطْمِيرًا"
+        },
+        {
+          "k": "p",
+          "t": ", meaning,"
+        },
+        {
+          "k": "p",
+          "t": "(assumed tropical:)"
+        },
+        {
+          "k": "d",
+          "t": "I obtained not of him,"
+        },
+        {
+          "k": "p",
+          "t": "or"
+        },
+        {
+          "k": "d",
+          "t": "it, anything."
+        },
+        {
+          "k": "p",
+          "t": "(TA.)"
+        }
+      ],
+      "def": "قِطْمِيرٌ (S, K) and قِطْمَارٌ (K) The cleft ( شَقّ ) of a date-stone: (M, K:) or the integument ( قِشْرَة ) that is upon it ( فِيهَا ): (K:) the thin skin (S, K) called فُوفَة , which is upon a date-stone, (S,) between the stone and the date itself: (K:) or the white point [i. e. the embryo ] in the back of the date-stone, (S, K,) from which [ when it is sown ] the palm-tree grows forth. (S.) [Hence,] (assumed tropical:) A small, mean, paltry, contemptible, thing. So the former signifies in the Kur, xxxv. 14. One says also مَا أَصَبْتُ مِنْهُ قِطْمِيرًا , meaning, (assumed tropical:) I obtained not of him, or it, anything. (TA.)",
+      "auth": [
+        "S",
+        "K"
+      ]
+    }
+  ],
+  "parts_note": "parts[].k: d=Lane's English rendering, a=Arabic, p=apparatus/citation",
+  "headword_note": "Lane indexes geminate roots with two letters where the Corpus uses three; both spellings are resolved here. Kitab al-Ayn does the same, and also files some weak roots under a different third radical; those are resolved against the Corpus spelling and the al-Ayn headword is kept in the entry.",
+  "lane_source": "wizsk/arabic_lexicons SQLite (Lane's Arabic-English Lexicon, 1863-93, public domain)",
+  "lane_format": "plain text; Lane's italics preserved as _emphasis_, verse quotations on their own lines"
+}

@@ -1,0 +1,16 @@
+{
+  "stage": "GM12",
+  "deterministic_now": [
+    "root",
+    "interlinear",
+    "browse",
+    "search",
+    "suggest"
+  ],
+  "remaining_without_builder": [
+    "parallels",
+    "dictsearch",
+    "parts of lexicon/lemma"
+  ],
+  "generated_files_hashed": 1909
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "case": "يَوْم / يَوْمَئِذ",
+    "decision": "retain PureMonotheism grouping for now",
+    "reason": "QAC-style resources can split إذ from يومئذ; this is a lemma-boundary convention, not a proven error. Preserve until token-segmentation model is globally redesigned."
+  },
+  {
+    "case": "ما",
+    "decision": "retain mixed coarse POS",
+    "reason": "The same written lemma functions as relative/interrogative nominal forms and as negative/other particles; mixed N/P is linguistically motivated."
+  },
+  {
+    "case": "إذا",
+    "decision": "retain current coarse POS distinctions",
+    "reason": "QAC treats إذا as a time adverb in many contexts; PureMonotheism coarse schema does not have a dedicated T tag, so N/P mapping is schema-dependent."
+  },
+  {
+    "case": "لما",
+    "decision": "retain mixed coarse POS",
+    "reason": "Temporal/subordinating and negative uses differ; collapsing to one POS would erase grammatical distinctions."
+  },
+  {
+    "case": "نعم",
+    "decision": "retain noun/particle distinction",
+    "reason": "نَعَم 'yes' is a particle, while root-related nominal/verbal forms belong to separate lexical analyses."
+  },
+  {
+    "case": "أَحْصَى 18:12",
+    "decision": "retain N",
+    "reason": "Independent QAC analysis treats it as a nominative masculine noun/elative 'best calculated', so minority N is not an error."
+  },
+  {
+    "case": "ضارّ active participles",
+    "decision": "retain N",
+    "reason": "Independent morphology treats participles as derived nominals even when semantically verbal."
+  },
+  {
+    "case": "شَوَى",
+    "decision": "retain split",
+    "reason": "70:16 الشوى is a noun 'skin/scalp' while the verbal homograph is distinct; POS divergence is legitimate."
+  }
+]

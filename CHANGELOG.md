@@ -1,5 +1,15 @@
 # Changelog
 
+## v4.0.1 / GM14 — 2026-08-18
+
+### Regression corrections
+- Restored eight continuative `ما زال / لا يزال` tokens from `z-w-l` to `z-y-l`.
+- Canonical counts are now `z-w-l = 4` and `z-y-l = 10`.
+- Regenerated root, browse, search, suggestion, and interlinear downstream artifacts.
+- Regenerated `meta/roots-index.json` from active `root/` files; removed dangling `l-w-t` active-root entry and set active root count to 1,650.
+- Added `qa/rebuild_meta_roots_index.py` and made the active root index part of the generated-data rebuild gate.
+
+
 ## RC1 — 2026-08-18
 
 First corpus release candidate after structured technical and linguistic QA.

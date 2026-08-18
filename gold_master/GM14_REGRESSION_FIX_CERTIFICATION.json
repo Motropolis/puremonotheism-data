@@ -1,0 +1,15 @@
+{
+  "release": "v4.0.1",
+  "gold_master_stage": "GM14",
+  "status": "PASS",
+  "audit_findings_addressed": 3,
+  "continuative_tokens_restored_to_z_y_l": 8,
+  "z_w_l_count": 4,
+  "z_y_l_count": 10,
+  "active_root_index_count": 1650,
+  "l_w_t_active_root_index_entry": false,
+  "l_w_t_classical_full_lexicon_retained": true,
+  "meta_root_index_now_generated_from_active_root_files": true,
+  "gm14_validation_failures": 0,
+  "gm1_arabic_and_token_hashes_preserved": true
+}

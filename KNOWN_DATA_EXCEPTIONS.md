@@ -17,3 +17,6 @@ Botanical, anatomical, medical, idiomatic, and other remote classical senses are
 
 ## Copyright/licensing
 Not part of RC1 technical/linguistic certification and still requires separate review.
+
+## Continuative زَالَ / يَزَالُ
+The continuative defective verb used with negation, as in `مَا زَالَ` and `لَا يَزَالُ`, is assigned to `z-y-l` (زيل), following Lane's explicit treatment in the زيل article and the Quranic Arabic Corpus convention. Ordinary cessation/movement forms such as 14:46 and 35:41 remain under `z-w-l` (زول). Gold Master GM14 restored eight continuative tokens that had been incorrectly reassigned to `z-w-l` during an earlier audit phase.
